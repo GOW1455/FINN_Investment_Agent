@@ -1,0 +1,1060 @@
+{
+ "version": 5,
+ "symbol": "IRCTC",
+ "name": "IRCTC",
+ "generated_at": "2026-11-13 01:46",
+ "top_ratios": {
+  "Market Cap": "₹ 37,664 Cr.",
+  "Current Price": "₹ 471",
+  "High / Low": "₹ 721 / 435",
+  "Stock P/E": "27.3",
+  "Book Value": "₹ 53.9",
+  "Dividend Yield": "1.91 %",
+  "ROCE": "46.1 %",
+  "ROE": "34.7 %",
+  "Face Value": "₹ 2.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 37,664 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 27.3"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 53.9"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 1.91 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 46.1 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 34.7 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY23 3,541 | FY24 4,260 | FY25 4,675 | FY26 5,215"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY23 36 | FY24 34 | FY25 33 | FY26 32"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY23 1,006 | FY24 1,111 | FY25 1,315 | FY26 1,393"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY23 12.6 | FY24 13.9 | FY25 16.4 | FY26 17.4"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 13.8%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 11.5%"
+  },
+  {
+   "id": "N13",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹5,425 cr, net profit ₹1,393 cr"
+  },
+  {
+   "id": "N14",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY23 84 | FY24 60 | FY25 90 | FY26 81"
+  },
+  {
+   "id": "N15",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY23 2,478 | FY24 3,230 | FY25 3,663 | FY26 4,309"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY23 0 | FY24 0 | FY25 0 | FY26 0"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY23 34 | FY24 443 | FY25 27 | FY26 42"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY23 351 | FY24 343 | FY25 813 | FY26 839"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY23 89 | FY24 82.7 | FY25 108 | FY26 108"
+  },
+  {
+   "id": "N20",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY23 812 | FY24 882 | FY25 833 | FY26 1,273"
+  },
+  {
+   "id": "N21",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY23 -317 | FY24 -200 | FY25 -258 | FY26 -446"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY23 744 | FY24 650 | FY25 786 | FY26 1,196"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY23–FY26: cumulative cash from operations is 79% of cumulative net profit"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY23 118 | FY24 118 | FY25 135 | FY26 132"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY23 18 | FY24 16 | FY25 15 | FY26 n/a"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY23 1,595 | FY24 1,484 | FY25 1,371 | FY26 n/a"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY23 -1,459 | FY24 -1,350 | FY25 -1,221 | FY26 132"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY23 3 | FY24 20 | FY25 56 | FY26 40"
+  },
+  {
+   "id": "N29",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY23 n/a | FY24 54 | FY25 49 | FY26 46"
+  },
+  {
+   "id": "N30",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Sep 2024 1,064 | Dec 2024 1,225 | FY25 1,269 | Jun 2025 1,160 | Sep 2025 1,146 | Dec 2025 1,449 | FY26 1,460 | Jun 2026 1,370"
+  },
+  {
+   "id": "N31",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Sep 2024 35 | Dec 2024 34 | FY25 30 | Jun 2025 34 | Sep 2025 35 | Dec 2025 32 | FY26 27 | Jun 2026 28"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Sep 2024 308 | Dec 2024 341 | FY25 358 | Jun 2025 331 | Sep 2025 342 | Dec 2025 394 | FY26 326 | Jun 2026 330"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Jun 2025 3.8 | Sep 2025 7.7 | Dec 2025 18.3 | Mar 2026 15.1 | Jun 2026 18.1"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Jun 2025 7.5 | Sep 2025 11 | Dec 2025 15.5 | Mar 2026 -8.9 | Jun 2026 -0.3"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Operating margin moved -6.0 percentage points, Jun 2025 to Jun 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/IRCTC/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/677a48a0-7237-4f0c-bb99-06c3edfb1d4c.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87a3947a-975c-43aa-b153-218d6518615c.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0b914f14-22d6-44be-b3bb-8d31b83e4499.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cfad47d-e4a8-47fe-a883-38462f3036c3.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ce0acc5-6b05-46de-9e10-a8c90fd96325.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p24",
+   "name": "Kabir Sethi",
+   "headline": "Head of Tourism Products, ex-IRCTC",
+   "relation": "College friend",
+   "strength": 3,
+   "last_contact": "2026-01-05",
+   "days_since_contact": 312,
+   "score": 76.4,
+   "angle": "alumnus",
+   "why": "Deputy GM, Internet Ticketing at IRCTC (2011–2020)",
+   "knows": "How IRCTC runs from the inside: people, culture, execution."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company operates an integrated service ecosystem that supports passengers throughout their travel journey. It combines Internet Ticketing, Catering, Tourism, and Rail Neer to deliver seamless travel experiences.",
+   "cites": [
+    "A:13"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Internet Ticketing",
+    "text": "This segment focuses on online ticket booking services for passengers. It has seen an increase in the share of reserved rail tickets booked online.",
+    "cites": [
+     "A:55"
+    ]
+   },
+   {
+    "name": "Catering",
+    "text": "The catering business provides food and hospitality services through trains and railway stations. It includes mobile, static, and e-catering services.",
+    "cites": [
+     "A:13"
+    ]
+   },
+   {
+    "name": "Tourism",
+    "text": "This segment offers travel and tourism services, enhancing the overall travel experience for passengers.",
+    "cites": [
+     "A:13"
+    ]
+   },
+   {
+    "name": "Rail Neer",
+    "text": "Rail Neer is the bottled water segment, ensuring quality drinking water for passengers during their journey.",
+    "cites": [
+     "A:13"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market capitalization is ₹37,664 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 27.3.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is 1.91%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue grew from ₹4,675 Cr in FY25 to ₹5,215 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹1,315 Cr in FY25 to ₹1,393 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth was 18.1% year on year in Jun 2026.",
+    "cites": [
+     "N33"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Total borrowings were ₹81 Cr in FY26.",
+    "cites": [
+     "N14"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio remains at 0 across the last four fiscal years.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Shareholders' equity increased to ₹4,309 Cr in FY26.",
+    "cites": [
+     "N15"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cash from operations rose to ₹1,273 Cr in FY26.",
+    "cites": [
+     "N20"
+    ]
+   },
+   {
+    "text": "Free cash flow reached ₹1,196 Cr in FY26.",
+    "cites": [
+     "N22"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations is 79% of cumulative net profit over FY23–FY26.",
+    "cites": [
+     "N23"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We aim to sustain our growth momentum.",
+   "quote": "We remain confident that our strong financial position, resilient business model, and focus on operational excellence will enable us to sustain our growth momentum.",
+   "cite": "C1:4",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We are augmenting existing capacity and introducing new plants.",
+   "quote": "The augmentation of the existing capacity for which Ambernath, we are going from 2 lakh bottles to 3 lakh. For Danapur, we are trying to increase from 1 lakh to 2 lakh bottles per day.",
+   "cite": "C1:6",
+   "horizon": "by FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "capacity",
+   "statement": "New plants will be established to meet demand.",
+   "quote": "We are coming with upcoming four new plants, Prayagraj, Mysore, Ranchi, and Bhagalpur.",
+   "cite": "C1:6",
+   "horizon": "by FY28",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "margins",
+   "statement": "We expect to maintain catering margins between 10% to 12%.",
+   "quote": "The catering margin traditionally have been between 10% to 12%. So we will try to maintain that.",
+   "cite": "C1:13",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "capex",
+   "statement": "We are investing in technology upgrades.",
+   "quote": "Around INR150 crores has been infused into it.",
+   "cite": "C1:11",
+   "horizon": "ongoing",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "growth",
+   "statement": "Tourism revenue is expected to cross INR1,000 crores next year.",
+   "quote": "Tourism is going to grow leaps and bounds. It has grown from INR745 crores to INR890 crores, and next year it may cross INR1,000 plus crores.",
+   "cite": "C1:16",
+   "horizon": "by FY28",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [],
+   "id": "G6"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are looking to maintain around 20% growth in tourism.",
+   "quote": "this year we are looking to 19% should continue to be around 20%",
+   "cite": "C2:12",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "margin",
+   "statement": "We are aspiring to maintain 30% EBITDA margin.",
+   "quote": "we will maintain 30%",
+   "cite": "C2:7",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We are expanding Rail Neer plants and adding four new ones.",
+   "quote": "we are planning to have four additional Rail Neer plans, expansion of existing two Rail Neer plans",
+   "cite": "C2:7",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "capex",
+   "statement": "We are investing in our e-ticketing platform for better security and convenience.",
+   "quote": "we are basically trying to invest into our platform",
+   "cite": "C2:7",
+   "horizon": "next two years",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect catering revenue to maintain around 15% growth.",
+   "quote": "catering it will continue to maintain around 15%",
+   "cite": "C2:12",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "growth",
+   "statement": "We aim for IT business growth of around 10%.",
+   "quote": "we want to maintain that",
+   "cite": "C2:12",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are targeting to achieve 15% sustainable growth this year.",
+   "quote": "We are targeting to achieve 15% sustainable growth this year.",
+   "cite": "C3:7",
+   "horizon": "FY26",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We'll be adding around 25% to 30% capacity in say -- in 1.5 years.",
+   "quote": "we'll be adding around 25% to 30% capacity in say -- in 1.5 years.",
+   "cite": "C3:6",
+   "horizon": "1.5 years",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "growth",
+   "statement": "260 Vande Bharat train sets are getting introduced.",
+   "quote": "they are going to introduce 260 Vande Bharat train sets.",
+   "cite": "C3:5",
+   "horizon": "FY27 and FY28",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "other",
+   "statement": "We will be submitting the documents at the earliest.",
+   "quote": "most likely we'll be submitting the documents at the earliest.",
+   "cite": "C3:5",
+   "horizon": "by August 2026",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "growth",
+   "statement": "We remain confident of sustaining our business growth trajectory in the coming quarters.",
+   "quote": "We remain confident of sustaining our business growth trajectory in the coming quarters.",
+   "cite": "C4:4",
+   "horizon": "next two quarters",
+   "kind": "directional",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We will be very soon starting the Bilaspur plant, adding capacity of 72,000 bottles per day.",
+   "quote": "we will be very soon starting the Bilaspur plant. So, that will add capacity of 72,000 bottles per day.",
+   "cite": "C4:8",
+   "horizon": "next 12 months",
+   "kind": "numeric",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We are also hoping to install four more plants across India.",
+   "quote": "we are also hoping to install four more plants across India.",
+   "cite": "C4:8",
+   "horizon": "next fiscal",
+   "kind": "directional",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "id": "G19"
+  },
+  {
+   "metric": "other",
+   "statement": "We aspire to cross-sell the product to our existing customers and to the additional customers.",
+   "quote": "we aspire to cross-sell the product to our existing customers and to the additional customers.",
+   "cite": "C4:5",
+   "horizon": "by when, unspecified",
+   "kind": "directional",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "id": "G20"
+  },
+  {
+   "metric": "other",
+   "statement": "We will submit our proposal application for acquiring license by the end of January.",
+   "quote": "we will be able to submit by the end of January.",
+   "cite": "C4:5",
+   "horizon": "by January 2026",
+   "kind": "directional",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026"
+   ],
+   "id": "G21"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87a3947a-975c-43aa-b153-218d6518615c.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about future growth and operational improvements.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the impact of HR costs on margins.",
+     "cites": [
+      "C1:13"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the timeline for new plant operations.",
+     "cites": [
+      "C1:6"
+     ]
+    },
+    {
+     "text": "Analysts pressed on the sustainability of non-convenience fee revenue.",
+     "cites": [
+      "C1:15"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0b914f14-22d6-44be-b3bb-8d31b83e4499.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded confident about future growth and operational improvements.",
+   "pressure": [
+    {
+     "text": "Analysts questioned about margin compression and future pricing strategies.",
+     "cites": [
+      "C2:8",
+      "C2:9"
+     ]
+    },
+    {
+     "text": "Analysts inquired about capital allocation priorities and dividend policies.",
+     "cites": [
+      "C2:7"
+     ]
+    },
+    {
+     "text": "Analysts pressed on the expansion plans for Rail Neer and operational efficiencies.",
+     "cites": [
+      "C2:14"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cfad47d-e4a8-47fe-a883-38462f3036c3.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded confident about growth prospects and operational efficiency.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the growth outlook for catering and tourism segments.",
+     "cites": [
+      "C3:5",
+      "C3:6"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the timelines for new projects and capacity expansions.",
+     "cites": [
+      "C3:6"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the impact of new train introductions on revenue.",
+     "cites": [
+      "C3:5"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Nov 2025",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ce0acc5-6b05-46de-9e10-a8c90fd96325.pdf",
+   "quarter": "Q2 FY26",
+   "tone": "Management sounded optimistic about future growth and operational improvements.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the company's growth strategies and margin management.",
+     "cites": [
+      "C4:5",
+      "C4:10"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G7",
+   "promise": "We are looking to maintain around 20% growth in tourism.",
+   "quote": "this year we are looking to 19% should continue to be around 20%",
+   "said_in": "May 2026",
+   "promise_cite": "C2:12",
+   "horizon": "FY27",
+   "delivered": "Tourism revenue grew from INR745 crores to INR890 crores, indicating growth but not confirming 20% for FY27 yet.",
+   "verdict": "too_early",
+   "cites": [
+    "N7"
+   ]
+  },
+  {
+   "guidance": "G8",
+   "promise": "We are aspiring to maintain 30% EBITDA margin.",
+   "quote": "we will maintain 30%",
+   "said_in": "May 2026",
+   "promise_cite": "C2:7",
+   "horizon": "FY27",
+   "delivered": "Operating margin was 28% in Jun 2026, below the 30% target.",
+   "verdict": "missed",
+   "cites": [
+    "N31"
+   ]
+  },
+  {
+   "guidance": "G13",
+   "promise": "We are targeting to achieve 15% sustainable growth this year.",
+   "quote": "We are targeting to achieve 15% sustainable growth this year.",
+   "said_in": "Feb 2026",
+   "promise_cite": "C3:7",
+   "horizon": "FY26",
+   "delivered": "Annual revenue growth was 11.5% in FY26, below the 15% target.",
+   "verdict": "missed",
+   "cites": [
+    "N7",
+    "N12"
+   ]
+  },
+  {
+   "guidance": "G17",
+   "promise": "We remain confident of sustaining our business growth trajectory in the coming quarters.",
+   "quote": "We remain confident of sustaining our business growth trajectory in the coming quarters.",
+   "said_in": "Nov 2025",
+   "promise_cite": "C4:4",
+   "horizon": "next two quarters",
+   "delivered": "Quarterly revenue growth was 18.1% in Jun 2026, indicating sustained growth.",
+   "verdict": "delivered",
+   "cites": [
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G2",
+   "promise": "We are augmenting existing capacity and introducing new plants.",
+   "quote": "The augmentation of the existing capacity for which Ambernath, we are going from 2 lakh bottles to 3 lakh. For Danapur, we are trying to increase from 1 lakh to 2 lakh bottles per day.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C1:6",
+   "horizon": "by FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G5",
+   "promise": "We are investing in technology upgrades.",
+   "quote": "Around INR150 crores has been infused into it.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C1:11",
+   "horizon": "ongoing",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G6",
+   "promise": "Tourism revenue is expected to cross INR1,000 crores next year.",
+   "quote": "Tourism is going to grow leaps and bounds. It has grown from INR745 crores to INR890 crores, and next year it may cross INR1,000 plus crores.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C1:16",
+   "horizon": "by FY28",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 1,
+  "partly": 0,
+  "missed": 2,
+  "too_early": 4
+ },
+ "divergences": [
+  {
+   "text": "Operating margin was expected to be maintained at 30%, but it was 28% in Jun 2026.",
+   "cites": [
+    "G8",
+    "N31"
+   ]
+  },
+  {
+   "text": "Annual revenue growth target of 15% was not met, with only 11.5% achieved in FY26.",
+   "cites": [
+    "G13",
+    "N12"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "How is the growth in specific segments like catering and IT being tracked, given the lack of detailed segment data?",
+   "answer": "The evidence does not provide specific segment data for catering and IT. Therefore, growth in these segments cannot be tracked based on the available information.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to address the shortfall in operating margin targets?",
+   "answer": "Management has not explicitly outlined a plan to address the shortfall in operating margin targets. They have stated aspirations to maintain a 30% EBITDA margin and are investing in technology upgrades, which may contribute to operational improvements.",
+   "cites": [
+    "G8",
+    "G5"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "IRCTC shows strong revenue growth but misses some margin targets.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of sustained growth is supported by an 18.1% year-on-year revenue increase in the latest quarter. However, they missed their operating margin target, achieving 28% instead of the promised 30%.",
+   "cites": [
+    "G8",
+    "N31",
+    "N33"
+   ]
+  },
+  "bull": [
+   {
+    "text": "IRCTC achieved a strong 18.1% year-on-year revenue growth in the latest quarter.",
+    "cites": [
+     "N33"
+    ]
+   },
+   {
+    "text": "The company maintains a debt-to-equity ratio of 0, indicating strong financial health.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Free cash flow increased significantly to ₹1,196 Cr in FY26, showing improved cash generation.",
+    "cites": [
+     "N22"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "IRCTC missed its target of maintaining a 30% EBITDA margin, achieving only 28% in Jun 2026.",
+    "cites": [
+     "G8",
+     "N31"
+    ]
+   },
+   {
+    "text": "The annual revenue growth of 11.5% in FY26 fell short of the 15% target.",
+    "cites": [
+     "G13",
+     "N7",
+     "N12"
+    ]
+   },
+   {
+    "text": "Net profit growth was nearly flat in the latest quarter, with a year-on-year increase of only -0.3%.",
+    "cites": [
+     "N34"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How does management plan to address the shortfall in operating margin targets?",
+   "What specific measures are being taken to achieve the promised 20% growth in tourism revenue?",
+   "Can management provide more details on the progress of technology upgrades and their expected impact on operations?"
+  ]
+ },
+ "audit": {
+  "claims": 63,
+  "dropped": 2,
+  "seconds": 200.1,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "35 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue grew from ₹4,675 Cr in FY25 to ₹5,215 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "21 explicit promises across 4 calls. Management sounded confident about future growth and operational improvements."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 7 testable promises: 1 delivered, 0 partly, 2 missed, 4 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How is the growth in specific segments like catering and IT being tracked, given the lack of detailed segment data?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The evidence does not provide specific segment data for catering and IT. Therefore, growth in these segments cannot be tracked based on the available information.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to address the shortfall in operating margin targets?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management has not explicitly outlined a plan to address the shortfall in operating margin targets. They have stated aspirations to maintain a 30% EBITDA margin and are investing in technology upgrades, which may contribute to operational improvements.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "IRCTC shows strong revenue growth but misses some margin targets."
+  }
+ ]
+}

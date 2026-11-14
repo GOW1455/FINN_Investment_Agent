@@ -1,0 +1,1095 @@
+{
+ "version": 5,
+ "symbol": "ASIANPAINT",
+ "name": "Asian Paints",
+ "generated_at": "2026-11-13 01:29",
+ "top_ratios": {
+  "Market Cap": "₹ 2,43,716 Cr.",
+  "Current Price": "₹ 2,536",
+  "High / Low": "₹ 2,986 / 2,115",
+  "Stock P/E": "49.2",
+  "Book Value": "₹ 227",
+  "Dividend Yield": "1.08 %",
+  "ROCE": "26.3 %",
+  "ROE": "21.8 %",
+  "Face Value": "₹ 1.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 2,43,716 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 49.2"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 227"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 1.08 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 26.3 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 21.8 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 21,713 | FY22 29,101 | FY23 34,489 | FY24 35,495 | FY25 33,906 | FY26 35,584"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 22 | FY22 17 | FY23 18 | FY24 21 | FY25 18 | FY26 19"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 3,207 | FY22 3,085 | FY23 4,195 | FY24 5,558 | FY25 3,710 | FY26 4,395"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 32.7 | FY22 31.6 | FY23 42.8 | FY24 56.9 | FY25 38.2 | FY26 45.1"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 1.0%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 10.4%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 1.6%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 6.5%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹38,632 cr, net profit ₹4,904 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 1,587 | FY23 1,933 | FY24 2,474 | FY25 2,290 | FY26 3,929 | Sep 2026 4,596"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 13,812 | FY23 15,992 | FY24 18,728 | FY25 19,400 | FY26 21,372 | Sep 2026 21,735"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0.1 | FY23 0.1 | FY24 0.1 | FY25 0.1 | FY26 0.2 | Sep 2026 0.2"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 426 | FY23 1,020 | FY24 2,698 | FY25 1,254 | FY26 1,849 | Sep 2026 1,040"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 5,519 | FY23 5,770 | FY24 7,147 | FY25 9,220 | FY26 9,640 | Sep 2026 10,634"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 56.4 | FY22 53.7 | FY23 46.5 | FY24 41 | FY25 28 | FY26 38.1"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 3,683 | FY22 986 | FY23 4,193 | FY24 6,104 | FY25 4,424 | FY26 7,088"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -541 | FY22 -317 | FY23 -1,282 | FY24 -2,548 | FY25 -941 | FY26 -1,328"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 3,422 | FY22 475 | FY23 2,774 | FY24 3,613 | FY25 2,604 | FY26 5,604"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 109% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 44 | FY22 49 | FY23 49 | FY24 50 | FY25 46 | FY26 46"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 134 | FY22 142 | FY23 121 | FY24 122 | FY25 142 | FY26 118"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 119 | FY22 96 | FY23 71 | FY24 79 | FY25 81 | FY26 79"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 59 | FY22 94 | FY23 99 | FY24 93 | FY25 107 | FY26 84"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 37 | FY22 57 | FY23 54 | FY24 49 | FY25 52 | FY26 38"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 34 | FY22 29 | FY23 34 | FY24 38 | FY25 26 | FY26 26"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 8,549 | FY25 8,359 | Jun 2025 8,939 | Sep 2025 8,531 | Dec 2025 8,867 | FY26 9,247 | Jun 2026 10,542 | Sep 2026 9,977"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 19 | FY25 17 | Jun 2025 18 | Sep 2025 18 | Dec 2025 20 | FY26 19 | Jun 2026 21 | Sep 2026 16"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 1,128 | FY25 701 | Jun 2025 1,117 | Sep 2025 1,018 | Dec 2025 1,074 | FY26 1,185 | Jun 2026 1,559 | Sep 2026 1,085"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 6.3 | Dec 2025 3.7 | Mar 2026 10.6 | Jun 2026 17.9 | Sep 2026 16.9"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 46.7 | Dec 2025 -4.8 | Mar 2026 69 | Jun 2026 39.6 | Sep 2026 6.6"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved -2.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/ASIANPAINT/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aeefecce-2626-4370-9455-c7c6dd94d670.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee7e6efe-1f9b-4b5e-bff7-1da18902ffeb.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p01",
+   "name": "Neha Kulkarni",
+   "headline": "VP Finance, Asian Paints",
+   "relation": "IIM Ahmedabad batchmate",
+   "strength": 5,
+   "last_contact": "2026-10-28",
+   "days_since_contact": 16,
+   "score": 100.0,
+   "angle": "insider",
+   "why": "VP Finance at Asian Paints (since 2016)",
+   "knows": "Dealer economics, raw-material pass-through and how the company is responding to new paint entrants."
+  },
+  {
+   "id": "p02",
+   "name": "Rohan Deshpande",
+   "headline": "Ex-Head of Sales (West), Berger Paints",
+   "relation": "Met at a Kotak consumer conference, 2016",
+   "strength": 3,
+   "last_contact": "2026-03-14",
+   "days_since_contact": 244,
+   "score": 54.1,
+   "angle": "competitor",
+   "why": "Head of Sales, West at Berger Paints (2014–2024), which competes with Asian Paints",
+   "knows": "How Asian Paints is seen by a rival: pricing, share shifts, who is winning deals."
+  },
+  {
+   "id": "p30",
+   "name": "Yash Oberoi",
+   "headline": "Aditya Birla group alumnus, now CFO at a consumer startup",
+   "relation": "IIM Ahmedabad senior",
+   "strength": 3,
+   "last_contact": "2026-05-06",
+   "days_since_contact": 191,
+   "score": 41.3,
+   "angle": "competitor",
+   "why": "Head of Treasury at Grasim Industries (2018–2022), which competes with Asian Paints",
+   "knows": "How Asian Paints is seen by a rival: pricing, share shifts, who is winning deals."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "Asian Paints is a leading paint and décor company in India, offering a wide range of products and services. It operates in various segments including decorative paints, home décor, and industrial coatings.",
+   "cites": [
+    "A:11"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Decorative",
+    "text": "India's leading paint and décor company offering a wide range of products and services, including interior and exterior wall finishes, wood finishes, and waterproofing. This segment contributes ₹30,830.4 Crores, which is 86.8% of revenue.",
+    "cites": [
+     "A:11"
+    ]
+   },
+   {
+    "name": "International",
+    "text": "Catering to a wide cross-section of customers across geographies, this segment contributes ₹3,353.6 Crores, which is 9.4% of revenue.",
+    "cites": [
+     "A:11"
+    ]
+   },
+   {
+    "name": "Home Décor",
+    "text": "Provides a complete one-stop home décor solution, including modular kitchens, bath fittings, and decorative lighting. This segment is part of the decorative and home décor revenue.",
+    "cites": [
+     "A:11"
+    ]
+   },
+   {
+    "name": "Industrial",
+    "text": "Offers high-quality custom-formulated products for the automotive and industrial business. This segment contributes ₹1,332.4 Crores, which is 3.8% of revenue.",
+    "cites": [
+     "A:11"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "The market capitalization is ₹ 2,43,716 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 49.2.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is 1.08%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue showed a slight decline from FY25 to FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased from FY25 to FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth year on year was 16.9% for Sep 2026.",
+    "cites": [
+     "N35"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Borrowings increased to ₹ 4,596 Cr. as of Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio is 0.2 as of Sep 2026.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Shareholders' equity reached ₹ 21,735 Cr. as of Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Free cash flow increased to ₹ 5,604 Cr. in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations is 109% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Cash conversion cycle improved to 84 days in FY26.",
+    "cites": [
+     "N29"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We expect volume growth of about 8% to 9% going forward.",
+   "quote": "we feel that it would be reasonable to expect to see a volume growth of about 8% to 9% going forward.",
+   "cite": "C1:29",
+   "horizon": "next quarter",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "margin",
+   "statement": "We should be able to maintain the band of what we have spoken of 18% to 20%.",
+   "quote": "we believe as we go forward, for the year we should be able to maintain the band of what we have spoken of 18% to 20%.",
+   "cite": "C1:28",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We should be able to ramp up to full capacity offering this GenNext emulsion within a year's time.",
+   "quote": "we should be able to ramp up to full capacity offering this GenNext emulsion which comes in a very different way.",
+   "cite": "C1:13",
+   "horizon": "within a year",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "margin",
+   "statement": "We expect a 300 bps to 500 bps advantage on relevant products from VAE.",
+   "quote": "we believe that when it really works to its full potential, it should really give us some advantage of 300 bps to 500 bps on relevant products.",
+   "cite": "C1:28",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "growth",
+   "statement": "Management expects volume growth of 8-10% for FY27.",
+   "quote": "we should stay in the volume region of about 8-10%.",
+   "cite": "C2:20",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G5"
+  },
+  {
+   "metric": "margin",
+   "statement": "Management aims to maintain PBDIT margins of 18-20%.",
+   "quote": "we are still garnering around the guidance of 18-20% of our PBDIT margins holds.",
+   "cite": "C2:20",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "capacity",
+   "statement": "The VAM-VAE production capacity will reach 150,000 metric tons in about 2-2.5 years.",
+   "quote": "Our feeling is that possibly over a period of about 2-2.5 years, we should be able to reach basically a capacity which is higher and closer to about 150,000 MT.",
+   "cite": "C2:25",
+   "horizon": "2-2.5 years",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "other",
+   "statement": "Management targets a 400-500 basis points improvement in gross margins from the VAM-VAE project.",
+   "quote": "Generally, overall, for the category of products it would translate into that 300-500 basis points band.",
+   "cite": "C2:25",
+   "horizon": "by when unspecified",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect at least some part of this demand to sustain in the market.",
+   "quote": "We expect at least some part of this demand to sustain in the market.",
+   "cite": "C3:20",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Jun 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "growth",
+   "statement": "We should see how we can retain our margin guidance going forward.",
+   "quote": "We should see how we can retain our margin guidance going forward.",
+   "cite": "C3:22",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Jun 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are looking at the price increases that are happening and trying to see that we get into that area of 8-10% volume growth.",
+   "quote": "We are looking at the price increases that are happening and trying to see that we get into that area of 8-10% volume growth.",
+   "cite": "C3:23",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Jun 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "margin",
+   "statement": "We will maintain our margin guidance, which is there.",
+   "quote": "We will maintain our margin guidance, which is there.",
+   "cite": "C3:23",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Jun 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect to commission first phase in the first half of this year.",
+   "quote": "We expect to commission first phase in the first half of this year.",
+   "cite": "C3:12",
+   "horizon": "H1 FY27",
+   "kind": "directional",
+   "said_in": "Jun 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "other",
+   "statement": "We are looking at further price increases, which might happen in the market.",
+   "quote": "We are looking at further price increases, which might happen in the market.",
+   "cite": "C3:20",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Jun 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "growth",
+   "statement": "We should be able to maintain high single-digit volume growth.",
+   "quote": "the trajectory has been strong and resilient which possibly, going ahead, we should be able to maintain.",
+   "cite": "C4:14",
+   "horizon": "next quarter",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are targeting volume growths between 8% - 10%.",
+   "quote": "I would like to maintain the numbers in terms of what I just said.",
+   "cite": "C4:36",
+   "horizon": "next quarter",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "margin",
+   "statement": "We aim to maintain PBDIT margins between 18% and 20%.",
+   "quote": "I would say that, we should judiciously use the monies, to say that, what is the longer term view we are taking.",
+   "cite": "C4:35",
+   "horizon": "next quarters",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to see better growth in the B2B and industrial segments.",
+   "quote": "this is something which will really grow, and I think there would be a strong traction which will come in.",
+   "cite": "C4:27",
+   "horizon": "next quarters",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are targeting a volume growth of double digits in the future.",
+   "quote": "I think that regime should continue as we go forward.",
+   "cite": "C4:32",
+   "horizon": "next quarters",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G19"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee7e6efe-1f9b-4b5e-bff7-1da18902ffeb.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded optimistic about growth and margins, emphasizing strong demand and innovation.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of inflation on margins and pricing strategies.",
+     "cites": [
+      "C1:30",
+      "C1:32"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the competitive landscape and ability to pass on cost increases.",
+     "cites": [
+      "C1:30",
+      "C1:32"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the timelines for capacity utilization and benefits from new technologies.",
+     "cites": [
+      "C1:33",
+      "C1:28"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e0d5627-2b8b-4bf1-a7ce-9d0160833a0f.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded optimistic about growth and innovation, emphasizing strong demand and strategic initiatives.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the impact of pricing actions on demand and margins.",
+     "cites": [
+      "C2:20",
+      "C2:21"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the competitive landscape and market share trends.",
+     "cites": [
+      "C2:26"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the impact of raw material costs on margins.",
+     "cites": [
+      "C2:20",
+      "C2:21"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a71cf39-800d-4765-8131-5d78e54925ce.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about sustaining growth and margins despite market challenges.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the impact of price increases and competitive intensity.",
+     "cites": [
+      "C3:21",
+      "C3:22"
+     ]
+    },
+    {
+     "text": "Analysts inquired about volume growth expectations amidst a high base.",
+     "cites": [
+      "C3:21"
+     ]
+    },
+    {
+     "text": "Analysts questioned the impact of geopolitical conditions on margins.",
+     "cites": [
+      "C3:24"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8bc8c7dd-23d0-4cf2-bcdf-620769ed0d1a.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded cautiously optimistic, emphasizing strong growth momentum and strategic focus areas.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the impact of competitive intensity on growth and margins.",
+     "cites": [
+      "C4:30",
+      "C4:36"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the sustainability of current margin levels amidst market volatility.",
+     "cites": [
+      "C4:36"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the outlook for volume growth in light of recent performance.",
+     "cites": [
+      "C4:30"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G5",
+   "promise": "Management expects volume growth of 8-10% for FY27.",
+   "quote": "we should stay in the volume region of about 8-10%.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:20",
+   "horizon": "FY27",
+   "delivered": "Volume growth for FY27 cannot be assessed yet as only Q2 FY27 has been reported.",
+   "verdict": "too_early",
+   "cites": [
+    "N32"
+   ]
+  },
+  {
+   "guidance": "G6",
+   "promise": "Management aims to maintain PBDIT margins of 18-20%.",
+   "quote": "we are still garnering around the guidance of 18-20% of our PBDIT margins holds.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:20",
+   "horizon": "FY27",
+   "delivered": "PBDIT margins for Sep 2026 were 16%, below the 18-20% target.",
+   "verdict": "missed",
+   "cites": [
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G10",
+   "promise": "We should see how we can retain our margin guidance going forward.",
+   "quote": "We should see how we can retain our margin guidance going forward.",
+   "said_in": "Jun 2026",
+   "promise_cite": "C3:22",
+   "horizon": "FY27",
+   "delivered": "Margins have not been retained at the guidance level, with Sep 2026 at 16%.",
+   "verdict": "missed",
+   "cites": [
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G11",
+   "promise": "We are looking at the price increases that are happening and trying to see that we get into that area of 8-10% volume growth.",
+   "quote": "We are looking at the price increases that are happening and trying to see that we get into that area of 8-10% volume growth.",
+   "said_in": "Jun 2026",
+   "promise_cite": "C3:23",
+   "horizon": "FY27",
+   "delivered": "Volume growth for FY27 cannot be assessed yet as only Q2 FY27 has been reported.",
+   "verdict": "too_early",
+   "cites": [
+    "N32"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "We expect volume growth of about 8% to 9% going forward.",
+   "quote": "we feel that it would be reasonable to expect to see a volume growth of about 8% to 9% going forward.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:29",
+   "horizon": "next quarter",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G2",
+   "promise": "We should be able to maintain the band of what we have spoken of 18% to 20%.",
+   "quote": "we believe as we go forward, for the year we should be able to maintain the band of what we have spoken of 18% to 20%.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:28",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We should be able to ramp up to full capacity offering this GenNext emulsion within a year's time.",
+   "quote": "we should be able to ramp up to full capacity offering this GenNext emulsion which comes in a very different way.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:13",
+   "horizon": "within a year",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 2,
+  "too_early": 5
+ },
+ "divergences": [
+  {
+   "text": "Management aimed to maintain PBDIT margins between 18% and 20%, but Sep 2026 margins were 16%.",
+   "cites": [
+    "G6",
+    "N33"
+   ]
+  },
+  {
+   "text": "Management's promise to retain margin guidance was not met as Sep 2026 margins were below target.",
+   "cites": [
+    "G10",
+    "N33"
+   ]
+  },
+  {
+   "text": "The commissioning of the first phase in H1 FY27 is not reflected in the reported data.",
+   "cites": [
+    "G13",
+    "N19"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "What is the specific volume growth for the quarters reported in FY27?",
+   "answer": "The evidence does not provide specific volume growth for the quarters reported in FY27.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to address the missed margin targets in the reported quarters?",
+   "answer": "Management plans to maintain PBDIT margins of 18-20% and expects volume growth of 8-10% for FY27. They are also looking at price increases to support these targets.",
+   "cites": [
+    "G6",
+    "G5",
+    "G11"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Asian Paints faces challenges in maintaining margin targets despite revenue growth.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of maintaining PBDIT margins between 18-20% does not align with the reported numbers, as the Sep 2026 margin was 16%. However, the company did achieve a 16.9% year-on-year revenue growth for the Sep 2026 quarter.",
+   "cites": [
+    "G6",
+    "N33",
+    "N35"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Asian Paints achieved a significant year-on-year revenue growth of 16.9% for the Sep 2026 quarter.",
+    "cites": [
+     "N35"
+    ]
+   },
+   {
+    "text": "The company's free cash flow increased to ₹ 5,604 Cr. in FY26, indicating strong cash generation.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "The cash conversion cycle improved to 84 days in FY26, reflecting better operational efficiency.",
+    "cites": [
+     "N29"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "The PBDIT margin for Sep 2026 was 16%, below the management's target of 18-20%.",
+    "cites": [
+     "G6",
+     "N33"
+    ]
+   },
+   {
+    "text": "Borrowings increased significantly to ₹ 4,596 Cr. as of Sep 2026, raising concerns about rising debt levels.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Despite revenue growth, the stock's high P/E ratio of 49.2 suggests it may be overvalued.",
+    "cites": [
+     "N2"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How does management plan to address the missed PBDIT margin targets in the upcoming quarters?",
+   "What strategies are in place to manage the increased borrowings and ensure financial stability?",
+   "Can management provide more details on the expected timeline and impact of the GenNext emulsion capacity ramp-up?"
+  ]
+ },
+ "audit": {
+  "claims": 65,
+  "dropped": 3,
+  "seconds": 98.8,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue showed a slight decline from FY25 to FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "19 explicit promises across 4 calls. Management sounded optimistic about growth and margins, emphasizing strong demand and innovation."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 7 testable promises: 0 delivered, 0 partly, 2 missed, 5 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "What is the specific volume growth for the quarters reported in FY27?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The evidence does not provide specific volume growth for the quarters reported in FY27.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to address the missed margin targets in the reported quarters?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management plans to maintain PBDIT margins of 18-20% and expects volume growth of 8-10% for FY27. They are also looking at price increases to support these targets.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Asian Paints faces challenges in maintaining margin targets despite revenue growth."
+  }
+ ]
+}

@@ -1,0 +1,1040 @@
+{
+ "version": 5,
+ "symbol": "LT",
+ "name": "Larsen & Toubro",
+ "generated_at": "2026-11-13 01:27",
+ "top_ratios": {
+  "Market Cap": "₹ 5,72,883 Cr.",
+  "Current Price": "₹ 4,159",
+  "High / Low": "₹ 4,440 / 3,288",
+  "Stock P/E": "30.3",
+  "Book Value": "₹ 821",
+  "Dividend Yield": "0.91 %",
+  "ROCE": "14.6 %",
+  "ROE": "15.9 %",
+  "Face Value": "₹ 2.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 5,72,883 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 30.3"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 821"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.91 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 14.6 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 15.9 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 135,979 | FY22 156,521 | FY23 183,341 | FY24 221,113 | FY25 255,734 | FY26 285,874"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 17 | FY22 16 | FY23 15 | FY24 13 | FY25 14 | FY26 13"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 12,921 | FY22 10,419 | FY23 12,531 | FY24 15,547 | FY25 17,673 | FY26 18,954"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 82.5 | FY22 61.7 | FY23 74.5 | FY24 95 | FY25 109 | FY26 117"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 16.0%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 16.0%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 14.8%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 8.0%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹300,904 cr, net profit ₹20,895 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 125,508 | FY23 120,650 | FY24 116,322 | FY25 132,409 | FY26 125,497 | Sep 2026 140,300"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 82,408 | FY23 89,326 | FY24 86,359 | FY25 97,656 | FY26 109,290 | Sep 2026 113,029"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 1.5 | FY23 1.4 | FY24 1.4 | FY25 1.4 | FY26 1.1 | Sep 2026 1.2"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 1,250 | FY23 3,066 | FY24 3,045 | FY25 2,589 | FY26 3,311 | Sep 2026 3,150"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 42,945 | FY23 42,641 | FY24 42,964 | FY25 44,055 | FY26 30,867 | Sep 2026 31,984"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 2.7 | FY22 2.9 | FY23 3.2 | FY24 3.5 | FY25 3.8 | FY26 4"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 23,074 | FY22 19,164 | FY23 22,777 | FY24 18,266 | FY25 9,151 | FY26 16,741"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -5,750 | FY22 -3,585 | FY23 -8,048 | FY24 2,179 | FY25 -15,479 | FY26 -11,380"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 22,151 | FY22 16,124 | FY23 18,984 | FY24 14,056 | FY25 5,611 | FY26 12,272"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 115% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 113 | FY22 108 | FY23 89 | FY24 81 | FY25 77 | FY26 77"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 51 | FY22 44 | FY23 41 | FY24 32 | FY25 30 | FY26 36"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 401 | FY22 378 | FY23 302 | FY24 255 | FY25 208 | FY26 265"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 -236 | FY22 -227 | FY23 -172 | FY24 -143 | FY25 -101 | FY26 -151"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 28 | FY22 0 | FY23 2 | FY24 -16 | FY25 -33 | FY26 -27"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 10 | FY22 10 | FY23 12 | FY24 13 | FY25 15 | FY26 15"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 64,668 | FY25 74,392 | Jun 2025 63,679 | Sep 2025 67,984 | Dec 2025 71,450 | FY26 82,762 | Jun 2026 67,942 | Sep 2026 78,750"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 12 | FY25 13 | Jun 2025 13 | Sep 2025 13 | Dec 2025 13 | FY26 13 | Jun 2026 12 | Sep 2026 11"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 3,974 | FY25 6,156 | Jun 2025 4,318 | Sep 2025 4,678 | Dec 2025 3,825 | FY26 6,133 | Jun 2026 4,988 | Sep 2026 5,949"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 10.4 | Dec 2025 10.5 | Mar 2026 11.3 | Jun 2026 6.7 | Sep 2026 15.8"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 14.1 | Dec 2025 -3.7 | Mar 2026 -0.4 | Jun 2026 15.5 | Sep 2026 27.2"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved -2.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/LT/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/825f9859-e7f2-4e90-8583-01a38850f795.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Jul 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, Jan 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Oct 2025",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p19",
+   "name": "Manish Tiwari",
+   "headline": "Chief Engineer, Infrastructure IC, Larsen & Toubro",
+   "relation": "School friend",
+   "strength": 4,
+   "last_contact": "2026-10-19",
+   "days_since_contact": 25,
+   "score": 92.0,
+   "angle": "insider",
+   "why": "Chief Engineer, Infrastructure at Larsen & Toubro (since 2007)",
+   "knows": "Order execution pace, Middle East exposure and working capital on government projects."
+  },
+  {
+   "id": "p24",
+   "name": "Kabir Sethi",
+   "headline": "Head of Tourism Products, ex-IRCTC",
+   "relation": "College friend",
+   "strength": 3,
+   "last_contact": "2026-01-05",
+   "days_since_contact": 312,
+   "score": 24.0,
+   "angle": "customer",
+   "why": "Deputy GM, Internet Ticketing at IRCTC (2011–2020), which buys from Larsen & Toubro",
+   "knows": "What it is like to buy from Larsen & Toubro: pricing power, service, switching risk."
+  },
+  {
+   "id": "p15",
+   "name": "Harish Menon",
+   "headline": "Ex-National Sales Head, Havells",
+   "relation": "Met at an industry conference, 2019",
+   "strength": 2,
+   "last_contact": "2025-06-17",
+   "days_since_contact": 514,
+   "score": 16.7,
+   "angle": "supplier",
+   "why": "Zonal Head, Wires & Cables at Polycab India (2006–2015), which supplies Larsen & Toubro",
+   "knows": "Larsen & Toubro's order patterns and payment behaviour, seen from the supply side."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company operates in various sectors including infrastructure, energy, manufacturing, technology, financial services, and realty. It focuses on delivering complex projects and innovative solutions to drive growth and sustainability.",
+   "cites": [
+    "A:22",
+    "A:34"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Infrastructure & Utilities",
+    "text": "This segment involves conceptualizing, designing, executing, and commissioning large projects across various domains. It includes buildings, transportation, power, and water management.",
+    "cites": [
+     "A:35"
+    ]
+   },
+   {
+    "name": "Energy - Conventional",
+    "text": "This segment focuses on hydrocarbon projects and carbon solutions, enhancing operational specialization for efficient project delivery.",
+    "cites": [
+     "A:35"
+    ]
+   },
+   {
+    "name": "Energy - Green",
+    "text": "This segment addresses renewable energy infrastructure, leveraging capabilities in solar and wind energy to support the transition to sustainable systems.",
+    "cites": [
+     "A:35"
+    ]
+   },
+   {
+    "name": "Manufacturing & Products",
+    "text": "This segment designs and engineers equipment for various industries, including defense and aerospace, and focuses on high-value sectors.",
+    "cites": [
+     "A:35"
+    ]
+   },
+   {
+    "name": "Technology, Platforms & Services",
+    "text": "This segment encompasses IT services, engineering R&D, and digital platforms, aiming to strengthen the company's digital ecosystem.",
+    "cites": [
+     "A:35"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market cap is ₹ 5,72,883 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 30.3.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is 0.91%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue grew from ₹ 221,113 Cr in FY24 to ₹ 285,874 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹ 15,547 Cr in FY24 to ₹ 18,954 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth was 15.8% year on year in Sep 2026.",
+    "cites": [
+     "N35"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Borrowings increased to ₹ 140,300 Cr in Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio was 1.2 in Sep 2026.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Shareholders' equity rose to ₹ 113,029 Cr in Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Free cash flow was ₹ 12,272 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations was 115% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Cash from operations was ₹ 16,741 Cr in FY26.",
+    "cites": [
+     "N22"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We remain confident of achieving our order inflow growth guidance of 10% to 12% band for the current year.",
+   "quote": "we remain confident of achieving our order inflow growth guidance of 10% to 12% band for the current year.",
+   "cite": "C1:10",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G1"
+  },
+  {
+   "metric": "growth",
+   "statement": "We remain committed to our FY '27 growth guidance of 10% to 12% revenue growth guidance.",
+   "quote": "we remain committed to our FY '27 growth guidance of 10% to 12% revenue growth guidance.",
+   "cite": "C1:11",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G2"
+  },
+  {
+   "metric": "margin",
+   "statement": "We continue to target the margin of around 7.8% for FY '27 with respect to the PPM portfolio.",
+   "quote": "we continue to target the margin of around 7.8% for FY '27 with respect to the PPM portfolio.",
+   "cite": "C1:11",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G3"
+  },
+  {
+   "metric": "working capital",
+   "statement": "We are maintaining our FY '27 working capital guidance of around 10%.",
+   "quote": "we are maintaining our FY '27 working capital guidance of around 10%.",
+   "cite": "C1:11",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G4"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect the group order inflows to grow in the range of 10% to 12% in FY27.",
+   "quote": "Based on this visibility and the opportunities we are pursuing, we expect the group order inflows to grow in the range of 10% to 12% in FY27.",
+   "cite": "C2:13",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G5"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect growth to be in the range of 10% to 12% for FY27.",
+   "quote": "On Revenue, we expect growth to be in the range of 10% to 12% for FY27.",
+   "cite": "C2:13",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "margin",
+   "statement": "We expect the same to be stable as well in FY27.",
+   "quote": "We expect the same to be stable as well in FY27.",
+   "cite": "C2:13",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "working capital",
+   "statement": "Accordingly, we are guiding the working capital to be around 10% in FY27.",
+   "quote": "Accordingly, we are guiding the working capital to be around 10% in FY27.",
+   "cite": "C2:13",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are targeting order inflow growth at a CAGR return of 10% to 12%.",
+   "quote": "Over the next five years, we are targeting order inflow growth at a CAGR return of 10% to 12%.",
+   "cite": "C2:13",
+   "horizon": "FY31",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to achieve our full year revenue growth guidance of 15%.",
+   "quote": "We continue to retain our guidance of 15% for the full year.",
+   "cite": "C3:9",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "growth",
+   "statement": "We will be exceeding the 10% order inflow guidance for FY '26.",
+   "quote": "Basis the 9-month performance and the healthy prospects pipeline for the near term, we will be exceeding the 10% order inflow guidance for FY '26.",
+   "cite": "C3:8",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "margin",
+   "statement": "We expect our Projects & Manufacturing EBITDA margin to be 8.5% for FY '26.",
+   "quote": "Our Projects & Manufacturing EBITDA at 7.9% for 9 months of the current year is in line with the target that we have set ourselves at 8.5% for the full year FY '26.",
+   "cite": "C3:8",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "working capital",
+   "statement": "We expect to close the year with a revised target of around 10%.",
+   "quote": "We expect to close the year with a revised target of around 10%.",
+   "cite": "C3:9",
+   "horizon": "by March '26",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are confident of exceeding our full year FY '26 guidance of 10% growth in group order inflows.",
+   "quote": "We are confident of exceeding our full year FY '26 guidance of 10% growth in group order inflows for the current year.",
+   "cite": "C4:9",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Oct 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "growth",
+   "statement": "We maintain our full year revenue growth guidance at 15%.",
+   "quote": "Accordingly, we maintain our full year revenue growth guidance at 15%.",
+   "cite": "C4:10",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Oct 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "margin",
+   "statement": "We are reasonably confident to achieve our full year EBITDA margin target of 8.5%.",
+   "quote": "With the execution momentum expected to pick up in H2, we are reasonably confident to achieve our full year EBITDA margin target of 8.5%.",
+   "cite": "C4:10",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Oct 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "working capital",
+   "statement": "Our guidance for working capital for FY '26 remains unchanged at around 12% by March 2026.",
+   "quote": "Our guidance for working capital for FY '26 remains unchanged at around 12% by March 2026.",
+   "cite": "C4:10",
+   "horizon": "March 2026",
+   "kind": "numeric",
+   "said_in": "Oct 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "debt",
+   "statement": "We expect this transaction to get consummated by the end of the current fiscal FY '26.",
+   "quote": "We expect this transaction to get consummated by the end of the current fiscal FY '26.",
+   "cite": "C4:4",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Oct 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We are looking at even further expanding this in the next 6 to 9 months' time.",
+   "quote": "We are looking at even further expanding this in the next 6 to 9 months' time.",
+   "cite": "C4:22",
+   "horizon": "next 6 to 9 months",
+   "kind": "directional",
+   "said_in": "Oct 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G19"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Jul 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about growth prospects and operational efficiency despite geopolitical challenges.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of geopolitical issues on revenue and project timelines.",
+     "cites": [
+      "C1:11",
+      "C1:12"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the margin impact due to ECL provisions.",
+     "cites": [
+      "C1:13"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the order inflow guidance and the health of the domestic market.",
+     "cites": [
+      "C1:11",
+      "C1:12"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "May 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded optimistic about growth prospects, emphasizing strong order inflows and revenue targets despite current challenges.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the impact of geopolitical conditions on revenue and margin guidance.",
+     "cites": [
+      "C2:14",
+      "C2:15"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the stability of margins given the geopolitical situation.",
+     "cites": [
+      "C2:20"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the impact of supply chain issues on domestic execution.",
+     "cites": [
+      "C2:26"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "Jan 2026",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded confident about achieving their guidance, citing strong order inflows and operational efficiencies.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the revenue growth guidance amidst current performance.",
+     "cites": [
+      "C3:10"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the impact of oil prices on Middle East projects.",
+     "cites": [
+      "C3:14"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the Hydrocarbon margin pressures and timelines for recovery.",
+     "cites": [
+      "C3:14"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Oct 2025",
+   "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf",
+   "quarter": "Q2 FY26",
+   "tone": "Management sounded optimistic about growth prospects and confident in achieving their targets.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the execution challenges and sustainability of profitability.",
+     "cites": [
+      "C4:10",
+      "C4:11"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the impact of rising order book in the Middle East.",
+     "cites": [
+      "C4:11"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the margins and working capital guidance.",
+     "cites": [
+      "C4:10",
+      "C4:13"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G10",
+   "promise": "We expect to achieve our full year revenue growth guidance of 15%.",
+   "quote": "We continue to retain our guidance of 15% for the full year.",
+   "said_in": "Jan 2026",
+   "promise_cite": "C3:9",
+   "horizon": "FY26",
+   "delivered": "FY26 revenue growth was 11.8%, missing the 15% guidance.",
+   "verdict": "missed",
+   "cites": [
+    "N7"
+   ]
+  }
+ ],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 1,
+  "too_early": 0
+ },
+ "divergences": [
+  {
+   "text": "FY26 revenue growth was 11.8%, missing the 15% guidance.",
+   "cites": [
+    "G10",
+    "N7"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "What was the actual order inflow growth for FY26?",
+   "answer": "The evidence does not provide specific data on order inflow growth for FY26. Therefore, I cannot confirm the actual order inflow growth.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to ensure the FY27 revenue and order inflow growth targets are met given the FY26 miss?",
+   "answer": "Management remains confident in achieving FY27 revenue and order inflow growth targets of 10% to 12%. They are committed to these targets and are maintaining their working capital guidance of around 10%. They expect growth to be stable and are targeting a margin of around 7.8% for FY27.",
+   "cites": [
+    "G1",
+    "G2",
+    "G4",
+    "G5",
+    "G6",
+    "G3"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Larsen & Toubro shows strong revenue growth but missed FY26 guidance.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of achieving a 15% revenue growth in FY26 was not met, as actual growth was 11.8%. However, the company did achieve significant revenue growth from ₹221,113 Cr in FY24 to ₹285,874 Cr in FY26.",
+   "cites": [
+    "G10",
+    "N7"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Larsen & Toubro's annual revenue grew significantly from ₹221,113 Cr in FY24 to ₹285,874 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "The company achieved a strong quarterly revenue growth of 15.8% year on year in Sep 2026.",
+    "cites": [
+     "N35"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹15,547 Cr in FY24 to ₹18,954 Cr in FY26, showing robust profitability.",
+    "cites": [
+     "N9"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "The company missed its FY26 revenue growth guidance of 15%, achieving only 11.8%.",
+    "cites": [
+     "G10",
+     "N7"
+    ]
+   },
+   {
+    "text": "Borrowings increased to ₹140,300 Cr in Sep 2026, raising concerns about rising debt levels.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "The operating margin decreased by 2 percentage points from Sep 2025 to Sep 2026.",
+    "cites": [
+     "N37"
+    ]
+   }
+  ],
+  "ask_management": [
+   "What specific measures are being implemented to ensure the FY27 revenue growth target of 10% to 12% is met, given the FY26 miss?",
+   "How does the company plan to manage its increasing borrowings, which have risen to ₹140,300 Cr?",
+   "What strategies are in place to improve operating margins, which have decreased by 2 percentage points year on year?"
+  ]
+ },
+ "audit": {
+  "claims": 64,
+  "dropped": 6,
+  "seconds": 184.5,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue grew from ₹ 221,113 Cr in FY24 to ₹ 285,874 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "19 explicit promises across 4 calls. Management sounded confident about growth prospects and operational efficiency despite geopolitical challenges."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 1 testable promises: 0 delivered, 0 partly, 1 missed, 0 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "What was the actual order inflow growth for FY26?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The evidence does not provide specific data on order inflow growth for FY26. Therefore, I cannot confirm the actual order inflow growth.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to ensure the FY27 revenue and order inflow growth targets are met given the FY26 miss?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management remains confident in achieving FY27 revenue and order inflow growth targets of 10% to 12%. They are committed to these targets and are maintaining their working capital guidance of around 10%. They expect growth to be stable and are targeting a margin of around 7.8% for FY27.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Larsen & Toubro shows strong revenue growth but missed FY26 guidance."
+  }
+ ]
+}

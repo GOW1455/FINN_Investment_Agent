@@ -1,0 +1,1056 @@
+{
+ "version": 5,
+ "symbol": "POLYCAB",
+ "name": "Polycab India",
+ "generated_at": "2026-11-13 01:44",
+ "top_ratios": {
+  "Market Cap": "₹ 1,22,006 Cr.",
+  "Current Price": "₹ 8,080",
+  "High / Low": "₹ 10,129 / 6,660",
+  "Stock P/E": "38.7",
+  "Book Value": "₹ 869",
+  "Dividend Yield": "0.58 %",
+  "ROCE": "33.2 %",
+  "ROE": "23.6 %",
+  "Face Value": "₹ 10.0"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 1,22,006 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 38.7"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 869"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.58 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 33.2 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 23.6 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 8,792 | FY22 12,204 | FY23 14,108 | FY24 18,039 | FY25 22,408 | FY26 28,884"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 13 | FY22 10 | FY23 13 | FY24 14 | FY25 13 | FY26 14"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 886 | FY22 917 | FY23 1,282 | FY24 1,803 | FY25 2,046 | FY26 2,708"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 59.1 | FY22 60.8 | FY23 84.8 | FY24 119 | FY25 134 | FY26 177"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 27.0%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 26.9%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 28.3%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 25.0%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹34,609 cr, net profit ₹3,202 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 118 | FY23 191 | FY24 161 | FY25 202 | FY26 236 | Sep 2026 272"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 5,543 | FY23 6,631 | FY24 8,187 | FY25 9,828 | FY26 12,009 | Sep 2026 13,094"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0 | FY23 0 | FY24 0 | FY25 0 | FY26 0 | Sep 2026 0"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 375 | FY23 251 | FY24 578 | FY25 708 | FY26 1,139 | Sep 2026 1,401"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 1,675 | FY23 2,067 | FY24 2,338 | FY25 3,011 | FY26 3,740 | Sep 2026 3,979"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 29.7 | FY22 40.7 | FY23 32.9 | FY24 25.1 | FY25 18.7 | FY26 17.5"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 1,252 | FY22 512 | FY23 1,428 | FY24 1,296 | FY25 1,809 | FY26 3,811"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -1,012 | FY22 -427 | FY23 -1,203 | FY24 -752 | FY25 -1,239 | FY26 -2,850"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 1,061 | FY22 -8 | FY23 969 | FY24 438 | FY25 853 | FY26 2,340"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 101% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 60 | FY22 39 | FY23 32 | FY24 41 | FY25 42 | FY26 48"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 113 | FY22 86 | FY23 104 | FY24 105 | FY25 86 | FY26 99"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 77 | FY22 48 | FY23 72 | FY24 82 | FY25 64 | FY26 108"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 96 | FY22 77 | FY23 65 | FY24 65 | FY25 64 | FY26 39"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 67 | FY22 67 | FY23 58 | FY24 59 | FY25 54 | FY26 30"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 23 | FY22 21 | FY23 27 | FY24 31 | FY25 30 | FY26 33"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 5,226 | FY25 6,986 | Jun 2025 5,906 | Sep 2025 6,477 | Dec 2025 7,636 | FY26 8,864 | Jun 2026 8,210 | Sep 2026 9,899"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 14 | FY25 15 | Jun 2025 15 | Sep 2025 16 | Dec 2025 13 | FY26 13 | Jun 2026 14 | Sep 2026 14"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 464 | FY25 734 | Jun 2025 600 | Sep 2025 693 | Dec 2025 630 | FY26 786 | Jun 2026 797 | Sep 2026 990"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 17.8 | Dec 2025 46.1 | Mar 2026 26.9 | Jun 2026 39 | Sep 2026 52.8"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 55.7 | Dec 2025 35.8 | Mar 2026 7.1 | Jun 2026 32.8 | Sep 2026 42.9"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved -2.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/POLYCAB/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff6bcced-1327-449f-8a82-6fd651a0124f.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f66f17ac-c40f-4309-afca-3e66af0956a0.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p19",
+   "name": "Manish Tiwari",
+   "headline": "Chief Engineer, Infrastructure IC, Larsen & Toubro",
+   "relation": "School friend",
+   "strength": 4,
+   "last_contact": "2026-10-19",
+   "days_since_contact": 25,
+   "score": 50.6,
+   "angle": "customer",
+   "why": "Chief Engineer, Infrastructure at Larsen & Toubro (since 2007), which buys from Polycab India",
+   "knows": "What it is like to buy from Polycab India: pricing power, service, switching risk."
+  },
+  {
+   "id": "p15",
+   "name": "Harish Menon",
+   "headline": "Ex-National Sales Head, Havells",
+   "relation": "Met at an industry conference, 2019",
+   "strength": 2,
+   "last_contact": "2025-06-17",
+   "days_since_contact": 514,
+   "score": 50.3,
+   "angle": "competitor",
+   "why": "National Sales Head, Cables at Havells India (2015–2024), which competes with Polycab India",
+   "knows": "How Polycab India is seen by a rival: pricing, share shifts, who is winning deals."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company operates in the electrical sector, focusing on manufacturing cables, wires, and fast-moving electrical goods. It serves a diverse range of customers across various sectors, including power, infrastructure, and real estate.",
+   "cites": [
+    "A:4",
+    "A:9"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Cables and Wires",
+    "text": "This division leads the Indian market, supplying a diverse range of products to global retail, industrial, and institutional customers. It has strong growth driven by domestic demand.",
+    "cites": [
+     "A:9"
+    ]
+   },
+   {
+    "name": "Fast-Moving Electrical Goods",
+    "text": "This division has expanded its consumer footprint and delivered innovative solutions, achieving significant growth and profitability.",
+    "cites": [
+     "A:9"
+    ]
+   },
+   {
+    "name": "Engineering, Procurement and Construction",
+    "text": "This segment focuses on securing approvals from large EPC firms and building long-term partnerships for infrastructure projects.",
+    "cites": [
+     "A:42"
+    ]
+   },
+   {
+    "name": "International Business",
+    "text": "The company targets strategic niche markets with high growth potential, focusing on regions with growing infrastructure and industrial demand.",
+    "cites": [
+     "A:42"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market cap is ₹ 1,22,006 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 38.7.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is 0.58%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue grew from ₹ 22,408 Cr in FY25 to ₹ 28,884 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹ 2,046 Cr in FY25 to ₹ 2,708 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue grew 52.8% year on year in Sep 2026.",
+    "cites": [
+     "N35"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Borrowings increased from ₹ 236 Cr in FY26 to ₹ 272 Cr in Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Shareholders' equity rose from ₹ 12,009 Cr in FY26 to ₹ 13,094 Cr in Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio remains at 0.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Free cash flow increased to ₹ 2,340 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations is 101% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Cash from operations reached ₹ 3,811 Cr in FY26.",
+    "cites": [
+     "N22"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We expect to sustain medium- to long-term EBITDA margins within our guided range.",
+   "quote": "we remain confident of sustaining medium- to long-term EBITDA margins within our guided range of 11% to 13%.",
+   "cite": "C1:7",
+   "horizon": "FY30",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "growth",
+   "statement": "We aim to grow at 1.5x to 2x of the industry growth rate.",
+   "quote": "Our objective continues to be growing at 1.5x to 2x of the industry growth rate.",
+   "cite": "C1:7",
+   "horizon": "by FY30",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect the EHV plant to commission in FY28.",
+   "quote": "we are expecting the EHV plant to now commission somewhere in FY 2028.",
+   "cite": "C1:18",
+   "horizon": "FY28",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "capex",
+   "statement": "We incurred capital expenditures of INR 6.1 billion in the first half.",
+   "quote": "During the first half of the year, we incurred capital expenditures of INR 6.1 billion.",
+   "cite": "C1:6",
+   "horizon": "H1 FY27",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "debt",
+   "statement": "We expect our working capital cycle to trend towards our long-term operating range of 45 to 50 days.",
+   "quote": "we expect the working capital cycle to trend towards our long-term operating range of 45 to 50 days.",
+   "cite": "C1:6",
+   "horizon": "by FY27",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "growth",
+   "statement": "We will continue to grow at 1.5x of market growth.",
+   "quote": "We have guided that we'll continue to grow at 1.5x of market growth.",
+   "cite": "C2:18",
+   "horizon": "FY30",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "margin",
+   "statement": "We maintain our medium- to long-term margin guidance of 11% to 13%.",
+   "quote": "consistent with our Project Spring roadmap, we continue to maintain our medium- to long-term margin guidance of 11% to 13% for this business.",
+   "cite": "C2:5",
+   "horizon": "FY30",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "margin",
+   "statement": "We target EBITDA margins of 8% to 10% by FY 2030.",
+   "quote": "we target EBITDA margins of 8% to 10% by FY 2030.",
+   "cite": "C2:6",
+   "horizon": "FY30",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "capex",
+   "statement": "We expect about INR 800-odd crores translating this year from Bharat Net.",
+   "quote": "we should expect about INR 800-odd crores translating this year.",
+   "cite": "C2:14",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect to see sizable pickup in U.S. export and overall exports.",
+   "quote": "we should see sizable pickup in U.S. export and overall exports also will definitely show a good uptick.",
+   "cite": "C2:13",
+   "horizon": "next quarters",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "growth",
+   "statement": "We will continue to deliver 1.5x of market growth.",
+   "quote": "If market is growing, say, for example, 10-12%, we'll continue to deliver 1.5x of that growth.",
+   "cite": "C3:11",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "capex",
+   "statement": "We remain on track to execute our planned capex program of INR 60 billion to INR 80 billion over the next 5 years.",
+   "quote": "We remain on track to execute our planned capex program of INR 60 billion to INR 80 billion over the next 5 years.",
+   "cite": "C3:6",
+   "horizon": "by FY31",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "margin",
+   "statement": "We are progressing towards our EBITDA margin goal of 8% to 10% by FY2030.",
+   "quote": "We are well aligned with our Project Spring objectives of delivering 1.5x to 2x of industry growth while steadily improving our margins.",
+   "cite": "C3:8",
+   "horizon": "by FY30",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "capacity",
+   "statement": "Capacity is expected to come on stream by end of this calendar year.",
+   "quote": "Capacity is expected to come on stream by end of this calendar year.",
+   "cite": "C3:15",
+   "horizon": "by end of 2026",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect our FMEG segment to achieve 1.5x - 2x industry growth by FY30.",
+   "quote": "we expect this momentum to continue in the coming quarters.",
+   "cite": "C4:7",
+   "horizon": "by FY30",
+   "kind": "directional",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "margin",
+   "statement": "We aim for EBITDA margins in the range of 8% to 10% by FY30.",
+   "quote": "we remain on track to achieve our Project Spring targets of 1.5x - 2x industry growth and EBITDA margins in the range of 8% to 10% by FY30.",
+   "cite": "C4:7",
+   "horizon": "by FY30",
+   "kind": "directional",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "capex",
+   "statement": "We guide to invest ₹12 billion to ₹16 billion annually through FY30.",
+   "quote": "in-line with our Project Spring guidance of investing ₹ 12 billion to ₹ 16 billion annually through FY30.",
+   "cite": "C4:5",
+   "horizon": "through FY30",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "capacity",
+   "statement": "Our capacity utilization is currently in the early 80% range.",
+   "quote": "our capacity utilization in the quarter was in the early 80% range.",
+   "cite": "C4:11",
+   "horizon": "current",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "other",
+   "statement": "We expect our working capital cycle to normalize to 50 to 55 days in the coming quarters.",
+   "quote": "We expect this to normalize to our long-term steady range of 50 to 55 days in the coming quarters.",
+   "cite": "C4:5",
+   "horizon": "in the coming quarters",
+   "kind": "directional",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G19"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded confident about growth prospects and operational execution, emphasizing strong demand and strategic initiatives.",
+   "pressure": [
+    {
+     "text": "Analysts sought clarity on the timeline for EHV plant commissioning.",
+     "cites": [
+      "C1:18"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about growth prospects and strategic investments.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on volume growth and pricing strategies.",
+     "cites": [
+      "C2:7",
+      "C2:18"
+     ]
+    },
+    {
+     "text": "Analysts inquired about export growth and market conditions.",
+     "cites": [
+      "C2:18"
+     ]
+    },
+    {
+     "text": "Analysts questioned the sustainability of FMEG margins.",
+     "cites": [
+      "C2:18"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f66f17ac-c40f-4309-afca-3e66af0956a0.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded confident about future growth and strategic initiatives, emphasizing their commitment to long-term goals.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of geopolitical events on demand and growth projections.",
+     "cites": [
+      "C3:10",
+      "C3:12"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding capacity utilization and future capex plans.",
+     "cites": [
+      "C3:15",
+      "C3:16"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on margin expectations amid changing market conditions.",
+     "cites": [
+      "C3:14",
+      "C3:18"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded confident about growth prospects and margin recovery despite current challenges.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the impact of commodity prices on margins and demand.",
+     "cites": [
+      "C4:9",
+      "C4:17"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the company's pricing strategy in response to inflation.",
+     "cites": [
+      "C4:9",
+      "C4:18"
+     ]
+    },
+    {
+     "text": "Analysts questioned the sustainability of growth in light of rising costs.",
+     "cites": [
+      "C4:17"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G6",
+   "promise": "We will continue to grow at 1.5x of market growth.",
+   "quote": "We have guided that we'll continue to grow at 1.5x of market growth.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:18",
+   "horizon": "FY30",
+   "delivered": "Quarterly revenue grew 52.8% year on year in Sep 2026, but no industry growth rate is provided for comparison.",
+   "verdict": "too_early",
+   "cites": [
+    "N35"
+   ]
+  },
+  {
+   "guidance": "G7",
+   "promise": "We maintain our medium- to long-term margin guidance of 11% to 13%.",
+   "quote": "consistent with our Project Spring roadmap, we continue to maintain our medium- to long-term margin guidance of 11% to 13% for this business.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:5",
+   "horizon": "FY30",
+   "delivered": "Operating margin was 14% in Sep 2026, within the 11% to 13% range, but no long-term trend is established.",
+   "verdict": "too_early",
+   "cites": [
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G8",
+   "promise": "We target EBITDA margins of 8% to 10% by FY 2030.",
+   "quote": "we target EBITDA margins of 8% to 10% by FY 2030.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:6",
+   "horizon": "FY30",
+   "delivered": "Operating margin was 14% in Sep 2026, above the 8% to 10% target for FY30.",
+   "verdict": "too_early",
+   "cites": [
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G11",
+   "promise": "We will continue to deliver 1.5x of market growth.",
+   "quote": "If market is growing, say, for example, 10-12%, we'll continue to deliver 1.5x of that growth.",
+   "said_in": "May 2026",
+   "promise_cite": "C3:11",
+   "horizon": "FY27",
+   "delivered": "Quarterly revenue grew 52.8% year on year in Sep 2026, but no industry growth rate is provided for comparison.",
+   "verdict": "too_early",
+   "cites": [
+    "N35"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "We expect to sustain medium- to long-term EBITDA margins within our guided range.",
+   "quote": "we remain confident of sustaining medium- to long-term EBITDA margins within our guided range of 11% to 13%.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:7",
+   "horizon": "FY30",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We expect the EHV plant to commission in FY28.",
+   "quote": "we are expecting the EHV plant to now commission somewhere in FY 2028.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:18",
+   "horizon": "FY28",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G4",
+   "promise": "We incurred capital expenditures of INR 6.1 billion in the first half.",
+   "quote": "During the first half of the year, we incurred capital expenditures of INR 6.1 billion.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:6",
+   "horizon": "H1 FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 0,
+  "too_early": 7
+ },
+ "divergences": [
+  {
+   "text": "G9 promised INR 800 crores from Bharat Net in FY27, but no such revenue is reported.",
+   "cites": [
+    "G9"
+   ]
+  },
+  {
+   "text": "G10 expected a sizable pickup in U.S. and overall exports, but no export data is provided.",
+   "cites": [
+    "G10"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "What is the current working capital cycle, and how does it compare to the long-term target of 45 to 50 days?",
+   "answer": "The current working capital cycle is 30 days. This is below the long-term target of 45 to 50 days.",
+   "cites": [
+    "N30"
+   ],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to achieve the export growth promised in G10 without reported data?",
+   "answer": "The management's expectation for a sizable pickup in U.S. export and overall exports is stated in G10. However, there is no reported data available to support this claim at this time.",
+   "cites": [
+    "G10"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Polycab India shows strong revenue growth but faces challenges in meeting export promises.",
+  "narrative_vs_numbers": {
+   "text": "Polycab India's reported numbers show significant revenue and profit growth, with a 52.8% increase in quarterly revenue year-on-year as of September 2026. However, management's promises regarding export growth and specific revenue contributions from Bharat Net have not been substantiated with reported data.",
+   "cites": [
+    "N35",
+    "G9",
+    "G10"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Polycab India achieved a substantial 52.8% year-on-year growth in quarterly revenue as of September 2026.",
+    "cites": [
+     "N35"
+    ]
+   },
+   {
+    "text": "The company's net profit increased from ₹2,046 Cr in FY25 to ₹2,708 Cr in FY26, reflecting strong profitability.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Free cash flow significantly increased to ₹2,340 Cr in FY26, indicating strong cash generation.",
+    "cites": [
+     "N24"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Management's promise of ₹800 crores from Bharat Net in FY27 has not been reflected in reported revenue.",
+    "cites": [
+     "G9"
+    ]
+   },
+   {
+    "text": "Despite expectations for export growth, no data has been reported to support a sizable pickup in U.S. and overall exports.",
+    "cites": [
+     "G10"
+    ]
+   },
+   {
+    "text": "The stock's P/E ratio is relatively high at 38.7, which may indicate overvaluation.",
+    "cites": [
+     "N2"
+    ]
+   }
+  ],
+  "ask_management": [
+   "What steps are being taken to achieve the promised ₹800 crores from Bharat Net in FY27?",
+   "Can you provide data to support the expected growth in U.S. and overall exports?",
+   "How does the company plan to address the high P/E ratio and ensure sustainable growth?"
+  ]
+ },
+ "audit": {
+  "claims": 65,
+  "dropped": 6,
+  "seconds": 76.6,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue grew from ₹ 22,408 Cr in FY25 to ₹ 28,884 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "19 explicit promises across 4 calls. Management sounded confident about growth prospects and operational execution, emphasizing strong demand and strategic initiatives."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 7 testable promises: 0 delivered, 0 partly, 0 missed, 7 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "What is the current working capital cycle, and how does it compare to the long-term target of 45 to 50 days?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The current working capital cycle is 30 days. This is below the long-term target of 45 to 50 days.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to achieve the export growth promised in G10 without reported data?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "The management's expectation for a sizable pickup in U.S. export and overall exports is stated in G10. However, there is no reported data available to support this claim at this time.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Polycab India shows strong revenue growth but faces challenges in meeting export promises."
+  }
+ ]
+}

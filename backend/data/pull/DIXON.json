@@ -1,0 +1,1073 @@
+{
+ "version": 5,
+ "symbol": "DIXON",
+ "name": "Dixon Technologies",
+ "generated_at": "2026-11-13 01:43",
+ "top_ratios": {
+  "Market Cap": "₹ 79,633 Cr.",
+  "Current Price": "₹ 12,992",
+  "High / Low": "₹ 15,775 / 9,600",
+  "Stock P/E": "51.4",
+  "Book Value": "₹ 961",
+  "Dividend Yield": "0.08 %",
+  "ROCE": "29.2 %",
+  "ROE": "25.2 %",
+  "Face Value": "₹ 2.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 79,633 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 51.4"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 961"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.08 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 29.2 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 25.2 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 6,448 | FY22 10,697 | FY23 12,192 | FY24 17,691 | FY25 38,860 | FY26 48,873"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 4.5 | FY22 3.6 | FY23 4.3 | FY24 4 | FY25 3.9 | FY26 3.8"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 160 | FY22 190 | FY23 255 | FY24 375 | FY25 1,233 | FY26 1,644"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 27.3 | FY22 32 | FY23 42.9 | FY24 61.5 | FY25 182 | FY26 237"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 58.9%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 49.9%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 86.1%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 59.4%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹58,523 cr, net profit ₹1,747 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 667 | FY23 453 | FY24 489 | FY25 671 | FY26 994 | Sep 2026 1,236"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 997 | FY23 1,285 | FY24 1,695 | FY25 3,010 | FY26 4,677 | Sep 2026 5,878"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0.7 | FY23 0.3 | FY24 0.3 | FY25 0.2 | FY26 0.2 | Sep 2026 0.2"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 22 | FY23 120 | FY24 68 | FY25 257 | FY26 571 | Sep 2026 885"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 1,003 | FY23 1,244 | FY24 1,996 | FY25 2,774 | FY26 4,172 | Sep 2026 4,271"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 8.9 | FY22 7.9 | FY23 8.2 | FY24 9.1 | FY25 12.4 | FY26 18.5"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 170 | FY22 273 | FY23 726 | FY24 584 | FY25 1,150 | FY26 1,782"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -265 | FY22 -464 | FY23 -356 | FY24 -531 | FY25 -1,093 | FY26 -1,138"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 2 | FY22 -145 | FY23 276 | FY24 16 | FY25 254 | FY26 724"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 122% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 62 | FY22 46 | FY23 51 | FY24 48 | FY25 65 | FY26 49"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 47 | FY22 43 | FY23 32 | FY24 39 | FY25 41 | FY26 31"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 108 | FY22 86 | FY23 81 | FY24 92 | FY25 111 | FY26 86"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 1 | FY22 3 | FY23 2 | FY24 -6 | FY25 -5 | FY26 -7"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 9 | FY22 3 | FY23 -2 | FY24 -2 | FY25 2 | FY26 -3"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 30 | FY22 23 | FY23 24 | FY24 29 | FY25 40 | FY26 29"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 10,454 | FY25 10,293 | Jun 2025 12,836 | Sep 2025 14,855 | Dec 2025 10,672 | FY26 10,511 | Jun 2026 15,548 | Sep 2026 21,794"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 3.7 | FY25 4.3 | Jun 2025 3.8 | Sep 2025 3.8 | Dec 2025 3.9 | FY26 3.9 | Jun 2026 3 | Sep 2026 2.7"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 216 | FY25 465 | Jun 2025 280 | Sep 2025 746 | Dec 2025 321 | FY26 298 | Jun 2026 718 | Sep 2026 411"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 28.8 | Dec 2025 2.1 | Mar 2026 2.1 | Jun 2026 21.1 | Sep 2026 46.7"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 81.1 | Dec 2025 48.6 | Mar 2026 -35.9 | Jun 2026 156 | Sep 2026 -44.9"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved -1.1 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/DIXON/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ef88e3c-352d-4223-a8ec-bdd7d3aa31c1.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=995a3a71-4a1e-4c1f-a29a-6c6747e4ca10.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p11",
+   "name": "Gaurav Malhotra",
+   "headline": "Ex-COO, electronics manufacturing",
+   "relation": "Met as management, 2022 plant visit",
+   "strength": 3,
+   "last_contact": "2026-04-30",
+   "days_since_contact": 197,
+   "score": 89.9,
+   "angle": "alumnus",
+   "why": "President, Mobile Division at Dixon Technologies (2014–2022)",
+   "knows": "How Dixon Technologies runs from the inside: people, culture, execution."
+  },
+  {
+   "id": "p28",
+   "name": "Devansh Goel",
+   "headline": "Semiconductor packaging entrepreneur",
+   "relation": "IIT Bombay junior",
+   "strength": 3,
+   "last_contact": "2026-08-03",
+   "days_since_contact": 102,
+   "score": 49.5,
+   "angle": "competitor",
+   "why": "Senior Manager, OSAT at Tata Electronics (2019–2024), which competes with Dixon Technologies",
+   "knows": "How Dixon Technologies is seen by a rival: pricing, share shifts, who is winning deals."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "Dixon Technologies (India) Limited is engaged in manufacturing and providing telecom and networking products, as well as consumer electronics. The company focuses on operational excellence and innovation in its offerings.",
+   "cites": [
+    "A:81",
+    "A:75"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Telecom & Networking Products",
+    "text": "This division includes customer-premise equipment and telecom infrastructure products. It is one of India's leading telecom electronics manufacturing platforms.",
+    "cites": [
+     "A:81"
+    ]
+   },
+   {
+    "name": "Consumer Electronics",
+    "text": "The company manufactures various consumer electronics, contributing to its overall revenue.",
+    "cites": [
+     "A:75"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "The market capitalization is ₹79,633 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 51.4.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is low at 0.08%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Revenue grew significantly with a 3-year CAGR of 58.9%.",
+    "cites": [
+     "N11"
+    ]
+   },
+   {
+    "text": "Net profit has a strong 3-year CAGR of 86.1%.",
+    "cites": [
+     "N13"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth was 46.7% year on year in Sep 2026.",
+    "cites": [
+     "N35"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Total borrowings increased to ₹1,236 Cr. as of Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio remains stable at 0.2.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Shareholders' equity rose to ₹5,878 Cr. as of Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cash from operations reached ₹1,782 Cr. in FY26.",
+    "cites": [
+     "N22"
+    ]
+   },
+   {
+    "text": "Free cash flow improved to ₹724 Cr. in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations is 122% of cumulative net profit from FY22 to FY26.",
+    "cites": [
+     "N25"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We feel confident that we should be doing approximately 3.5 million units per quarter.",
+   "quote": "We feel confident that we should be doing approximately 3.5 million units per quarter.",
+   "cite": "C1:10",
+   "horizon": "next fiscal year",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "growth",
+   "statement": "We feel that in next couple of years, this is going to be almost INR 15,000 crore to INR 20,000 crore business for us.",
+   "quote": "we feel that in next couple of years, this is going to be almost INR 15,000 crore to INR 20,000 crore business for us.",
+   "cite": "C1:11",
+   "horizon": "next couple of years",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "capex",
+   "statement": "We are migrating from the present hybrid category wherein we had committed a CAPEX of INR 250 crores under IT PLI 2 to the global category wherein we are upping our CAPEX plans to INR 500 crores.",
+   "quote": "we are migrating from the present hybrid category wherein we had committed a CAPEX of INR 250 crores under IT PLI 2 to the global category wherein we are upping our CAPEX plans to INR 500 crores.",
+   "cite": "C1:10",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect the operations to commence from Q3 of this fiscal.",
+   "quote": "we expect the operations to commence from Q3 of this fiscal.",
+   "cite": "C1:5",
+   "horizon": "Q3 FY27",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We feel that we should be touching a number of almost 1.8 to 2 million units next year.",
+   "quote": "we feel that we should be touching a number of almost 1.8 to 2 million units next year.",
+   "cite": "C1:15",
+   "horizon": "next year",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "debt",
+   "statement": "We feel confident that as the earnings visibility improves, even next year we should be completely meeting our CAPEX requirements from internal accruals.",
+   "quote": "we feel confident that as the earnings visibility improves, even next year we should be completely meeting our CAPEX requirements from internal accruals.",
+   "cite": "C1:22",
+   "horizon": "next year",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G6"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect 20% to 25% volume growth quarter-on-quarter.",
+   "quote": "We expect 20% to 25% volume growth quarter-on-quarter growth as consumer demand strengthens and we have a strong order book.",
+   "cite": "C2:4",
+   "horizon": "Q2 FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect operations to commence from Q3 of this fiscal.",
+   "quote": "We expect the operations to commence from Q3 of the current fiscal.",
+   "cite": "C2:5",
+   "horizon": "Q3 FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "capex",
+   "statement": "Our capex has been to the tune of INR335 crores.",
+   "quote": "So our capex has been to the tune of INR335 crores.",
+   "cite": "C2:8",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "growth",
+   "statement": "We feel we should be somewhere close to last year's number of 32 million.",
+   "quote": "We feel we should be somewhere close to that number.",
+   "cite": "C2:9",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to start export deliveries in Q2 and Q3 of this fiscal.",
+   "quote": "We expect to start export deliveries to the largest retail chain in U.S. and Germany in Q2 and Q3 of this fiscal.",
+   "cite": "C2:6",
+   "horizon": "Q2 FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are targeting almost INR56,000 crores without the Vivo numbers.",
+   "quote": "Next year, we are targeting almost INR56,000 crores without the Vivo numbers.",
+   "cite": "C3:15",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect a strong growth in volume for our existing U.S. brand.",
+   "quote": "We expect a strong growth in volume for our existing U.S. brand.",
+   "cite": "C3:4",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are targeting a revenue of almost INR2,500 crores in that business.",
+   "quote": "We are targeting a revenue of almost INR2,500 crores in that business.",
+   "cite": "C3:9",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect 3x growth in the revenues in the current fiscal against last year.",
+   "quote": "We expect 3x growth in the revenues in the current fiscal against last year.",
+   "cite": "C3:5",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "capex",
+   "statement": "The capex allocation is largely going to be on three things.",
+   "quote": "The capex allocation is largely going to be on three things.",
+   "cite": "C3:19",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "capacity",
+   "statement": "A new facility for smartphone manufacturing is expected to start operations by Q2 of FY27.",
+   "quote": "Our new 4,000 square feet facility for 74:26 launch at JV for manufacturing of smartphones and other electronic devices is expected to start operations by Q2 of '26-'27.",
+   "cite": "C4:4",
+   "horizon": "Q2 FY27",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "capacity",
+   "statement": "Construction of a 1 million square feet facility is expected to be completed by Q1 of FY27.",
+   "quote": "Construction of a 1 million square feet facility in Noida with higher capacities for our anchor customers is expected to be completed by Q1 of financial year '26-'27.",
+   "cite": "C4:4",
+   "horizon": "Q1 FY27",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "growth",
+   "statement": "We target to expand volumes of smartphone camera modules from 40 million units in this fiscal to 190 million to 200 million units per annum.",
+   "quote": "We target to expand volumes of smartphone camera modules from 40 million units in this fiscal to 190 million to 200 million units per annum.",
+   "cite": "C4:5",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G19"
+  },
+  {
+   "metric": "capex",
+   "statement": "Capex for FY26 is expected to be between INR1,100 crores and INR1,200 crores.",
+   "quote": "We feel that in the overall fiscal, it should be somewhere between INR1,100 crores, INR1,200 crores.",
+   "cite": "C4:17",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G20"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to close at almost INR5,500 crores to INR6,000 crores in the current fiscal for exports.",
+   "quote": "We feel we should be closing at almost INR5,500 crores, INR6,000 crores in the current fiscal.",
+   "cite": "C4:12",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G21"
+  },
+  {
+   "metric": "margin",
+   "statement": "We still feel that we should be able to have a margin of somewhere between 2.8% to 3.1% in our mobile phone business.",
+   "quote": "We still feel that we should be able to have a margin of somewhere between 2.8% to 3.1%, 3.2% in our mobile phone business.",
+   "cite": "C4:10",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G22"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=995a3a71-4a1e-4c1f-a29a-6c6747e4ca10.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded optimistic about growth prospects and capacity expansion, emphasizing confidence in future revenue generation.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of memory prices on margins and revenue growth.",
+     "cites": [
+      "C1:14",
+      "C1:20"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the timeline for new projects and their expected contributions.",
+     "cites": [
+      "C1:12",
+      "C1:15"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the company's capital allocation strategy and expected returns.",
+     "cites": [
+      "C1:21",
+      "C1:22"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded optimistic about growth prospects and operational expansions, citing strong order books and strategic initiatives.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the impact of PLI 2 scheme on margins and volumes.",
+     "cites": [
+      "C2:8",
+      "C2:12"
+     ]
+    },
+    {
+     "text": "Questions regarding working capital and its implications.",
+     "cites": [
+      "C2:8"
+     ]
+    },
+    {
+     "text": "Inquiries about the expected revenue growth in telecom and IT hardware.",
+     "cites": [
+      "C2:21"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded optimistic about growth prospects and capacity expansions despite current challenges.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on growth expectations and capex plans.",
+     "cites": [
+      "C3:9",
+      "C3:20"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded optimistic about future growth and capacity expansion despite current challenges.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the impact of rising memory prices on margins and volumes.",
+     "cites": [
+      "C4:8",
+      "C4:4"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the timeline for the Vivo JV approval.",
+     "cites": [
+      "C4:8",
+      "C4:12"
+     ]
+    },
+    {
+     "text": "Analysts questioned the potential impact of PLI scheme changes on margins.",
+     "cites": [
+      "C4:8",
+      "C4:20"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G7",
+   "promise": "We expect 20% to 25% volume growth quarter-on-quarter.",
+   "quote": "We expect 20% to 25% volume growth quarter-on-quarter growth as consumer demand strengthens and we have a strong order book.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:4",
+   "horizon": "Q2 FY27",
+   "delivered": "Quarterly revenue growth was 46.7% year on year in Sep 2026, but no specific volume growth data is available.",
+   "verdict": "too_early",
+   "cites": [
+    "N35"
+   ]
+  },
+  {
+   "guidance": "G9",
+   "promise": "Our capex has been to the tune of INR335 crores.",
+   "quote": "So our capex has been to the tune of INR335 crores.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:8",
+   "horizon": "FY27",
+   "delivered": "Capex for FY26 was INR 1,138 crores, which is significantly higher than the promised INR 335 crores.",
+   "verdict": "missed",
+   "cites": [
+    "N23"
+   ]
+  },
+  {
+   "guidance": "G10",
+   "promise": "We feel we should be somewhere close to last year's number of 32 million.",
+   "quote": "We feel we should be somewhere close to that number.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:9",
+   "horizon": "FY27",
+   "delivered": "Annual revenue for FY26 was INR 48,873 crores, which is higher than last year's 32 million.",
+   "verdict": "delivered",
+   "cites": [
+    "N7"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "We feel confident that we should be doing approximately 3.5 million units per quarter.",
+   "quote": "We feel confident that we should be doing approximately 3.5 million units per quarter.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:10",
+   "horizon": "next fiscal year",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G2",
+   "promise": "We feel that in next couple of years, this is going to be almost INR 15,000 crore to INR 20,000 crore business for us.",
+   "quote": "we feel that in next couple of years, this is going to be almost INR 15,000 crore to INR 20,000 crore business for us.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:11",
+   "horizon": "next couple of years",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We are migrating from the present hybrid category wherein we had committed a CAPEX of INR 250 crores under IT PLI 2 to the global category wherein we are upping our CAPEX plans to INR 500 crores.",
+   "quote": "we are migrating from the present hybrid category wherein we had committed a CAPEX of INR 250 crores under IT PLI 2 to the global category wherein we are upping our CAPEX plans to INR 500 crores.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:10",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 1,
+  "partly": 0,
+  "missed": 1,
+  "too_early": 4
+ },
+ "divergences": [
+  {
+   "text": "Capex for FY26 was significantly higher than the promised INR 335 crores.",
+   "cites": [
+    "G9",
+    "N23"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "What is the actual volume growth for Q2 FY27 compared to Q1 FY27?",
+   "answer": "The evidence does not provide information on the actual volume growth for Q2 FY27 compared to Q1 FY27.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to address the discrepancy in capex spending for FY26?",
+   "answer": "Management plans to address the discrepancy in capex spending by migrating from a hybrid category with a committed capex of INR 250 crores to a global category with increased capex plans of INR 500 crores. They also feel confident that they will meet their capex requirements from internal accruals as earnings visibility improves.",
+   "cites": [
+    "G3",
+    "G6"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Dixon Technologies shows strong revenue growth but faces challenges in capex alignment and profit margins.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of strong growth aligns with reported revenue growth, but there are discrepancies in capex spending. The company reported a significant increase in revenue, yet capex was much higher than promised, and profit margins have declined.",
+   "cites": [
+    "N11",
+    "N35",
+    "G9",
+    "N23",
+    "N33",
+    "N37"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Dixon Technologies has achieved a remarkable 3-year revenue CAGR of 58.9%, indicating strong growth momentum.",
+    "cites": [
+     "N11"
+    ]
+   },
+   {
+    "text": "The company's net profit has grown at an impressive 3-year CAGR of 86.1%, showcasing robust profitability improvements.",
+    "cites": [
+     "N13"
+    ]
+   },
+   {
+    "text": "The debt-to-equity ratio remains stable at 0.2, reflecting a strong balance sheet.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Capex for FY26 was significantly higher than the promised INR 335 crores, indicating potential overspending or misalignment with guidance.",
+    "cites": [
+     "G9",
+     "N23"
+    ]
+   },
+   {
+    "text": "Operating margins have declined by 1.1 percentage points from Sep 2025 to Sep 2026, which could impact future profitability.",
+    "cites": [
+     "N33",
+     "N37"
+    ]
+   },
+   {
+    "text": "The dividend yield is low at 0.08%, which may not be attractive to income-focused investors.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How does management plan to address the discrepancy in capex spending for FY26, which was significantly higher than promised?",
+   "What strategies are in place to improve operating margins, which have declined over the past year?",
+   "Given the low dividend yield, how does the company plan to enhance shareholder returns in the future?"
+  ]
+ },
+ "audit": {
+  "claims": 63,
+  "dropped": 5,
+  "seconds": 53.8,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Revenue grew significantly with a 3-year CAGR of 58.9%."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "22 explicit promises across 4 calls. Management sounded optimistic about growth prospects and capacity expansion, emphasizing confidence in future revenue generation."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 6 testable promises: 1 delivered, 0 partly, 1 missed, 4 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "What is the actual volume growth for Q2 FY27 compared to Q1 FY27?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The evidence does not provide information on the actual volume growth for Q2 FY27 compared to Q1 FY27.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to address the discrepancy in capex spending for FY26?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management plans to address the discrepancy in capex spending by migrating from a hybrid category with a committed capex of INR 250 crores to a global category with increased capex plans of INR 500 crores. They also feel confident that they will meet their capex requirements from internal accruals as earnings visibility improves.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Dixon Technologies shows strong revenue growth but faces challenges in capex alignment and profit margins."
+  }
+ ]
+}

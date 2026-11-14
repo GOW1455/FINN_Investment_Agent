@@ -1,0 +1,912 @@
+{
+ "version": 5,
+ "symbol": "CDSL",
+ "name": "CDSL",
+ "generated_at": "2026-11-13 01:45",
+ "top_ratios": {
+  "Market Cap": "₹ 30,410 Cr.",
+  "Current Price": "₹ 1,455",
+  "High / Low": "₹ 1,674 / 1,116",
+  "Stock P/E": "60.2",
+  "Book Value": "₹ 94.9",
+  "Dividend Yield": "0.88 %",
+  "ROCE": "32.0 %",
+  "ROE": "24.5 %",
+  "Face Value": "₹ 10.0"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 30,410 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 60.2"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 94.9"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.88 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 32.0 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 24.5 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 344 | FY22 551 | FY23 555 | FY24 812 | FY25 1,082 | FY26 1,145"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 62 | FY22 66 | FY23 57 | FY24 60 | FY25 58 | FY26 51"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 201 | FY22 312 | FY23 276 | FY24 420 | FY25 526 | FY26 455"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 9.6 | FY22 14.9 | FY23 13.2 | FY24 20.1 | FY25 25.2 | FY26 21.8"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 27.3%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 27.2%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 18.1%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 17.8%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹1,254 cr, net profit ₹504 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 0 | FY23 2 | FY24 1 | FY25 3 | FY26 2 | Sep 2026 2"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 1,092 | FY23 1,213 | FY24 1,463 | FY25 1,760 | FY26 1,960 | Sep 2026 1,984"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0 | FY23 0 | FY24 0 | FY25 0 | FY26 0 | Sep 2026 0"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 4 | FY23 174 | FY24 4 | FY25 7 | FY26 7 | Sep 2026 12"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 106 | FY23 125 | FY24 342 | FY25 446 | FY26 500 | Sep 2026 510"
+  },
+  {
+   "id": "N21",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 193 | FY22 283 | FY23 249 | FY24 386 | FY25 543 | FY26 467"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -107 | FY22 -146 | FY23 -126 | FY24 -249 | FY25 -299 | FY26 -185"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 175 | FY22 258 | FY23 44 | FY24 313 | FY25 388 | FY26 346"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 97% of cumulative net profit"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 40 | FY22 30 | FY23 25 | FY24 30 | FY25 18 | FY26 21"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 40 | FY22 30 | FY23 25 | FY24 30 | FY25 18 | FY26 21"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 -110 | FY22 -75 | FY23 -45 | FY24 -22 | FY25 -57 | FY26 -32"
+  },
+  {
+   "id": "N28",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 31 | FY22 40 | FY23 30 | FY24 40 | FY25 42 | FY26 32"
+  },
+  {
+   "id": "N29",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 278 | FY25 224 | Jun 2025 259 | Sep 2025 319 | Dec 2025 304 | FY26 263 | Jun 2026 293 | Sep 2026 394"
+  },
+  {
+   "id": "N30",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 58 | FY25 49 | Jun 2025 50 | Sep 2025 55 | Dec 2025 52 | FY26 44 | Jun 2026 47 | Sep 2026 58"
+  },
+  {
+   "id": "N31",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 130 | FY25 100 | Jun 2025 102 | Sep 2025 140 | Dec 2025 133 | FY26 80 | Jun 2026 118 | Sep 2026 173"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 -0.9 | Dec 2025 9.4 | Mar 2026 17.4 | Jun 2026 13.1 | Sep 2026 23.5"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 -13.6 | Dec 2025 2.3 | Mar 2026 -20 | Jun 2026 15.7 | Sep 2026 23.6"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Operating margin moved +3.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/CDSL/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://archives.nseindia.com/annual_reports/AR_29665_CDSL_2025_2026_A_15773086_08072026190152.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_05112026164633_NSEIntimationTranscript02112026Sd.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Aug 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_07082026155803_NSEintimationtranscript.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_07052026193244_NSEintimationtranscript_Sign.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Feb 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_06022026152040_NSEintimationtranscriptSigned.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p16",
+   "name": "Tanvi Joshi",
+   "headline": "VP Product, depository services",
+   "relation": "Former colleague at Kotak",
+   "strength": 3,
+   "last_contact": "2026-07-08",
+   "days_since_contact": 128,
+   "score": 94.1,
+   "angle": "insider",
+   "why": "VP Product at CDSL (since 2022)",
+   "knows": "Demat account additions, tariff changes and broker concentration."
+  },
+  {
+   "id": "p05",
+   "name": "Sandeep Bhatia",
+   "headline": "Partner, mid-market private equity",
+   "relation": "Former colleague at McKinsey",
+   "strength": 5,
+   "last_contact": "2026-11-02",
+   "days_since_contact": 11,
+   "score": 38.0,
+   "angle": "sector expert",
+   "why": "Knows Capital Markets: financial services, asset management, capital markets",
+   "knows": "The sector backdrop for CDSL: demand, regulation, who the credible operators are."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "Central Depository Services (India) Limited (CDSL) provides depository services to facilitate the holding and transfer of securities in electronic form. The company leverages technology to enhance operational efficiency and support market integrity.",
+   "cites": [
+    "A:23",
+    "A:24"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Depository Services",
+    "text": "CDSL offers secure and efficient depository services, contributing to the growth of India's capital markets.",
+    "cites": [
+     "A:23"
+    ]
+   },
+   {
+    "name": "Technology and Digitalisation",
+    "text": "The company focuses on technological advancements to improve service accessibility and operational efficiency.",
+    "cites": [
+     "A:23",
+     "A:24"
+    ]
+   },
+   {
+    "name": "Investor Education",
+    "text": "CDSL emphasizes investor education to empower participants in the securities market.",
+    "cites": [
+     "A:24"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "The market capitalization is ₹30,410 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 60.2.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is 0.88%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Revenue grew by 23.5% year-on-year in Sep 2026.",
+    "cites": [
+     "N32"
+    ]
+   },
+   {
+    "text": "Net profit increased by 23.6% year-on-year in Sep 2026.",
+    "cites": [
+     "N33"
+    ]
+   },
+   {
+    "text": "The 3-year CAGR for revenue is 27.3%.",
+    "cites": [
+     "N11"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Total borrowings remain low at ₹2 Cr as of Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio is 0, indicating no debt.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Shareholders' equity increased to ₹1,984 Cr as of Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cumulative cash from operations is 97% of cumulative net profit.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Free cash flow was ₹346 Cr in FY26.",
+    "cites": [
+     "N23"
+    ]
+   },
+   {
+    "text": "Cash from operations decreased to ₹467 Cr in FY26.",
+    "cites": [
+     "N21"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We hope that this trend continues.",
+   "quote": "we hope that this trend continues. It's not specific to any particular IPO or a one-off.",
+   "cite": "C1:6",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "other",
+   "statement": "We continue to invest in our infrastructure.",
+   "quote": "we continue to embark on this journey to invest in technology as well as the employees.",
+   "cite": "C1:6",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "other",
+   "statement": "We will publish the number of demat accounts for October end.",
+   "quote": "We shall shortly be publishing the number of demat accounts for October end on our website.",
+   "cite": "C1:3",
+   "horizon": "October 2026",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to maintain our market share of approximately 80%.",
+   "quote": "maintaining a market share of approximately 80%",
+   "cite": "C2:3",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G4"
+  },
+  {
+   "metric": "other",
+   "statement": "We are in active engagement for ISIN issuance.",
+   "quote": "we are in active engagement. It's not yet gone live.",
+   "cite": "C2:9",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G5"
+  },
+  {
+   "metric": "other",
+   "statement": "We will continue to observe the impact of the Search API revenue.",
+   "quote": "we'll have to wait for another quarter to see what really happens.",
+   "cite": "C2:10",
+   "horizon": "next quarter",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "other",
+   "statement": "We aim to deliver consistent and sustainable financial and business performance.",
+   "quote": "Through continuous innovation and investor education, we aim to deliver consistent and sustainable financial and business performance while upholding our investor-centric culture.",
+   "cite": "C3:5",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We will continue to invest in technology to support scalability.",
+   "quote": "Our commitment is to remain constant as a partner to the entire ecosystem.",
+   "cite": "C3:8",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "other",
+   "statement": "We expect to see more large IPOs in FY27.",
+   "quote": "Yes, there are large IPOs expected in this financial year.",
+   "cite": "C3:10",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "other",
+   "statement": "We will disclose folio numbers in the first quarter call of FY27.",
+   "quote": "Folio as on 31st March '26, we'll be disclosing in the earnings call for June quarter '26-'27.",
+   "cite": "C3:8",
+   "horizon": "Q1 FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We will continue to monitor and upgrade the capacity, security and sophistication.",
+   "quote": "We continue to prioritize our Atmanirbhar investor focused approach while striving for innovation into consistent and sustainable financial and business performance.",
+   "cite": "C4:4",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "other",
+   "statement": "We are building our systems well to cater to large IPOs expected to come.",
+   "quote": "CDSL has the right infrastructure to ensure that it can cater to these large demands.",
+   "cite": "C4:9",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Nov 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_05112026164633_NSEIntimationTranscript02112026Sd.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded optimistic about future growth driven by IPO activity and ongoing investments in technology.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the sustainability of IPO revenue growth.",
+     "cites": [
+      "C1:6"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the impact of technology investments on margins.",
+     "cites": [
+      "C1:7"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the competitive landscape in the KYC segment.",
+     "cites": [
+      "C1:10"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Aug 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_07082026155803_NSEintimationtranscript.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded cautious and focused on long-term growth, emphasizing the importance of maintaining value propositions.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the lower growth in annual issuer charges despite increased folio counts.",
+     "cites": [
+      "C2:5"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the stability of technology expenses and future spending.",
+     "cites": [
+      "C2:6"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the impact of regulatory changes on revenue.",
+     "cites": [
+      "C2:8"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "May 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_07052026193244_NSEintimationtranscript_Sign.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded focused on growth and technology investment, emphasizing their commitment to scalability and market readiness.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the impact of technology costs and capacity creation.",
+     "cites": [
+      "C3:6",
+      "C3:8"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the future of KYC revenue and pricing strategies.",
+     "cites": [
+      "C3:12",
+      "C3:18"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on competitive pressures and market share.",
+     "cites": [
+      "C3:13"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Feb 2026",
+   "url": "https://nsearchives.nseindia.com/corporate/CDSL_06022026152040_NSEintimationtranscriptSigned.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded focused on infrastructure and capacity building to support future growth.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the rising technology costs and their impact on margins.",
+     "cites": [
+      "C4:5",
+      "C4:12"
+     ]
+    },
+    {
+     "text": "Concerns were raised about potential regulatory changes affecting KYC charges.",
+     "cites": [
+      "C4:10"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the impact of market conditions on business growth.",
+     "cites": [
+      "C4:9"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G7",
+   "promise": "We aim to deliver consistent and sustainable financial and business performance.",
+   "quote": "Through continuous innovation and investor education, we aim to deliver consistent and sustainable financial and business performance while upholding our investor-centric culture.",
+   "said_in": "May 2026",
+   "promise_cite": "C3:5",
+   "horizon": "ongoing",
+   "delivered": "Revenue and net profit showed strong growth in Sep 2026, indicating consistent performance.",
+   "verdict": "delivered",
+   "cites": [
+    "N32",
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G8",
+   "promise": "We will continue to invest in technology to support scalability.",
+   "quote": "Our commitment is to remain constant as a partner to the entire ecosystem.",
+   "said_in": "May 2026",
+   "promise_cite": "C3:8",
+   "horizon": "ongoing",
+   "delivered": "Fixed assets increased, suggesting investment in technology for scalability.",
+   "verdict": "delivered",
+   "cites": [
+    "N20"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "We hope that this trend continues.",
+   "quote": "we hope that this trend continues. It's not specific to any particular IPO or a one-off.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:6",
+   "horizon": "ongoing",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G2",
+   "promise": "We continue to invest in our infrastructure.",
+   "quote": "we continue to embark on this journey to invest in technology as well as the employees.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:6",
+   "horizon": "ongoing",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We will publish the number of demat accounts for October end.",
+   "quote": "We shall shortly be publishing the number of demat accounts for October end on our website.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:3",
+   "horizon": "October 2026",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 2,
+  "partly": 0,
+  "missed": 0,
+  "too_early": 3
+ },
+ "divergences": [
+  {
+   "text": "G10 promised disclosure of folio numbers in Q1 FY27, but no such disclosure is mentioned in the fact sheet.",
+   "cites": [
+    "G10"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "Why is there no data on market share or specific segment performance?",
+   "answer": "There is no data on market share or specific segment performance provided in the evidence. Therefore, I cannot address the Skeptic's question regarding this information.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to ensure transparency in disclosures, given the missed promise on folio numbers?",
+   "answer": "The management has not provided specific details on how they plan to ensure transparency in disclosures following the missed promise on folio numbers. They have stated they will disclose folio numbers in the first quarter call of FY27, but this has not yet occurred.",
+   "cites": [
+    "G10"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Strong revenue and profit growth in Sep 2026, but transparency issues remain.",
+  "narrative_vs_numbers": {
+   "text": "Management's story of consistent performance aligns with reported numbers, showing strong revenue and profit growth. However, there is a divergence in promised disclosures, affecting transparency.",
+   "cites": [
+    "N32",
+    "N33",
+    "G7",
+    "G10"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Revenue grew by 23.5% year-on-year in Sep 2026, indicating strong business performance.",
+    "cites": [
+     "N32"
+    ]
+   },
+   {
+    "text": "Net profit increased by 23.6% year-on-year in Sep 2026, showing profitability improvement.",
+    "cites": [
+     "N33"
+    ]
+   },
+   {
+    "text": "The company maintains a debt-free status with a debt-to-equity ratio of 0.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "The stock P/E ratio is high at 60.2, suggesting the stock may be overvalued.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "Cash from operations decreased to ₹467 Cr in FY26, indicating potential cash flow issues.",
+    "cites": [
+     "N21"
+    ]
+   },
+   {
+    "text": "Management failed to disclose folio numbers as promised, raising transparency concerns.",
+    "cites": [
+     "G10"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How do you plan to address the high P/E ratio and justify the current valuation?",
+   "What steps are being taken to improve cash from operations, which decreased in FY26?",
+   "Why were the folio numbers not disclosed as promised, and how will you ensure future transparency?"
+  ]
+ },
+ "audit": {
+  "claims": 55,
+  "dropped": 5,
+  "seconds": 69.6,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "34 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Revenue grew by 23.5% year-on-year in Sep 2026."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "12 explicit promises across 4 calls. Management sounded optimistic about future growth driven by IPO activity and ongoing investments in technology."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 5 testable promises: 2 delivered, 0 partly, 0 missed, 3 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Why is there no data on market share or specific segment performance?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "There is no data on market share or specific segment performance provided in the evidence. Therefore, I cannot address the Skeptic's question regarding this information.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to ensure transparency in disclosures, given the missed promise on folio numbers?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "The management has not provided specific details on how they plan to ensure transparency in disclosures following the missed promise on folio numbers. They have stated they will disclose folio numbers in the first quarter call of FY27, but this has not yet occurred.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Strong revenue and profit growth in Sep 2026, but transparency issues remain."
+  }
+ ]
+}

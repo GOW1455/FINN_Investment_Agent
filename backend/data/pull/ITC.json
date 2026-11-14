@@ -1,0 +1,568 @@
+{
+ "version": 5,
+ "symbol": "ITC",
+ "name": "ITC",
+ "generated_at": "2026-11-13 01:30",
+ "top_ratios": {
+  "Market Cap": "₹ 3,56,595 Cr.",
+  "Current Price": "₹ 284",
+  "High / Low": "₹ 412 / 253",
+  "Stock P/E": "18.9",
+  "Book Value": "₹ 57.0",
+  "Dividend Yield": "5.10 %",
+  "ROCE": "38.9 %",
+  "ROE": "29.3 %",
+  "Face Value": "₹ 1.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 3,56,595 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 18.9"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 57.0"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 5.10 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 38.9 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 29.3 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 49,257 | FY22 60,645 | FY23 70,919 | FY24 67,932 | FY25 75,323 | FY26 78,868"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 35 | FY22 34 | FY23 36 | FY24 37 | FY25 34 | FY26 35"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 13,383 | FY22 15,503 | FY23 19,477 | FY24 20,751 | FY25 35,052 | FY26 21,018"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 10.7 | FY22 12.4 | FY23 15.4 | FY24 16.4 | FY25 27.8 | FY26 16.5"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 3.6%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 9.9%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 2.6%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 9.4%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹77,255 cr, net profit ₹19,226 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 249 | FY23 306 | FY24 303 | FY25 285 | FY26 2,399 | Sep 2026 491"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 62,455 | FY23 69,155 | FY24 74,507 | FY25 70,030 | FY26 72,507 | Sep 2026 71,402"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0 | FY23 0 | FY24 0 | FY25 0 | FY26 0 | Sep 2026 0"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 3,226 | FY23 3,003 | FY24 2,861 | FY25 1,091 | FY26 1,602 | Sep 2026 1,924"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 24,232 | FY23 25,851 | FY24 27,820 | FY25 21,955 | FY26 22,443 | Sep 2026 26,766"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 339 | FY22 376 | FY23 356 | FY24 731 | FY25 970 | FY26 351"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 12,527 | FY22 15,776 | FY23 18,878 | FY24 17,179 | FY25 17,627 | FY26 18,464"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 5,740 | FY22 -2,238 | FY23 -5,732 | FY24 1,563 | FY25 -564 | FY26 -2,321"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 10,693 | FY22 13,767 | FY23 16,184 | FY24 13,724 | FY25 15,524 | FY26 16,332"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 79% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 19 | FY22 15 | FY23 15 | FY24 22 | FY25 23 | FY26 18"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 189 | FY22 150 | FY23 148 | FY24 191 | FY25 178 | FY26 209"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 78 | FY22 61 | FY23 59 | FY24 65 | FY25 55 | FY26 63"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 129 | FY22 104 | FY23 105 | FY24 148 | FY25 146 | FY26 164"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 36 | FY22 31 | FY23 20 | FY24 39 | FY25 45 | FY26 47"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 28 | FY22 33 | FY23 39 | FY24 36 | FY25 37 | FY26 39"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 18,790 | FY25 18,765 | Jun 2025 21,495 | Sep 2025 19,502 | Dec 2025 20,047 | FY26 17,825 | Jun 2026 19,114 | Sep 2026 20,269"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 34 | FY25 35 | Jun 2025 32 | Sep 2025 34 | Dec 2025 34 | FY26 39 | Jun 2026 27 | Sep 2026 28"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 5,013 | FY25 19,808 | Jun 2025 5,343 | Sep 2025 5,187 | Dec 2025 5,018 | FY26 5,470 | Jun 2026 4,509 | Sep 2026 4,229"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 -2.4 | Dec 2025 6.7 | Mar 2026 -5 | Jun 2026 -11.1 | Sep 2026 3.9"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 2.6 | Dec 2025 0.1 | Mar 2026 -72.4 | Jun 2026 -15.6 | Sep 2026 -18.5"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved -6.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/ITC/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p20",
+   "name": "Pooja Chawla",
+   "headline": "Head of Leaf Procurement turned FMCG consultant",
+   "relation": "IIM Ahmedabad batchmate",
+   "strength": 3,
+   "last_contact": "2026-02-27",
+   "days_since_contact": 259,
+   "score": 69.4,
+   "angle": "alumnus",
+   "why": "Category Manager, Foods at ITC (2010–2019)",
+   "knows": "How ITC runs from the inside: people, culture, execution."
+  },
+  {
+   "id": "p21",
+   "name": "Suresh Reddy",
+   "headline": "Ex-GM Finance, Reliance Retail",
+   "relation": "Met at a CFO roundtable, 2023",
+   "strength": 2,
+   "last_contact": "2025-09-12",
+   "days_since_contact": 427,
+   "score": 52.9,
+   "angle": "customer",
+   "why": "Finance Controller at DMart (Avenue Supermarts) (since 2023), which buys from ITC",
+   "knows": "What it is like to buy from ITC: pricing power, service, switching risk."
+  },
+  {
+   "id": "p13",
+   "name": "Rajat Kapoor",
+   "headline": "Partner, Tata group alumnus, now at a family office",
+   "relation": "Former colleague at Kotak",
+   "strength": 4,
+   "last_contact": "2026-08-15",
+   "days_since_contact": 90,
+   "score": 35.0,
+   "angle": "sector expert",
+   "why": "Knows Consumer: consumer, retail, Tata group",
+   "knows": "The sector backdrop for ITC: demand, regulation, who the credible operators are."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "ITC Limited operates in various sectors including FMCG, hotels, packaging, paperboards, and agribusiness. The company focuses on enhancing quality, efficiency, and effectiveness across its diverse business segments.",
+   "cites": [
+    "A:41",
+    "A:44"
+   ]
+  },
+  "segments": [
+   {
+    "name": "FMCG",
+    "text": "The FMCG segment recorded revenue of ₹24,209.75 crores, growing by 10.1% over the previous year. Segment results grew by 14.1% to ₹1,802.63 crores.",
+    "cites": [
+     "A:76"
+    ]
+   },
+   {
+    "name": "Personal Care Products",
+    "text": "The Personal Care Products Business delivered a resilient performance, focusing on building brands with purpose and driving innovation.",
+    "cites": [
+     "A:84"
+    ]
+   },
+   {
+    "name": "Tobacco",
+    "text": "Duty-paid cigarettes contribute more than 4/5th of the revenue generated from the tobacco sector.",
+    "cites": [
+     "A:71"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market capitalization is ₹ 3,56,595 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 18.9.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield stands at 5.10%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue increased from ₹ 70,919 Cr in FY23 to ₹ 78,868 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit decreased from ₹ 35,052 Cr in FY25 to ₹ 21,018 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth was 3.9% year on year in Sep 2026.",
+    "cites": [
+     "N35"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Borrowings increased significantly to ₹ 2,399 Cr in FY26.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio remains at 0 across all periods.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Shareholders' equity decreased from ₹ 74,507 Cr in FY24 to ₹ 71,402 Cr in Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cumulative cash from operations is 79% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Free cash flow was ₹ 16,332 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cash conversion cycle increased to 164 days in FY26.",
+    "cites": [
+     "N29"
+    ]
+   }
+  ]
+ },
+ "guidance": [],
+ "calls": [],
+ "status": "complete",
+ "scorecard": [],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 0,
+  "too_early": 0
+ },
+ "divergences": [],
+ "rebuttals": {
+  "numbers": {
+   "question": "Why did borrowings increase significantly to ₹ 2,399 Cr in FY26, and then decrease to ₹ 491 Cr by Sep 2026?",
+   "answer": "Borrowings increased significantly to ₹ 2,399 Cr in FY26, then decreased to ₹ 491 Cr by Sep 2026. The evidence does not provide specific reasons for these changes in borrowings.",
+   "cites": [
+    "N16"
+   ],
+   "concede": false
+  },
+  "guidance": {
+   "question": "Without explicit guidance, how can investors assess management's credibility in achieving future targets?",
+   "answer": "Without explicit guidance, investors can assess management's credibility by analyzing historical performance metrics such as revenue growth, profit margins, and return ratios. For instance, the company has shown a consistent ROCE of around 39% and a net profit CAGR of 9.4% over five years, indicating strong operational efficiency and profitability.",
+   "cites": [
+    "N5",
+    "N14",
+    "N31"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "ITC's net profit has significantly decreased despite revenue growth, raising concerns about profitability.",
+  "narrative_vs_numbers": {
+   "text": "Management has not provided explicit guidance, making it difficult to assess future targets. However, historical performance shows revenue growth but a sharp decline in net profit, indicating potential challenges in maintaining profitability.",
+   "cites": [
+    "N7",
+    "N9",
+    "N35",
+    "N36"
+   ]
+  },
+  "bull": [
+   {
+    "text": "ITC's annual revenue has consistently increased from ₹ 70,919 Cr in FY23 to ₹ 78,868 Cr in FY26, showing strong top-line growth.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "The company maintains a strong dividend yield of 5.10%, which is attractive to income-focused investors.",
+    "cites": [
+     "N4"
+    ]
+   },
+   {
+    "text": "ITC has a debt-to-equity ratio of 0, indicating no long-term debt burden.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Net profit decreased significantly from ₹ 35,052 Cr in FY25 to ₹ 21,018 Cr in FY26, raising concerns about profitability.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "The cash conversion cycle increased to 164 days in FY26, indicating potential inefficiencies in working capital management.",
+    "cites": [
+     "N29"
+    ]
+   },
+   {
+    "text": "Shareholders' equity decreased from ₹ 74,507 Cr in FY24 to ₹ 71,402 Cr in Sep 2026, reflecting a decline in shareholder value.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "ask_management": [
+   "What are the reasons behind the significant decrease in net profit from FY25 to FY26?",
+   "How does management plan to address the increased cash conversion cycle and improve working capital efficiency?",
+   "What strategies are in place to enhance shareholder value given the recent decline in equity?"
+  ]
+ },
+ "audit": {
+  "claims": 23,
+  "dropped": 0,
+  "seconds": 192.9,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 0 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 0 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue increased from ₹ 70,919 Cr in FY23 to ₹ 78,868 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "0 explicit promises across 0 calls. No transcripts were available."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 0 testable promises: 0 delivered, 0 partly, 0 missed, 0 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Why did borrowings increase significantly to ₹ 2,399 Cr in FY26, and then decrease to ₹ 491 Cr by Sep 2026?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "Borrowings increased significantly to ₹ 2,399 Cr in FY26, then decreased to ₹ 491 Cr by Sep 2026. The evidence does not provide specific reasons for these changes in borrowings.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Without explicit guidance, how can investors assess management's credibility in achieving future targets?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Without explicit guidance, investors can assess management's credibility by analyzing historical performance metrics such as revenue growth, profit margins, and return ratios. For instance, the company has shown a consistent ROCE of around 39% and a net profit CAGR of 9.4% over five years, indicating strong operational efficiency and profitability.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "ITC's net profit has significantly decreased despite revenue growth, raising concerns about profitability."
+  }
+ ]
+}

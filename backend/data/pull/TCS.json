@@ -1,0 +1,991 @@
+{
+ "version": 5,
+ "symbol": "TCS",
+ "name": "Tata Consultancy Services",
+ "generated_at": "2026-11-13 01:22",
+ "top_ratios": {
+  "Market Cap": "₹ 8,84,755 Cr.",
+  "Current Price": "₹ 2,442",
+  "High / Low": "₹ 3,350 / 1,976",
+  "Stock P/E": "16.2",
+  "Book Value": "₹ 329",
+  "Dividend Yield": "2.62 %",
+  "ROCE": "63.0 %",
+  "ROE": "51.8 %",
+  "Face Value": "₹ 1.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 8,84,755 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 16.2"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 329"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 2.62 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 63.0 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 51.8 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 164,177 | FY22 191,754 | FY23 225,458 | FY24 240,893 | FY25 255,324 | FY26 267,021"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 28 | FY22 28 | FY23 26 | FY24 27 | FY25 26 | FY26 27"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 32,562 | FY22 38,449 | FY23 42,303 | FY24 46,099 | FY25 48,797 | FY26 49,454"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 87.7 | FY22 105 | FY23 115 | FY24 127 | FY25 134 | FY26 136"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 5.8%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 10.2%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 5.3%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 8.7%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹283,248 cr, net profit ₹51,858 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 7,818 | FY23 7,688 | FY24 8,021 | FY25 9,392 | FY26 11,283 | Sep 2026 11,808"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 89,139 | FY23 90,424 | FY24 90,489 | FY25 94,756 | FY26 107,240 | Sep 2026 118,986"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0.1 | FY23 0.1 | FY24 0.1 | FY25 0.1 | FY26 0.1 | Sep 2026 0.1"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 1,205 | FY23 1,234 | FY24 1,564 | FY25 1,546 | FY26 2,665 | Sep 2026 2,380"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 21,298 | FY23 20,515 | FY24 19,604 | FY25 23,053 | FY26 31,343 | Sep 2026 32,872"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 76.1 | FY22 72.8 | FY23 80.5 | FY24 87.1 | FY25 89.7 | FY26 58.9"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 38,802 | FY22 39,949 | FY23 41,965 | FY24 44,338 | FY25 48,908 | FY26 52,094"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -7,956 | FY22 -738 | FY23 548 | FY24 6,091 | FY25 -2,144 | FY26 -11,886"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 35,663 | FY22 36,985 | FY23 38,902 | FY24 41,688 | FY25 44,994 | FY26 48,013"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 101% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 67 | FY22 80 | FY23 81 | FY24 81 | FY25 84 | FY26 93"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 67 | FY22 80 | FY23 81 | FY24 81 | FY25 84 | FY26 93"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 59 | FY22 33 | FY23 30 | FY24 34 | FY25 34 | FY26 38"
+  },
+  {
+   "id": "N29",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 49 | FY22 54 | FY23 59 | FY24 64 | FY25 65 | FY26 63"
+  },
+  {
+   "id": "N30",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 63,973 | FY25 64,479 | Jun 2025 63,437 | Sep 2025 65,799 | Dec 2025 67,087 | FY26 70,698 | Jun 2026 72,275 | Sep 2026 73,188"
+  },
+  {
+   "id": "N31",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 27 | FY25 26 | Jun 2025 27 | Sep 2025 27 | Dec 2025 27 | FY26 27 | Jun 2026 26 | Sep 2026 26"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 12,444 | FY25 12,293 | Jun 2025 12,819 | Sep 2025 12,131 | Dec 2025 10,720 | FY26 13,784 | Jun 2026 13,420 | Sep 2026 13,934"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 2.4 | Dec 2025 4.9 | Mar 2026 9.6 | Jun 2026 13.9 | Sep 2026 11.2"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 1.5 | Dec 2025 -13.9 | Mar 2026 12.1 | Jun 2026 4.7 | Sep 2026 14.9"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Operating margin moved -1.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/TCS/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p32",
+   "name": "Imran Sheikh",
+   "headline": "Head of Treasury, Tata Consultancy Services",
+   "relation": "Met through Rajat Kapoor",
+   "strength": 2,
+   "last_contact": "2026-07-19",
+   "days_since_contact": 117,
+   "score": 76.0,
+   "angle": "insider",
+   "why": "Head of Treasury at Tata Consultancy Services (since 2015)",
+   "knows": "Cash deployment, hedging policy and the thinking behind buybacks."
+  },
+  {
+   "id": "p06",
+   "name": "Ananya Sen",
+   "headline": "Delivery Head, BFSI, Infosys",
+   "relation": "IIT Bombay junior",
+   "strength": 3,
+   "last_contact": "2026-01-18",
+   "days_since_contact": 299,
+   "score": 63.6,
+   "angle": "competitor",
+   "why": "Delivery Head, BFSI at Infosys (since 2015), which competes with Tata Consultancy Services",
+   "knows": "How Tata Consultancy Services is seen by a rival: pricing, share shifts, who is winning deals."
+  },
+  {
+   "id": "p07",
+   "name": "Karthik Subramanian",
+   "headline": "Ex-CFO, mid-cap IT services",
+   "relation": "Met as management, 2021 roadshow",
+   "strength": 3,
+   "last_contact": "2025-12-05",
+   "days_since_contact": 343,
+   "score": 57.5,
+   "angle": "alumnus",
+   "why": "VP Finance at Tata Consultancy Services (2012–2018)",
+   "knows": "How Tata Consultancy Services runs from the inside: people, culture, execution."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company provides technology-driven solutions and services across various industries. It focuses on digital transformation, consulting, and cognitive business operations.",
+   "cites": [
+    "A:107"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Banking, Financial Services and Insurance",
+    "text": "This segment accounts for 38.7% of the company's revenue.",
+    "cites": [
+     "A:60"
+    ]
+   },
+   {
+    "name": "Communication, Media and Technology",
+    "text": "This segment contributes 15.9% to the company's revenue.",
+    "cites": [
+     "A:60"
+    ]
+   },
+   {
+    "name": "Consumer Business",
+    "text": "This segment represents 14.8% of the company's revenue.",
+    "cites": [
+     "A:60"
+    ]
+   },
+   {
+    "name": "Life Sciences and Healthcare",
+    "text": "This segment makes up 10.4% of the company's revenue.",
+    "cites": [
+     "A:60"
+    ]
+   },
+   {
+    "name": "Manufacturing",
+    "text": "This segment accounts for 10.0% of the company's revenue.",
+    "cites": [
+     "A:60"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market capitalization is ₹ 8,84,755 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 16.2.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield stands at 2.62%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue grew from ₹ 255,324 Cr in FY25 to ₹ 267,021 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹ 48,797 Cr in FY25 to ₹ 49,454 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth year on year was 11.2% in Sep 2026.",
+    "cites": [
+     "N33"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Total borrowings rose to ₹ 11,808 Cr by Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Shareholders' equity increased to ₹ 118,986 Cr by Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio remained stable at 0.1.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Free cash flow was ₹ 48,013 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations was 101% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Debtor days increased to 93 days in FY26.",
+    "cites": [
+     "N26"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We expect growth momentum to continue.",
+   "quote": "we're confident that growth momentum will continue.",
+   "cite": "C1:12",
+   "horizon": "medium-term",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "margin",
+   "statement": "Our long-term aspiration remains unchanged, continues to be 26% to 28%.",
+   "quote": "Overall, our long-term aspiration remains unchanged, continues to be 26% to 28%.",
+   "cite": "C1:15",
+   "horizon": "long-term",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "AI revenue",
+   "statement": "Annualized AI revenue reached $3.1 billion.",
+   "quote": "Annualized AI revenue reached $3.1 billion.",
+   "cite": "C1:12",
+   "horizon": "current quarter",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We are hiring to fulfill and capture the demand.",
+   "quote": "we are hiring to fulfill and capture the demand.",
+   "cite": "C1:26",
+   "horizon": "near-term",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect demand to improve sometime in Q2.",
+   "quote": "I expect the demand to improve sometime in Q2.",
+   "cite": "C2:12",
+   "horizon": "Q2 FY27",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G5"
+  },
+  {
+   "metric": "margin",
+   "statement": "We want to exit at 25% plus and strive to achieve it sooner rather than later.",
+   "quote": "We want to exit at 25% plus and strive to achieve it sooner rather than later.",
+   "cite": "C2:23",
+   "horizon": "next few quarters",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "other",
+   "statement": "We are investing in AI capabilities, talent transformation, partner ecosystems, platforms, domain solutions, and go-to-market capacity.",
+   "quote": "We are investing in AI capabilities, talent transformation, partner ecosystems, platforms, domain solutions, and go-to-market capacity.",
+   "cite": "C2:5",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "other",
+   "statement": "We are committed to returning substantial free cash flows to our shareholders.",
+   "quote": "We remain committed to returning substantial free cash flows to our shareholders.",
+   "cite": "C2:6",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are getting into our next year with a lot of positivity and confidence.",
+   "quote": "Overall, we are getting into our next year with a lot of positivity and confidence.",
+   "cite": "C4:22",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect AI to be net accretive to revenue growth in fiscal '27.",
+   "quote": "Our expectation is AI will be net accretive, like to see the initial year, our attempt would be to ensure that we arrest the degrowth while the AI revenue increase.",
+   "cite": "C4:33",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "margin",
+   "statement": "We aim to move towards 26% margins on a longer-term basis.",
+   "quote": "We'd like to move towards 26%, but on a longer-term basis.",
+   "cite": "C4:26",
+   "horizon": "long-term",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We have partnered with Open AI to build 100 MW capacity, with an option to scale to 1 GW.",
+   "quote": "We have partnered with Open AI to build 100 MW capacity, with an option to scale to 1 GW.",
+   "cite": "C4:12",
+   "horizon": "by when unspecified",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "capex",
+   "statement": "We will continue our investments to maximize growth.",
+   "quote": "Going forward, we will continue our investments to maximise growth.",
+   "cite": "C4:8",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "debt",
+   "statement": "We remain committed to returning substantial free cash flow to shareholders.",
+   "quote": "We remain firmly committed to returning substantial free cash flow to shareholders through a consistent and shareholder friendly dividend policy.",
+   "cite": "C4:8",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded cautiously optimistic, emphasizing growth opportunities and strategic investments.",
+   "pressure": [
+    {
+     "text": "Analysts questioned about margin targets and investment impacts.",
+     "cites": [
+      "C1:14",
+      "C1:20"
+     ]
+    },
+    {
+     "text": "Concerns were raised about regional market performance and project deferrals.",
+     "cites": [
+      "C1:13",
+      "C1:28"
+     ]
+    },
+    {
+     "text": "Questions on AI revenue growth and its impact on traditional services.",
+     "cites": [
+      "C1:15",
+      "C1:16"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded optimistic about future demand and growth, emphasizing their strategic investments.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the demand environment and macroeconomic impacts.",
+     "cites": [
+      "C2:12"
+     ]
+    },
+    {
+     "text": "Analysts inquired about SG&A investments and their focus areas.",
+     "cites": [
+      "C2:12"
+     ]
+    },
+    {
+     "text": "Analysts questioned the trajectory of margins and future expectations.",
+     "cites": [
+      "C2:23"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded optimistic about future growth and AI integration, reflecting confidence in their strategic direction.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about growth expectations and margin sustainability.",
+     "cites": [
+      "C4:22",
+      "C4:23"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the impact of wage hikes on margins.",
+     "cites": [
+      "C4:30"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on AI revenue growth and its impact on overall performance.",
+     "cites": [
+      "C4:34"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G5",
+   "promise": "We expect demand to improve sometime in Q2.",
+   "quote": "I expect the demand to improve sometime in Q2.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:12",
+   "horizon": "Q2 FY27",
+   "delivered": "Demand improved as quarterly revenue grew 11.2% year on year in Sep 2026.",
+   "verdict": "delivered",
+   "cites": [
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G6",
+   "promise": "We want to exit at 25% plus and strive to achieve it sooner rather than later.",
+   "quote": "We want to exit at 25% plus and strive to achieve it sooner rather than later.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:23",
+   "horizon": "next few quarters",
+   "delivered": "Operating margin was 26% in Sep 2026, not reaching 25% plus.",
+   "verdict": "missed",
+   "cites": [
+    "N31"
+   ]
+  },
+  {
+   "guidance": "G8",
+   "promise": "We are committed to returning substantial free cash flows to our shareholders.",
+   "quote": "We remain committed to returning substantial free cash flows to our shareholders.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:6",
+   "horizon": "ongoing",
+   "delivered": "Free cash flow was substantial at ₹48,013 Cr in FY26.",
+   "verdict": "delivered",
+   "cites": [
+    "N24"
+   ]
+  },
+  {
+   "guidance": "G9",
+   "promise": "We are getting into our next year with a lot of positivity and confidence.",
+   "quote": "Overall, we are getting into our next year with a lot of positivity and confidence.",
+   "said_in": "Apr 2026",
+   "promise_cite": "C4:22",
+   "horizon": "FY27",
+   "delivered": "Revenue and net profit showed positive growth in FY27 so far.",
+   "verdict": "delivered",
+   "cites": [
+    "N33",
+    "N34"
+   ]
+  },
+  {
+   "guidance": "G14",
+   "promise": "We remain committed to returning substantial free cash flow to shareholders.",
+   "quote": "We remain firmly committed to returning substantial free cash flow to shareholders through a consistent and shareholder friendly dividend policy.",
+   "said_in": "Apr 2026",
+   "promise_cite": "C4:8",
+   "horizon": "FY27",
+   "delivered": "Free cash flow was substantial at ₹48,013 Cr in FY26.",
+   "verdict": "delivered",
+   "cites": [
+    "N24"
+   ]
+  },
+  {
+   "guidance": "G2",
+   "promise": "Our long-term aspiration remains unchanged, continues to be 26% to 28%.",
+   "quote": "Overall, our long-term aspiration remains unchanged, continues to be 26% to 28%.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:15",
+   "horizon": "long-term",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "Annualized AI revenue reached $3.1 billion.",
+   "quote": "Annualized AI revenue reached $3.1 billion.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:12",
+   "horizon": "current quarter",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G1",
+   "promise": "We expect growth momentum to continue.",
+   "quote": "we're confident that growth momentum will continue.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:12",
+   "horizon": "medium-term",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 4,
+  "partly": 0,
+  "missed": 1,
+  "too_early": 3
+ },
+ "divergences": [
+  {
+   "text": "Operating margin did not reach the 25% plus target as stated in G6.",
+   "cites": [
+    "G6",
+    "N31"
+   ]
+  },
+  {
+   "text": "AI's contribution to revenue growth is not clearly reported, making it difficult to assess G10.",
+   "cites": [
+    "G10"
+   ]
+  },
+  {
+   "text": "Despite the commitment to return substantial free cash flow, borrowings increased significantly.",
+   "cites": [
+    "G8",
+    "N16"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "Why is there no separate reporting of AI's contribution to revenue growth?",
+   "answer": "The evidence does not provide any information regarding a separate reporting of AI's contribution to revenue growth. Therefore, I cannot address the Skeptic's question based on the available data.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to achieve the 25% plus operating margin target given the current figures?",
+   "answer": "Management plans to achieve the 25% plus operating margin target by investing in AI capabilities and talent transformation. They also expect demand to improve and aim for AI to be net accretive to revenue growth in fiscal '27.",
+   "cites": [
+    "G6",
+    "G7",
+    "G10"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Tata Consultancy Services shows steady growth but faces challenges in achieving margin targets.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of growth momentum is supported by the reported 11.2% year-on-year revenue growth in the latest quarter. However, the operating margin target of 25% plus was not met, indicating a gap between aspirations and current performance.",
+   "cites": [
+    "G5",
+    "N33",
+    "G6",
+    "N31"
+   ]
+  },
+  "bull": [
+   {
+    "text": "TCS achieved a significant year-on-year revenue growth of 11.2% in the latest quarter, indicating strong demand.",
+    "cites": [
+     "N33"
+    ]
+   },
+   {
+    "text": "The company has a stable debt-to-equity ratio of 0.1, reflecting a strong balance sheet.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Free cash flow was substantial at ₹48,013 Cr in FY26, supporting the company's commitment to return cash to shareholders.",
+    "cites": [
+     "N24",
+     "G8"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Operating margin did not reach the 25% plus target, remaining at 26% in the latest quarter.",
+    "cites": [
+     "G6",
+     "N31"
+    ]
+   },
+   {
+    "text": "Total borrowings increased significantly to ₹11,808 Cr by Sep 2026, which could impact financial flexibility.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Debtor days increased to 93 days in FY26, indicating potential challenges in cash collection.",
+    "cites": [
+     "N26"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How does management plan to achieve the 25% plus operating margin target given the current figures?",
+   "What steps are being taken to manage the increase in debtor days and improve cash collection?",
+   "Can management provide more clarity on AI's contribution to revenue growth?"
+  ]
+ },
+ "audit": {
+  "claims": 59,
+  "dropped": 3,
+  "seconds": 61.9,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "35 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue grew from ₹ 255,324 Cr in FY25 to ₹ 267,021 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "14 explicit promises across 3 calls. Management sounded cautiously optimistic, emphasizing growth opportunities and strategic investments."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 8 testable promises: 4 delivered, 0 partly, 1 missed, 3 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Why is there no separate reporting of AI's contribution to revenue growth?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The evidence does not provide any information regarding a separate reporting of AI's contribution to revenue growth. Therefore, I cannot address the Skeptic's question based on the available data.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to achieve the 25% plus operating margin target given the current figures?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management plans to achieve the 25% plus operating margin target by investing in AI capabilities and talent transformation. They also expect demand to improve and aim for AI to be net accretive to revenue growth in fiscal '27.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Tata Consultancy Services shows steady growth but faces challenges in achieving margin targets."
+  }
+ ]
+}

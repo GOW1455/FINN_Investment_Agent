@@ -1,0 +1,1022 @@
+{
+ "version": 5,
+ "symbol": "LAURUSLABS",
+ "name": "Laurus Labs Ltd",
+ "generated_at": "2026-11-13 00:39",
+ "top_ratios": {
+  "Market Cap": "₹ 1,29,355 Cr.",
+  "Current Price": "₹ 2,400",
+  "High / Low": "₹ 2,488 / 913",
+  "Stock P/E": "96.5",
+  "Book Value": "₹ 112",
+  "Dividend Yield": "0.08 %",
+  "ROCE": "17.8 %",
+  "ROE": "18.3 %",
+  "Face Value": "₹ 2.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 1,29,355 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 96.5"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 112"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.08 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 17.8 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 18.3 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 4,814 | FY22 4,936 | FY23 6,041 | FY24 5,041 | FY25 5,554 | FY26 6,813"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 32 | FY22 29 | FY23 26 | FY24 15 | FY25 19 | FY26 26"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 984 | FY22 832 | FY23 793 | FY24 162 | FY25 358 | FY26 890"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 18.3 | FY22 15.4 | FY23 14.7 | FY24 3 | FY25 6.6 | FY26 16.5"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 4.1%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 7.2%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 3.9%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: -2.0%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹7,823 cr, net profit ₹1,332 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 1,777 | FY23 2,015 | FY24 2,577 | FY25 2,764 | FY26 2,518 | Sep 2026 2,625"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 3,351 | FY23 4,038 | FY24 4,111 | FY25 4,473 | FY26 5,300 | Sep 2026 6,061"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0.5 | FY23 0.5 | FY24 0.6 | FY25 0.6 | FY26 0.5 | Sep 2026 0.4"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 813 | FY23 551 | FY24 423 | FY25 458 | FY26 773 | Sep 2026 1,282"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 2,652 | FY23 3,409 | FY24 3,890 | FY25 4,123 | FY26 4,371 | Sep 2026 4,351"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 23.2 | FY22 14.1 | FY23 9.7 | FY24 4.4 | FY25 5.2 | FY26 10.7"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 733 | FY22 911 | FY23 994 | FY24 666 | FY25 602 | FY26 1,624"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -941 | FY22 -914 | FY23 -997 | FY24 -822 | FY25 -680 | FY26 -1,086"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 49 | FY22 34 | FY23 6 | FY24 -10 | FY25 61 | FY26 560"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 158% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 99 | FY22 100 | FY23 96 | FY24 120 | FY25 132 | FY26 115"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 266 | FY22 293 | FY23 222 | FY24 277 | FY25 285 | FY26 317"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 199 | FY22 146 | FY23 94 | FY24 158 | FY25 141 | FY26 170"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 166 | FY22 247 | FY23 224 | FY24 240 | FY25 276 | FY26 263"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 43 | FY22 43 | FY23 59 | FY24 42 | FY25 43 | FY26 58"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 40 | FY22 26 | FY23 23 | FY24 7 | FY25 9 | FY26 18"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 1,415 | FY25 1,720 | Jun 2025 1,570 | Sep 2025 1,653 | Dec 2025 1,778 | FY26 1,812 | Jun 2026 2,026 | Sep 2026 2,206"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 20 | FY25 24 | Jun 2025 24 | Sep 2025 24 | Dec 2025 27 | FY26 28 | Jun 2026 32 | Sep 2026 34"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 93 | FY25 233 | Jun 2025 162 | Sep 2025 194 | Dec 2025 252 | FY26 282 | Jun 2026 362 | Sep 2026 436"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 35 | Dec 2025 25.7 | Mar 2026 5.3 | Jun 2026 29 | Sep 2026 33.5"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 870 | Dec 2025 171 | Mar 2026 21 | Jun 2026 124 | Sep 2026 125"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved +10.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/LAURUSLABS/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/18ee28e4-bc0d-4763-aa31-a381a4e120fd.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44e17494-dcff-4413-8b83-3d3a47d2e850.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4a19b33-9fe2-4bd0-a9a5-6e92fce415d9.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=733ba0ea-bb83-4bac-b624-0414a23de9e9.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p17",
+   "name": "Nikhil Rao",
+   "headline": "Head of Formulations Strategy, Sun Pharma",
+   "relation": "Neighbour",
+   "strength": 3,
+   "last_contact": "2026-09-01",
+   "days_since_contact": 73,
+   "score": 52.7,
+   "angle": "customer",
+   "why": "Head of Formulations Strategy at Sun Pharmaceutical Industries (since 2015), which buys from Laurus Labs Ltd",
+   "knows": "What it is like to buy from Laurus Labs Ltd: pricing power, service, switching risk."
+  },
+  {
+   "id": "p18",
+   "name": "Divya Pillai",
+   "headline": "Ex-Head of API Sourcing, Cipla",
+   "relation": "Met through Nikhil Rao",
+   "strength": 2,
+   "last_contact": "2025-10-03",
+   "days_since_contact": 406,
+   "score": 51.8,
+   "angle": "customer",
+   "why": "Head of API Sourcing at Cipla (2016–2025), which buys from Laurus Labs Ltd",
+   "knows": "What it is like to buy from Laurus Labs Ltd: pricing power, service, switching risk."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company develops, manufactures, and sells active pharmaceutical ingredients (APIs) and formulations. It serves major pharmaceutical companies, generics players, and institutional customers across various countries.",
+   "cites": [
+    "A:81",
+    "A:82"
+   ]
+  },
+  "segments": [
+   {
+    "name": "CDMO",
+    "text": "The company invests in contract development and manufacturing organization (CDMO) capabilities to support high-quality development and manufacturing at scale.",
+    "cites": [
+     "A:3"
+    ]
+   },
+   {
+    "name": "Affordable Medicines",
+    "text": "The company focuses on affordable medicines as part of its product offerings.",
+    "cites": [
+     "A:3"
+    ]
+   },
+   {
+    "name": "Research and Development",
+    "text": "The company emphasizes research and development to enhance product differentiation and drive process innovation.",
+    "cites": [
+     "A:29"
+    ]
+   },
+   {
+    "name": "Information Technology",
+    "text": "The company is enhancing its IT infrastructure to support operations and improve efficiency through digital tools.",
+    "cites": [
+     "A:22"
+    ]
+   },
+   {
+    "name": "Manufacturing",
+    "text": "The company operates multiple manufacturing facilities, focusing on operational excellence and quality.",
+    "cites": [
+     "A:81"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "The stock P/E ratio is high at 96.5.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is low at 0.08%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Revenue increased to ₹6,813 Cr in FY26, up from ₹5,554 Cr in FY25.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit for FY26 was ₹890 Cr, a recovery from ₹358 Cr in FY25.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly net profit grew 125% year-on-year in Sep 2026.",
+    "cites": [
+     "N36"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Debt-to-equity ratio improved to 0.4 in Sep 2026 from 0.5 in FY26.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Shareholders' equity increased to ₹6,061 Cr in Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Free cash flow significantly improved to ₹560 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations is 158% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We expect to maintain over 30% EBITDA margin.",
+   "quote": "We were able to maintain 60-plus percentage of gross margin and 30-plus percentage of EBITDA.",
+   "cite": "C1:17",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "capex",
+   "statement": "We guided INR3,000 crores capex for '27 and '28.",
+   "quote": "We guided INR3,000 crores capex for '27, '28 is the right number.",
+   "cite": "C1:14",
+   "horizon": "FY28",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect our commercial fermentation facility to be operational by the end of this year.",
+   "quote": "Our commercial fermentation facility, Laurus Bio 4 is progressing as planned, and we expect this to be operational by the end of this year.",
+   "cite": "C1:5",
+   "horizon": "end of FY27",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "timeline",
+   "statement": "Phase 1 production blocks are scheduled to commence operations in mid-2027.",
+   "quote": "The Phase 1 production blocks are scheduled to commence operations in mid-2027.",
+   "cite": "C1:5",
+   "horizon": "mid-2027",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "debt",
+   "statement": "Our net debt stood at INR2,466 crores.",
+   "quote": "Our net debt stood at INR2,466 crores.",
+   "cite": "C1:6",
+   "horizon": "current",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "growth",
+   "statement": "We achieved a healthy growth of 13% for the first half of this financial year.",
+   "quote": "For the first half of this financial year, we achieved a healthy growth of 13%.",
+   "cite": "C1:5",
+   "horizon": "H1 FY27",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G6"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to grow significantly in the CDMO segment.",
+   "quote": "We do expect to grow significantly. I may not be able to give you a number what we will grow, but we have good visibility and a lot of confidence and conviction that CDMO will definitely give a lot of growth for us.",
+   "cite": "C2:13",
+   "horizon": "next 3 to 4 years",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "capex",
+   "statement": "We have increased our capex guidance to INR2,000 crores for FY27.",
+   "quote": "We changed our guidance. Last quarter, we said INR3,000 crores for FY '27 and '28. We may do more than that.",
+   "cite": "C2:6",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "capacity",
+   "statement": "Phase 1 of our commercial scale fermentation facility is expected to be operational towards the end of this year.",
+   "quote": "Phase 1 of this capacity, which is a little over 400 kiloliters is expected to be operational towards the end of this year.",
+   "cite": "C2:4",
+   "horizon": "end of 2026",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "debt",
+   "statement": "Our net debt stood at INR2,656 crores.",
+   "quote": "Our net debt stood at INR2,656 crores and debt-to-EBITDA is around 1.28 against 1.25 the last quarter.",
+   "cite": "C2:6",
+   "horizon": "current",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "margin",
+   "statement": "We expect to maintain similar gross margins for the coming quarters.",
+   "quote": "We expect the similar margins we maintain for the coming quarters as well.",
+   "cite": "C2:10",
+   "horizon": "next quarters",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "other",
+   "statement": "We are confident to reach at least 50% of revenue from the CDMO segment by FY30.",
+   "quote": "At this point, we are very comfortable to say that by FY '30, we will definitely reach our target of at least 50% of revenue come from CDMO segment.",
+   "cite": "C2:11",
+   "horizon": "FY30",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to deliver a healthy operational growth for the entire financial year.",
+   "quote": "we remain well on track to deliver a healthy operational growth for the entire financial year.",
+   "cite": "C4:4",
+   "horizon": "FY26",
+   "kind": "directional",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "capex",
+   "statement": "The overall CAPEX this year will be about Rs. 1,000 crores.",
+   "quote": "The overall CAPEX this year will be about Rs. 1,000 crores.",
+   "cite": "C4:6",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "capacity",
+   "statement": "Phase-1 is expected to be completed by mid-2027.",
+   "quote": "Phase-1 is expected to be completed by mid-2027.",
+   "cite": "C4:3",
+   "horizon": "mid-2027",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "margin",
+   "statement": "We expect to maintain gross margins of around 60% for the coming quarter and also next financial year.",
+   "quote": "we expect to maintain gross margins of around 60% for the coming quarter and also next financial year.",
+   "cite": "C4:7",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "debt",
+   "statement": "Debt may be increased slightly, it is needed.",
+   "quote": "debt may be increased slightly, it is needed.",
+   "cite": "C4:7",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect Q4 FY'26 will be better than Q4 FY'25.",
+   "quote": "we expect Q4 FY'26 will be better than Q4 FY'25.",
+   "cite": "C4:11",
+   "horizon": "Q4 FY26",
+   "kind": "directional",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44e17494-dcff-4413-8b83-3d3a47d2e850.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded confident about growth and operational execution, emphasizing strong demand and strategic investments.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the sustainability of revenue and EBITDA margins.",
+     "cites": [
+      "C1:12",
+      "C1:16"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the capex run rate and future investments.",
+     "cites": [
+      "C1:15",
+      "C1:21"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the timelines for new capacity and commercial revenues.",
+     "cites": [
+      "C1:5",
+      "C1:6"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e4a19b33-9fe2-4bd0-a9a5-6e92fce415d9.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about growth prospects and capacity expansion due to strong demand.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the increased capex guidance and its implications.",
+     "cites": [
+      "C2:10"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the sustainability of revenue from late-stage molecules.",
+     "cites": [
+      "C2:12"
+     ]
+    },
+    {
+     "text": "Analysts questioned the timeline for revenue generation from ADC contracts.",
+     "cites": [
+      "C2:16"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=733ba0ea-bb83-4bac-b624-0414a23de9e9.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded confident about future growth and operational performance, emphasizing their strategic investments and capacity expansions.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the expected growth in CDMO and generic business.",
+     "cites": [
+      "C4:12",
+      "C4:8"
+     ]
+    },
+    {
+     "text": "Questions regarding the sustainability of margins and CAPEX plans.",
+     "cites": [
+      "C4:6",
+      "C4:8"
+     ]
+    },
+    {
+     "text": "Inquiries about the timelines for new capacity and joint ventures.",
+     "cites": [
+      "C4:4",
+      "C4:6"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G10",
+   "promise": "Our net debt stood at INR2,656 crores.",
+   "quote": "Our net debt stood at INR2,656 crores and debt-to-EBITDA is around 1.28 against 1.25 the last quarter.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:6",
+   "horizon": "current",
+   "delivered": "Net debt was reported as INR2,625 crores in Sep 2026, which is higher than the INR2,656 crores stated in the guidance.",
+   "verdict": "missed",
+   "cites": [
+    "G10",
+    "N16"
+   ]
+  },
+  {
+   "guidance": "G11",
+   "promise": "We expect to maintain similar gross margins for the coming quarters.",
+   "quote": "We expect the similar margins we maintain for the coming quarters as well.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:10",
+   "horizon": "next quarters",
+   "delivered": "Gross margins improved from 28% in Mar 2026 to 34% in Sep 2026, indicating maintenance or improvement.",
+   "verdict": "delivered",
+   "cites": [
+    "G11",
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G13",
+   "promise": "We expect to deliver a healthy operational growth for the entire financial year.",
+   "quote": "we remain well on track to deliver a healthy operational growth for the entire financial year.",
+   "said_in": "Jan 2026",
+   "promise_cite": "C4:4",
+   "horizon": "FY26",
+   "delivered": "Operational growth was achieved with revenue increasing from ₹5,554 Cr in FY25 to ₹6,813 Cr in FY26.",
+   "verdict": "delivered",
+   "cites": [
+    "G13",
+    "N7"
+   ]
+  },
+  {
+   "guidance": "G14",
+   "promise": "The overall CAPEX this year will be about Rs. 1,000 crores.",
+   "quote": "The overall CAPEX this year will be about Rs. 1,000 crores.",
+   "said_in": "Jan 2026",
+   "promise_cite": "C4:6",
+   "horizon": "FY26",
+   "delivered": "CAPEX for FY26 was not explicitly reported as ₹1,000 crores, but capital work in progress increased significantly.",
+   "verdict": "partly",
+   "cites": [
+    "G14",
+    "N19"
+   ]
+  },
+  {
+   "guidance": "G18",
+   "promise": "We expect Q4 FY'26 will be better than Q4 FY'25.",
+   "quote": "we expect Q4 FY'26 will be better than Q4 FY'25.",
+   "said_in": "Jan 2026",
+   "promise_cite": "C4:11",
+   "horizon": "Q4 FY26",
+   "delivered": "Q4 FY26 revenue and net profit were higher than Q4 FY25, indicating better performance.",
+   "verdict": "delivered",
+   "cites": [
+    "G18",
+    "N32",
+    "N34"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "We expect to maintain over 30% EBITDA margin.",
+   "quote": "We were able to maintain 60-plus percentage of gross margin and 30-plus percentage of EBITDA.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:17",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G2",
+   "promise": "We guided INR3,000 crores capex for '27 and '28.",
+   "quote": "We guided INR3,000 crores capex for '27, '28 is the right number.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:14",
+   "horizon": "FY28",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We expect our commercial fermentation facility to be operational by the end of this year.",
+   "quote": "Our commercial fermentation facility, Laurus Bio 4 is progressing as planned, and we expect this to be operational by the end of this year.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:5",
+   "horizon": "end of FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 3,
+  "partly": 1,
+  "missed": 1,
+  "too_early": 3
+ },
+ "divergences": [
+  {
+   "text": "G10 stated net debt was INR2,656 crores, but it was reported as INR2,625 crores in Sep 2026.",
+   "cites": [
+    "G10",
+    "N16"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "What is the actual CAPEX for FY26, given the significant increase in capital work in progress?",
+   "answer": "The evidence does not provide specific information on the actual CAPEX for FY26. It only mentions capital work in progress for FY26 as ₹773 cr.",
+   "cites": [
+    "N19"
+   ],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to ensure the operational status of the fermentation facility by the promised timeline?",
+   "answer": "Management stated that the commercial fermentation facility is progressing as planned and is expected to be operational by the end of FY27. They have also scheduled Phase 1 production blocks to commence operations in mid-2027.",
+   "cites": [
+    "G3",
+    "G4"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Laurus Labs shows strong profit recovery but faces high valuation concerns.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of operational growth aligns with the reported numbers, as evidenced by the significant revenue and profit recovery in FY26. However, the high P/E ratio suggests that the market may have high expectations that are not fully supported by current earnings.",
+   "cites": [
+    "G13",
+    "N7",
+    "N9",
+    "N2"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Laurus Labs achieved a significant recovery in net profit, increasing from ₹358 Cr in FY25 to ₹890 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "The company reported a 125% year-on-year growth in quarterly net profit for Sep 2026.",
+    "cites": [
+     "N36"
+    ]
+   },
+   {
+    "text": "Free cash flow improved significantly to ₹560 Cr in FY26, indicating better cash management.",
+    "cites": [
+     "N24"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "The stock's P/E ratio is high at 96.5, indicating potential overvaluation.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "Dividend yield is low at 0.08%, which may not be attractive to income-focused investors.",
+    "cites": [
+     "N4"
+    ]
+   },
+   {
+    "text": "Despite improvements, the debt-to-equity ratio remains a concern, though it improved to 0.4 in Sep 2026.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How does management plan to address the high P/E ratio and align market expectations with earnings?",
+   "What specific steps are being taken to ensure the commercial fermentation facility becomes operational by the end of FY27?",
+   "Can management provide more clarity on the actual CAPEX for FY26, given the significant increase in capital work in progress?"
+  ]
+ },
+ "audit": {
+  "claims": 57,
+  "dropped": 1,
+  "seconds": 48.4,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Revenue increased to ₹6,813 Cr in FY26, up from ₹5,554 Cr in FY25."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "18 explicit promises across 3 calls. Management sounded confident about growth and operational execution, emphasizing strong demand and strategic investments."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 8 testable promises: 3 delivered, 1 partly, 1 missed, 3 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "What is the actual CAPEX for FY26, given the significant increase in capital work in progress?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The evidence does not provide specific information on the actual CAPEX for FY26. It only mentions capital work in progress for FY26 as ₹773 cr.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to ensure the operational status of the fermentation facility by the promised timeline?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management stated that the commercial fermentation facility is progressing as planned and is expected to be operational by the end of FY27. They have also scheduled Phase 1 production blocks to commence operations in mid-2027.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Laurus Labs shows strong profit recovery but faces high valuation concerns."
+  }
+ ]
+}

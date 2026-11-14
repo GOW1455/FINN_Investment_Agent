@@ -1,0 +1,1086 @@
+{
+ "version": 5,
+ "symbol": "RELIANCE",
+ "name": "Reliance Industries",
+ "generated_at": "2026-11-13 00:39",
+ "top_ratios": {
+  "Market Cap": "₹ 18,15,673 Cr.",
+  "Current Price": "₹ 1,340",
+  "High / Low": "₹ 1,612 / 1,152",
+  "Stock P/E": "22.1",
+  "Book Value": "₹ 698",
+  "Dividend Yield": "0.45 %",
+  "ROCE": "10.3 %",
+  "ROE": "8.91 %",
+  "Face Value": "₹ 10.0"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 18,15,673 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 22.1"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 698"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.45 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 10.3 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 8.91 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 466,307 | FY22 694,673 | FY23 876,396 | FY24 899,041 | FY25 962,820 | FY26 1,055,780"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 17 | FY22 16 | FY23 16 | FY24 18 | FY25 17 | FY26 17"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 53,739 | FY22 67,845 | FY23 74,088 | FY24 79,020 | FY25 81,309 | FY26 95,754"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 38.8 | FY22 44.9 | FY23 49.3 | FY24 51.5 | FY25 51.5 | FY26 59.7"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 6.4%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 17.8%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 8.9%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 12.2%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹1,199,033 cr, net profit ₹95,625 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 319,158 | FY23 451,664 | FY24 350,719 | FY25 374,313 | FY26 402,962 | Sep 2026 405,322"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 779,485 | FY23 715,872 | FY24 793,481 | FY25 843,200 | FY26 904,030 | Sep 2026 944,404"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0.4 | FY23 0.6 | FY24 0.4 | FY25 0.4 | FY26 0.5 | Sep 2026 0.4"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 172,506 | FY23 293,752 | FY24 338,855 | FY25 262,358 | FY26 237,686 | Sep 2026 233,176"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 627,798 | FY23 724,805 | FY24 779,985 | FY25 999,393 | FY26 1,124,795 | Sep 2026 1,174,544"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 4.9 | FY22 8.8 | FY23 7.9 | FY24 7.7 | FY25 7.6 | FY26 7.7"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 26,958 | FY22 110,654 | FY23 115,032 | FY24 158,788 | FY25 178,703 | FY26 192,113"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -142,385 | FY22 -109,162 | FY23 -93,001 | FY24 -113,581 | FY25 -137,535 | FY26 -101,089"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 -76,560 | FY22 13,646 | FY23 -16,770 | FY24 21,212 | FY25 41,079 | FY26 70,023"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 190% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 15 | FY22 12 | FY23 12 | FY24 13 | FY25 16 | FY26 20"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 102 | FY22 83 | FY23 87 | FY24 95 | FY25 85 | FY26 88"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 136 | FY22 123 | FY23 91 | FY24 111 | FY25 108 | FY26 84"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 -19 | FY22 -27 | FY23 7 | FY24 -3 | FY25 -8 | FY26 25"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 -58 | FY22 -56 | FY23 -66 | FY24 -53 | FY25 -68 | FY26 -66"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 8 | FY22 8 | FY23 9 | FY24 10 | FY25 10 | FY26 10"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 239,986 | FY25 261,388 | Jun 2025 243,632 | Sep 2025 254,623 | Dec 2025 264,905 | FY26 294,059 | Jun 2026 309,468 | Sep 2026 330,601"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 18 | FY25 17 | Jun 2025 18 | Sep 2025 18 | Dec 2025 17 | FY26 15 | Jun 2026 15 | Sep 2026 17"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 21,930 | FY25 22,611 | Jun 2025 30,783 | Sep 2025 22,092 | Dec 2025 22,290 | FY26 20,589 | Jun 2026 23,196 | Sep 2026 29,550"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 10 | Dec 2025 10.4 | Mar 2026 12.5 | Jun 2026 27 | Sep 2026 29.8"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 14.3 | Dec 2025 1.6 | Mar 2026 -8.9 | Jun 2026 -24.6 | Sep 2026 33.8"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved -1.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/RELIANCE/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p21",
+   "name": "Suresh Reddy",
+   "headline": "Ex-GM Finance, Reliance Retail",
+   "relation": "Met at a CFO roundtable, 2023",
+   "strength": 2,
+   "last_contact": "2025-09-12",
+   "days_since_contact": 427,
+   "score": 91.2,
+   "angle": "alumnus",
+   "why": "GM Finance at Reliance Retail (2014–2023)",
+   "knows": "How Reliance Retail runs from the inside: people, culture, execution."
+  },
+  {
+   "id": "p22",
+   "name": "Aarav Khanna",
+   "headline": "Strategy Lead, Jio Platforms",
+   "relation": "McKinsey alumnus, met at reunion",
+   "strength": 2,
+   "last_contact": "2026-03-30",
+   "days_since_contact": 228,
+   "score": 76.0,
+   "angle": "insider",
+   "why": "Strategy Lead at Jio Platforms (since 2017)",
+   "knows": "How Jio Platforms runs from the inside: people, culture, execution."
+  },
+  {
+   "id": "p08",
+   "name": "Meera Nair",
+   "headline": "Head of Network Planning, Bharti Airtel",
+   "relation": "Spouse's colleague",
+   "strength": 2,
+   "last_contact": "2025-08-22",
+   "days_since_contact": 448,
+   "score": 45.6,
+   "angle": "competitor",
+   "why": "Head of Network Planning at Bharti Airtel (since 2017), which competes with Reliance Industries",
+   "knows": "How Reliance Industries is seen by a rival: pricing, share shifts, who is winning deals."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company sells petrochemical products and solar modules. It also provides marketing and business support services.",
+   "cites": [
+    "A:19"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Petrochemical Products",
+    "text": "The company sells petrochemical products used in packaging materials for Fast Moving Consumer Goods.",
+    "cites": [
+     "A:19"
+    ]
+   },
+   {
+    "name": "Solar Modules",
+    "text": "The company sells solar modules and panels.",
+    "cites": [
+     "A:19"
+    ]
+   },
+   {
+    "name": "Marketing Services",
+    "text": "The company provides marketing and other business support services.",
+    "cites": [
+     "A:19"
+    ]
+   },
+   {
+    "name": "Oil to Chemicals",
+    "text": "The company delivers transportation fuels and petrochemical products through integrated refining and chemicals operations.",
+    "cites": [
+     "A:42"
+    ]
+   },
+   {
+    "name": "Oil and Gas",
+    "text": "The company is involved in exploration and production of oil and gas, including deep-water fields.",
+    "cites": [
+     "A:42"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market capitalization is ₹ 18,15,673 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 22.1.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is low at 0.45%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Revenue grew significantly, reaching ₹ 1,055,780 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased to ₹ 95,754 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth was strong at 29.8% year on year for Sep 2026.",
+    "cites": [
+     "N35"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Total borrowings were ₹ 405,322 Cr as of Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Shareholders' equity increased to ₹ 944,404 Cr in Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio improved to 0.4 as of Sep 2026.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cash from operations reached ₹ 192,113 Cr in FY26.",
+    "cites": [
+     "N22"
+    ]
+   },
+   {
+    "text": "Free cash flow was positive at ₹ 70,023 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations was 190% of cumulative net profit from FY22 to FY26.",
+    "cites": [
+     "N25"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We are tracking annualized EBITDA well over Rs.80,000 Crores.",
+   "quote": "tracking annualized EBITDA well over Rs.80,000 Crores",
+   "cite": "C1:3",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "growth",
+   "statement": "We see visibility of high teen growth for Jio.",
+   "quote": "we see visibility of high teen growth for Jio",
+   "cite": "C1:4",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "capex",
+   "statement": "Capex has started tapering down.",
+   "quote": "the capex has started tapering down",
+   "cite": "C1:5",
+   "horizon": "next two quarters",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We will achieve up to 20 gigawatt early next year.",
+   "quote": "we will be achieving up to 20 gigawatt early next year",
+   "cite": "C1:24",
+   "horizon": "FY28",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "debt",
+   "statement": "We expect the price for this half to go up by a dollar.",
+   "quote": "the price for this half is going to go up by a dollar",
+   "cite": "C1:21",
+   "horizon": "next two quarters",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to double our absolute EBITDA number over the next three years.",
+   "quote": "We feel reasonably confident. Yes, it is a stretch, but we feel confident that we should be able to achieve that.",
+   "cite": "C2:23",
+   "horizon": "by FY30",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "capex",
+   "statement": "We had a capex of about close to Rs.39,000 Crores.",
+   "quote": "Capex of about close to Rs.39,000 Crores.",
+   "cite": "C2:5",
+   "horizon": "for FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "debt",
+   "statement": "Net debt is slightly lower than what it was in March.",
+   "quote": "Net debt point of view, it is slightly lower than what it was in March, Rs 1,23,000 Crores odd.",
+   "cite": "C2:5",
+   "horizon": "current",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect to start installation after the monsoons in Kutch this year.",
+   "quote": "We expect to start installation after the monsoons in Kutch this year.",
+   "cite": "C2:19",
+   "horizon": "by end of FY27",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to achieve 20-gigawatt annual capacity for our solar PV manufacturing.",
+   "quote": "We are on track to achieve 20-gigawatt annual capacity for our solar PV manufacturing in an integrated fashion.",
+   "cite": "C2:20",
+   "horizon": "by FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to see at least a dollar upside from here in KGD6 price realization.",
+   "quote": "We expect... in the second half the prices to go up, reflecting the elevated prices that we are currently seeing.",
+   "cite": "C2:18",
+   "horizon": "by end of FY27",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to continue to gain market share in the market.",
+   "quote": "We do expect to gain market share in the market.",
+   "cite": "C3:28",
+   "horizon": "next few quarters",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "growth",
+   "statement": "We aim to commission these factories in next few quarters.",
+   "quote": "We aim to commission these factories in next few quarters.",
+   "cite": "C3:19",
+   "horizon": "next few quarters",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "capex",
+   "statement": "We are continuing to expand and have almost 12 plants across India.",
+   "quote": "We are continuing to expand and have almost 12 plants across India.",
+   "cite": "C3:10",
+   "horizon": "by FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "debt",
+   "statement": "We have been able to keep net debt in control.",
+   "quote": "Overall net debt we have been able to keep that in control.",
+   "cite": "C3:4",
+   "horizon": "by FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect to see lower capacities on production as well as on refining.",
+   "quote": "We expect to see lower capacities on production as well as on refining.",
+   "cite": "C3:16",
+   "horizon": "next few quarters",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "other",
+   "statement": "We will strive to take this closer to 100%.",
+   "quote": "We will strive will target to take this closer to 100%.",
+   "cite": "C3:5",
+   "horizon": "by FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "capex",
+   "statement": "We will spend Rs.34,000 Crores on capex this year.",
+   "quote": "Rs.9000 crores was on the O2C-related expansion, about Rs.8000 Crores odd for new energy, about 7500 crores for Jio, about 4000 crores for retail...",
+   "cite": "C4:27",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We are on track to commission our first fully integrated 10-gigawatt peak annual solar manufacturing gigafactory.",
+   "quote": "We are well on our track to commission our first fully integrated 10-gigawatt peak annual solar manufacturing gigafactory...",
+   "cite": "C4:22",
+   "horizon": "next 12 to 15 months",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G19"
+  },
+  {
+   "metric": "debt",
+   "statement": "We aim to maintain a strong balance sheet with an eye on credit ratings.",
+   "quote": "We have always said that we have an eye on credit ratings and with this A and all that...",
+   "cite": "C4:37",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G20"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We plan to scale our battery manufacturing capacity to 100-gigawatt hour.",
+   "quote": "We are also expanding it to 100-gigawatt hour.",
+   "cite": "C4:22",
+   "horizon": "ongoing",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G21"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded confident about growth prospects and operational efficiency despite market challenges.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the sustainability of growth and margin improvements.",
+     "cites": [
+      "C1:26",
+      "C1:27"
+     ]
+    },
+    {
+     "text": "Analysts questioned the timeline for capex investments and returns.",
+     "cites": [
+      "C1:26",
+      "C1:27"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about achieving growth targets and maintaining financial health despite market challenges.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the capex plan for the year.",
+     "cites": [
+      "C2:27"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the profitability trajectory in FMCG.",
+     "cites": [
+      "C2:31"
+     ]
+    },
+    {
+     "text": "Analysts questioned the impact of crude availability on refining profitability.",
+     "cites": [
+      "C2:30"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded optimistic about growth prospects and operational improvements despite challenges.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on refining margins and procurement challenges.",
+     "cites": [
+      "C3:22",
+      "C3:23"
+     ]
+    },
+    {
+     "text": "Analysts inquired about subscriber growth and market share in telecom.",
+     "cites": [
+      "C3:30"
+     ]
+    },
+    {
+     "text": "Analysts questioned the impact of quick commerce on retail margins.",
+     "cites": [
+      "C3:26"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded confident about growth prospects and ongoing projects, emphasizing strong performance across various segments.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of the RCPL demerger on retail growth.",
+     "cites": [
+      "C4:34"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the capex allocation and future spending.",
+     "cites": [
+      "C4:27"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the new energy investment and its funding.",
+     "cites": [
+      "C4:38"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G8",
+   "promise": "Net debt is slightly lower than what it was in March.",
+   "quote": "Net debt point of view, it is slightly lower than what it was in March, Rs 1,23,000 Crores odd.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:5",
+   "horizon": "current",
+   "delivered": "Net debt is slightly higher than March 2026, not lower.",
+   "verdict": "missed",
+   "cites": [
+    "N16"
+   ]
+  },
+  {
+   "guidance": "G15",
+   "promise": "We have been able to keep net debt in control.",
+   "quote": "Overall net debt we have been able to keep that in control.",
+   "said_in": "Apr 2026",
+   "promise_cite": "C3:4",
+   "horizon": "by FY27",
+   "delivered": "Net debt increased from FY26 to Sep 2026, suggesting control issues.",
+   "verdict": "missed",
+   "cites": [
+    "N16"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "We are tracking annualized EBITDA well over Rs.80,000 Crores.",
+   "quote": "tracking annualized EBITDA well over Rs.80,000 Crores",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:3",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G4",
+   "promise": "We will achieve up to 20 gigawatt early next year.",
+   "quote": "we will be achieving up to 20 gigawatt early next year",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:24",
+   "horizon": "FY28",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G2",
+   "promise": "We see visibility of high teen growth for Jio.",
+   "quote": "we see visibility of high teen growth for Jio",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:4",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 2,
+  "too_early": 3
+ },
+ "divergences": [
+  {
+   "text": "Management claimed net debt was lower than March 2026, but it increased.",
+   "cites": [
+    "G8",
+    "N16"
+   ]
+  },
+  {
+   "text": "Management claimed net debt was under control, but it increased from FY26 to Sep 2026.",
+   "cites": [
+    "G15",
+    "N16"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "What is the current market share and how has it changed over the recent quarters?",
+   "answer": "The evidence does not provide information on the current market share or its changes over recent quarters.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management justify the claim of net debt being lower when it has actually increased?",
+   "answer": "Management stated that net debt is slightly lower than what it was in March, at Rs 1,23,000 Crores odd. However, the evidence shows that net debt has actually increased to Rs 405,322 Crores by September 2026.",
+   "cites": [
+    "G8",
+    "N16"
+   ],
+   "concede": true
+  }
+ },
+ "verdict": {
+  "headline": "Reliance Industries shows strong revenue growth but faces challenges with rising net debt.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of controlling net debt does not align with the reported increase in borrowings. However, the company has demonstrated significant revenue and profit growth, supporting some of its positive outlook.",
+   "cites": [
+    "G8",
+    "G15",
+    "N16",
+    "N7",
+    "N9"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Revenue grew significantly to ₹ 1,055,780 Cr in FY26, with a strong quarterly growth of 29.8% year on year for Sep 2026.",
+    "cites": [
+     "N7",
+     "N35"
+    ]
+   },
+   {
+    "text": "Net profit increased to ₹ 95,754 Cr in FY26, showing a robust growth trajectory.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "The debt-to-equity ratio improved to 0.4 as of Sep 2026, indicating better financial leverage.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Net debt increased from FY26 to Sep 2026, contradicting management's claims of control.",
+    "cites": [
+     "G8",
+     "G15",
+     "N16"
+    ]
+   },
+   {
+    "text": "The dividend yield remains low at 0.45%, which may not be attractive to income-focused investors.",
+    "cites": [
+     "N4"
+    ]
+   },
+   {
+    "text": "Despite revenue growth, the operating margin decreased by 1.0 percentage points from Sep 2025 to Sep 2026.",
+    "cites": [
+     "N37"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How does management plan to address the increase in net debt despite previous claims of control?",
+   "What strategies are in place to improve the dividend yield for shareholders?",
+   "What measures are being taken to enhance operating margins in light of recent declines?"
+  ]
+ },
+ "audit": {
+  "claims": 68,
+  "dropped": 7,
+  "seconds": 91.6,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Revenue grew significantly, reaching ₹ 1,055,780 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "21 explicit promises across 4 calls. Management sounded confident about growth prospects and operational efficiency despite market challenges."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 5 testable promises: 0 delivered, 0 partly, 2 missed, 3 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "What is the current market share and how has it changed over the recent quarters?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The evidence does not provide information on the current market share or its changes over recent quarters.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management justify the claim of net debt being lower when it has actually increased?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management stated that net debt is slightly lower than what it was in March, at Rs 1,23,000 Crores odd. However, the evidence shows that net debt has actually increased to Rs 405,322 Crores by September 2026.",
+   "data": {
+    "concede": true
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Reliance Industries shows strong revenue growth but faces challenges with rising net debt."
+  }
+ ]
+}

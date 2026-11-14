@@ -1,0 +1,1065 @@
+{
+ "version": 5,
+ "symbol": "DEEPAKNTR",
+ "name": "Deepak Nitrite",
+ "generated_at": "2026-11-13 01:39",
+ "top_ratios": {
+  "Market Cap": "₹ 22,164 Cr.",
+  "Current Price": "₹ 1,625",
+  "High / Low": "₹ 1,898 / 1,280",
+  "Stock P/E": "20.7",
+  "Book Value": "₹ 475",
+  "Dividend Yield": "0.46 %",
+  "ROCE": "11.4 %",
+  "ROE": "9.82 %",
+  "Face Value": "₹ 2.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 22,164 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 20.7"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 475"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.46 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 11.4 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 9.82 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 4,360 | FY22 6,802 | FY23 7,972 | FY24 7,682 | FY25 8,282 | FY26 7,887"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 29 | FY22 24 | FY23 16 | FY24 15 | FY25 13 | FY26 13"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 776 | FY22 1,067 | FY23 852 | FY24 811 | FY25 697 | FY26 551"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 56.9 | FY22 78.2 | FY23 62.5 | FY24 59.5 | FY25 51.1 | FY26 40.4"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: -0.4%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 12.6%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: -13.5%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: -6.6%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹9,749 cr, net profit ₹1,062 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 315 | FY23 73 | FY24 286 | FY25 1,267 | FY26 1,638 | Sep 2026 1,762"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 3,338 | FY23 4,090 | FY24 4,796 | FY25 5,388 | FY26 5,837 | Sep 2026 6,475"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0.1 | FY23 0 | FY24 0.1 | FY25 0.2 | FY26 0.3 | Sep 2026 0.3"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 122 | FY23 301 | FY24 774 | FY25 1,649 | FY26 1,828 | Sep 2026 1,299"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 1,963 | FY23 1,942 | FY24 2,293 | FY25 2,457 | FY26 3,270 | Sep 2026 4,237"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 16.5 | FY22 45.8 | FY23 49.6 | FY24 85.5 | FY25 38 | FY26 21"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 1,002 | FY22 824 | FY23 650 | FY24 874 | FY25 625 | FY26 539"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -396 | FY22 -424 | FY23 -276 | FY24 -717 | FY25 -1,489 | FY26 -669"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 788 | FY22 638 | FY23 290 | FY24 110 | FY25 -494 | FY26 -658"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 88% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 63 | FY22 61 | FY23 60 | FY24 62 | FY25 56 | FY26 70"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 64 | FY22 53 | FY23 62 | FY24 54 | FY25 59 | FY26 57"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 72 | FY22 46 | FY23 46 | FY24 38 | FY25 33 | FY26 35"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 56 | FY22 67 | FY23 76 | FY24 77 | FY25 82 | FY26 92"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 57 | FY22 57 | FY23 70 | FY24 70 | FY25 64 | FY26 61"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 40 | FY22 44 | FY23 30 | FY24 22 | FY25 16 | FY26 11"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 1,903 | FY25 2,180 | Jun 2025 1,890 | Sep 2025 1,902 | Dec 2025 1,975 | FY26 2,120 | Jun 2026 2,578 | Sep 2026 3,076"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 9 | FY25 15 | Jun 2025 10 | Sep 2025 11 | Dec 2025 11 | FY26 18 | Jun 2026 21 | Sep 2026 20"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 98 | FY25 202 | Jun 2025 112 | Sep 2025 119 | Dec 2025 100 | FY26 220 | Jun 2026 345 | Sep 2026 398"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 -6.4 | Dec 2025 3.8 | Mar 2026 -2.8 | Jun 2026 36.4 | Sep 2026 61.7"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 -38.7 | Dec 2025 2 | Mar 2026 8.9 | Jun 2026 208 | Sep 2026 234"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved +9.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/DEEPAKNTR/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e9576f6d-6ec3-4f36-b0e0-2af594782e65.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5dfbdab4-d040-4a99-b694-bbe26f015f14.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=830edde9-d00b-4243-98bd-a0e7c77d716b.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=589629dc-be30-42d5-8ed4-bb605071a9bc.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5fe2e422-45bb-44a8-a6e2-c9677c942a8d.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p09",
+   "name": "Aditya Shah",
+   "headline": "Founder, specialty-chemicals distributor",
+   "relation": "IIT Bombay batchmate",
+   "strength": 5,
+   "last_contact": "2026-10-10",
+   "days_since_contact": 34,
+   "score": 77.4,
+   "angle": "customer",
+   "why": "Founder at Shah ChemSource (since 2018), which buys from Deepak Nitrite",
+   "knows": "What it is like to buy from Deepak Nitrite: pricing power, service, switching risk."
+  },
+  {
+   "id": "p10",
+   "name": "Farah Qureshi",
+   "headline": "Procurement Head, Pidilite Industries",
+   "relation": "Met through Aditya Shah",
+   "strength": 2,
+   "last_contact": "2026-02-09",
+   "days_since_contact": 277,
+   "score": 47.7,
+   "angle": "customer",
+   "why": "Procurement Head at Pidilite Industries (since 2016), which buys from Deepak Nitrite",
+   "knows": "What it is like to buy from Deepak Nitrite: pricing power, service, switching risk."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "Deepak Nitrite Limited specializes in manufacturing advanced intermediates and specialty chemicals. The company focuses on operational excellence, sustainability, and innovation to create long-term value.",
+   "cites": [
+    "A:7",
+    "A:32"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Advanced Intermediates",
+    "text": "This segment includes specialized products such as nitrites, nitro toluidines, fuel additives, and specialty agrochemicals.",
+    "cites": [
+     "A:17"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market capitalization is ₹22,164 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 20.7.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is low at 0.46%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue declined from ₹8,282 Cr in FY25 to ₹7,887 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit decreased significantly from ₹697 Cr in FY25 to ₹551 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Trailing twelve-month revenue is ₹9,749 Cr, with a net profit of ₹1,062 Cr.",
+    "cites": [
+     "N15"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Total borrowings increased from ₹1,638 Cr in FY26 to ₹1,762 Cr by Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Shareholders' equity rose to ₹6,475 Cr by Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio is stable at 0.3 as of Sep 2026.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Free cash flow has been negative for the last two fiscal years.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations is 88% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Cash conversion cycle increased to 92 days in FY26.",
+    "cites": [
+     "N29"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We expect to sustain high throughput and grow wallet share.",
+   "quote": "Our short and medium-term growth prospects remain encouraging.",
+   "cite": "C1:4",
+   "horizon": "next two quarters",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "capex",
+   "statement": "We expect INR 800 crore to INR 900 crore in the second half.",
+   "quote": "So around INR 800 crore to INR 900 crore further in the second half.",
+   "cite": "C1:15",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "capex",
+   "statement": "We expect INR 2,200 crore to INR 2,400 crore next year.",
+   "quote": "INR 2,200 crore-INR 2,400 crore next year.",
+   "cite": "C1:16",
+   "horizon": "FY28",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect to achieve 100% capacity utilization for MIBK and MIBC.",
+   "quote": "We are confident about being able to reach 100% and exceeding that at short notice.",
+   "cite": "C1:12",
+   "horizon": "FY28",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "debt",
+   "statement": "Our net debt-to-equity ratio improved to 0.25x.",
+   "quote": "Consequently, our net debt-to-equity ratio improved to 0.25x from 0.27x.",
+   "cite": "C1:6",
+   "horizon": "current",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "other",
+   "statement": "We expect EBIT percentage to improve in Q4 FY27.",
+   "quote": "I would assume that in Q4 EBIT percentage should be better than Q3.",
+   "cite": "C1:8",
+   "horizon": "Q4 FY27",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G6"
+  },
+  {
+   "metric": "growth",
+   "statement": "We believe Deepak Nitrite is increasingly well positioned to deliver superior earnings quality.",
+   "quote": "We remain very confident in our ability to deliver growth profitably while continuing to invest in the future.",
+   "cite": "C2:6",
+   "horizon": "ensuing periods",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "capex",
+   "statement": "Total spend will be around in the range of INR 3,200 crore.",
+   "quote": "Further this year, we'll spend around another INR 1,000 crore to INR 1,500 crore this year further.",
+   "cite": "C2:15",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "debt",
+   "statement": "Peak debt will be somewhere around INR 8,000 crore to INR 8,500 crore.",
+   "quote": "We are borrowing around INR 6,800 crore plus working capital, whatever is required, in the business at the peak.",
+   "cite": "C2:19",
+   "horizon": "FY29",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We are looking at opportunities to debottleneck further.",
+   "quote": "We are more than capable of doing this.",
+   "cite": "C2:8",
+   "horizon": "short to medium term",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "other",
+   "statement": "We target H2 FY28 for our polycarbonate commissioning.",
+   "quote": "I would anticipate that we would target H2 for our polycarbonate commissioning.",
+   "cite": "C2:12",
+   "horizon": "H2 FY28",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "growth",
+   "statement": "We anticipate Q1 to be better than Q4.",
+   "quote": "So we anticipate Q1 to be better than Q4, which was, of course, better than Q3.",
+   "cite": "C3:9",
+   "horizon": "Q1 FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect to commission the polycarbonate project by June 2028.",
+   "quote": "we are expecting it to be commissioned by June 2028.",
+   "cite": "C3:14",
+   "horizon": "June 2028",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "capex",
+   "statement": "The total project funding is around INR11,000 crore.",
+   "quote": "the total project, what we have announced is around INR11,000 crore.",
+   "cite": "C3:15",
+   "horizon": "ongoing",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "margin",
+   "statement": "We expect a stronger margin profile in FY27.",
+   "quote": "In FY27, we expect a stronger margin profile, even for the standalone business, compared with FY26.",
+   "cite": "C3:12",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "other",
+   "statement": "We anticipate commercial production from new products from Q3 FY27.",
+   "quote": "we anticipate commercial production on a regularized basis from Q3 onwards.",
+   "cite": "C3:8",
+   "horizon": "Q3 FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect Q4 FY26 to be better than Q3 FY26.",
+   "quote": "I definitely expect Q4 FY26 to be better than Q3 FY26.",
+   "cite": "C4:10",
+   "horizon": "Q4 FY26",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "capex",
+   "statement": "CAPEX outlay for FY27 is around INR 2,500 crore.",
+   "quote": "Around INR 2,500 crore.",
+   "cite": "C4:19",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We expect to run at 95% to 100% utilization from this quarter onwards.",
+   "quote": "We are expecting to run at 100% or close enough to 100% utilization from this quarter onwards.",
+   "cite": "C4:12",
+   "horizon": "Q4 FY26",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G19"
+  },
+  {
+   "metric": "other",
+   "statement": "The MIBK/MIBC project is targeted for commissioning within this quarter.",
+   "quote": "The MIBK/ MIBC project is progressing well and is targeted for commissioning within this quarter.",
+   "cite": "C4:4",
+   "horizon": "Q4 FY26",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G20"
+  },
+  {
+   "metric": "other",
+   "statement": "We anticipate full consumption of nitric acid from Q4 FY26.",
+   "quote": "This quarter and next quarter will be the first period where we would have pretty much 100% consumption of nitric acid.",
+   "cite": "C4:9",
+   "horizon": "Q4 FY26",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G21"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5dfbdab4-d040-4a99-b694-bbe26f015f14.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded optimistic about growth prospects and operational efficiencies.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of new competitors in the Phenolics segment.",
+     "cites": [
+      "C1:10"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the timeline for the polycarbonate project.",
+     "cites": [
+      "C1:10"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the expected EBIT from new capacities.",
+     "cites": [
+      "C1:11"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=830edde9-d00b-4243-98bd-a0e7c77d716b.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about future growth and operational improvements due to strategic investments.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the sustainability of margins and capacity utilization.",
+     "cites": [
+      "C2:10",
+      "C2:12"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the impact of raw material volatility on production.",
+     "cites": [
+      "C2:10",
+      "C2:16"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the timeline for new project commissioning.",
+     "cites": [
+      "C2:12",
+      "C2:19"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=589629dc-be30-42d5-8ed4-bb605071a9bc.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded optimistic about future growth and operational improvements, citing strong demand and strategic initiatives.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of geopolitical factors on supply and pricing.",
+     "cites": [
+      "C3:4",
+      "C3:6"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the commissioning timelines for new projects.",
+     "cites": [
+      "C3:9",
+      "C3:15"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on margin expectations amidst raw material volatility.",
+     "cites": [
+      "C3:12",
+      "C3:13"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5fe2e422-45bb-44a8-a6e2-c9677c942a8d.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded cautiously optimistic, emphasizing improvements expected in Q4 FY26 and ongoing strategic initiatives.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of pricing pressures and capacity utilization on margins.",
+     "cites": [
+      "C4:10",
+      "C4:19"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the timeline for new product introductions and their revenue contributions.",
+     "cites": [
+      "C4:8"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the effects of trade agreements on export volumes and pricing.",
+     "cites": [
+      "C4:8",
+      "C4:10"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G7",
+   "promise": "We believe Deepak Nitrite is increasingly well positioned to deliver superior earnings quality.",
+   "quote": "We remain very confident in our ability to deliver growth profitably while continuing to invest in the future.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:6",
+   "horizon": "ensuing periods",
+   "delivered": "Net profit growth was strong in the latest quarters, indicating improved earnings quality.",
+   "verdict": "delivered",
+   "cites": [
+    "N34",
+    "N36"
+   ]
+  },
+  {
+   "guidance": "G12",
+   "promise": "We anticipate Q1 to be better than Q4.",
+   "quote": "So we anticipate Q1 to be better than Q4, which was, of course, better than Q3.",
+   "said_in": "May 2026",
+   "promise_cite": "C3:9",
+   "horizon": "Q1 FY27",
+   "delivered": "Q1 FY27 revenue and net profit were better than Q4 FY26.",
+   "verdict": "delivered",
+   "cites": [
+    "N32",
+    "N34"
+   ]
+  },
+  {
+   "guidance": "G15",
+   "promise": "We expect a stronger margin profile in FY27.",
+   "quote": "In FY27, we expect a stronger margin profile, even for the standalone business, compared with FY26.",
+   "said_in": "May 2026",
+   "promise_cite": "C3:12",
+   "horizon": "FY27",
+   "delivered": "Operating margin improved in the latest quarters, suggesting a stronger margin profile.",
+   "verdict": "delivered",
+   "cites": [
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G2",
+   "promise": "We expect INR 800 crore to INR 900 crore in the second half.",
+   "quote": "So around INR 800 crore to INR 900 crore further in the second half.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:15",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We expect INR 2,200 crore to INR 2,400 crore next year.",
+   "quote": "INR 2,200 crore-INR 2,400 crore next year.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:16",
+   "horizon": "FY28",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G5",
+   "promise": "Our net debt-to-equity ratio improved to 0.25x.",
+   "quote": "Consequently, our net debt-to-equity ratio improved to 0.25x from 0.27x.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:6",
+   "horizon": "current",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 3,
+  "partly": 0,
+  "missed": 0,
+  "too_early": 3
+ },
+ "divergences": [
+  {
+   "text": "Management claimed a net debt-to-equity ratio of 0.25x, but the fact sheet shows it at 0.3x as of Sep 2026.",
+   "cites": [
+    "G5",
+    "N18"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "Why does the fact sheet not provide specific CAPEX numbers for FY27 to verify the guidance on total spend?",
+   "answer": "The fact sheet does not provide specific CAPEX numbers for FY27. Therefore, I cannot verify the guidance on total spend.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management justify the discrepancy in the reported net debt-to-equity ratio?",
+   "answer": "The management stated that the net debt-to-equity ratio improved to 0.25x from 0.27x. This indicates a slight reduction in leverage, but the specifics of the discrepancy were not addressed in the provided evidence.",
+   "cites": [
+    "G5"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Deepak Nitrite shows strong recent profit growth but faces challenges with cash flow and debt management.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of improved earnings quality and stronger margins aligns with recent financial performance. However, discrepancies in debt-to-equity ratios and negative free cash flow raise concerns.",
+   "cites": [
+    "G7",
+    "N34",
+    "N36",
+    "G15",
+    "N33",
+    "G5",
+    "N18",
+    "N24"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Net profit has shown significant growth in recent quarters, indicating improved earnings quality.",
+    "cites": [
+     "N34",
+     "N36"
+    ]
+   },
+   {
+    "text": "Operating margins have improved, suggesting a stronger margin profile.",
+    "cites": [
+     "N33",
+     "N37"
+    ]
+   },
+   {
+    "text": "Shareholders' equity has increased, reflecting a stronger financial position.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Free cash flow has been negative for the last two fiscal years, indicating potential liquidity issues.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Total borrowings have increased, raising concerns about rising debt levels.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "The cash conversion cycle has increased to 92 days, indicating inefficiencies in working capital management.",
+    "cites": [
+     "N29"
+    ]
+   }
+  ],
+  "ask_management": [
+   "What steps are being taken to address the negative free cash flow situation?",
+   "How does management plan to manage the increasing debt levels?",
+   "Can you clarify the discrepancy in the reported net debt-to-equity ratio?"
+  ]
+ },
+ "audit": {
+  "claims": 63,
+  "dropped": 3,
+  "seconds": 122.9,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue declined from ₹8,282 Cr in FY25 to ₹7,887 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "21 explicit promises across 4 calls. Management sounded optimistic about growth prospects and operational efficiencies."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 6 testable promises: 3 delivered, 0 partly, 0 missed, 3 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Why does the fact sheet not provide specific CAPEX numbers for FY27 to verify the guidance on total spend?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The fact sheet does not provide specific CAPEX numbers for FY27. Therefore, I cannot verify the guidance on total spend.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management justify the discrepancy in the reported net debt-to-equity ratio?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "The management stated that the net debt-to-equity ratio improved to 0.25x from 0.27x. This indicates a slight reduction in leverage, but the specifics of the discrepancy were not addressed in the provided evidence.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Deepak Nitrite shows strong recent profit growth but faces challenges with cash flow and debt management."
+  }
+ ]
+}

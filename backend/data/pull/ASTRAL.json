@@ -1,0 +1,868 @@
+{
+ "version": 5,
+ "symbol": "ASTRAL",
+ "name": "Astral Ltd",
+ "generated_at": "2026-11-13 00:41",
+ "top_ratios": {
+  "Market Cap": "₹ 34,334 Cr.",
+  "Current Price": "₹ 1,275",
+  "High / Low": "₹ 1,769 / 1,216",
+  "Stock P/E": "58.0",
+  "Book Value": "₹ 158",
+  "Dividend Yield": "0.31 %",
+  "ROCE": "19.2 %",
+  "ROE": "13.9 %",
+  "Face Value": "₹ 1.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 34,334 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 58.0"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 158"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.31 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 19.2 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 13.9 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 3,176 | FY22 4,394 | FY23 5,158 | FY24 5,641 | FY25 5,832 | FY26 6,569"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 20 | FY22 17 | FY23 16 | FY24 16 | FY25 16 | FY26 16"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 408 | FY22 490 | FY23 472 | FY24 546 | FY25 519 | FY26 535"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 15.1 | FY22 18.1 | FY23 17 | FY24 20.3 | FY25 19.5 | FY26 20"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 8.4%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 15.6%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 4.3%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 5.6%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹7,196 cr, net profit ₹568 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 98 | FY23 87 | FY24 119 | FY25 233 | FY26 250 | Sep 2026 333"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 2,336 | FY23 2,711 | FY24 3,188 | FY25 3,617 | FY26 4,058 | Sep 2026 4,239"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0 | FY23 0 | FY24 0 | FY25 0.1 | FY26 0.1 | Sep 2026 0.1"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 123 | FY23 126 | FY24 151 | FY25 116 | FY26 94 | Sep 2026 210"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 1,496 | FY23 1,950 | FY24 2,299 | FY25 2,712 | FY26 2,939 | Sep 2026 3,033"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 51 | FY22 60.7 | FY23 21.2 | FY24 33.1 | FY25 24.1 | FY26 17"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 664 | FY22 543 | FY23 557 | FY24 823 | FY25 630 | FY26 1,117"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -454 | FY22 72 | FY23 -478 | FY24 -541 | FY25 -513 | FY26 -506"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 493 | FY22 198 | FY23 247 | FY24 273 | FY25 90 | FY26 661"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 143% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 32 | FY22 22 | FY23 25 | FY24 24 | FY25 27 | FY26 26"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 88 | FY22 91 | FY23 96 | FY24 100 | FY25 109 | FY26 107"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 96 | FY22 93 | FY23 88 | FY24 95 | FY25 92 | FY26 110"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 23 | FY22 20 | FY23 33 | FY24 29 | FY25 44 | FY26 23"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 12 | FY22 13 | FY23 17 | FY24 16 | FY25 25 | FY26 11"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 29 | FY22 29 | FY23 24 | FY24 23 | FY25 20 | FY26 19"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 1,397 | FY25 1,681 | Jun 2025 1,361 | Sep 2025 1,577 | Dec 2025 1,542 | FY26 2,088 | Jun 2026 1,578 | Sep 2026 1,988"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 16 | FY25 18 | Jun 2025 14 | Sep 2025 16 | Dec 2025 15 | FY26 18 | Jun 2026 15 | Sep 2026 13"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 113 | FY25 178 | Jun 2025 79 | Sep 2025 135 | Dec 2025 108 | FY26 213 | Jun 2026 120 | Sep 2026 127"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 15.1 | Dec 2025 10.4 | Mar 2026 24.2 | Jun 2026 15.9 | Sep 2026 26.1"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 23.9 | Dec 2025 -4.4 | Mar 2026 19.7 | Jun 2026 51.9 | Sep 2026 -5.9"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved -3.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/ASTRAL/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://www.astralltd.com/wp-content/uploads/2026/05/Analysts-Meet-2026-Transcript.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2025",
+   "url": "https://www.astralltd.com/wp-content/uploads/2025/11/Transcript.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p27",
+   "name": "Ritu Saxena",
+   "headline": "Head of Projects, plastic piping",
+   "relation": "Cousin",
+   "strength": 4,
+   "last_contact": "2026-09-27",
+   "days_since_contact": 47,
+   "score": 99.7,
+   "angle": "insider",
+   "why": "Head of Projects at Astral (since 2017)",
+   "knows": "Capacity additions, PVC resin price swings and the adhesives ramp-up."
+  },
+  {
+   "id": "p10",
+   "name": "Farah Qureshi",
+   "headline": "Procurement Head, Pidilite Industries",
+   "relation": "Met through Aditya Shah",
+   "strength": 2,
+   "last_contact": "2026-02-09",
+   "days_since_contact": 277,
+   "score": 45.6,
+   "angle": "competitor",
+   "why": "Procurement Head at Pidilite Industries (since 2016), which competes with Astral Ltd",
+   "knows": "How Astral Ltd is seen by a rival: pricing, share shifts, who is winning deals."
+  }
+ ],
+ "business": null,
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "The market capitalization is ₹34,334 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 58.0.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is low at 0.31%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Revenue grew from ₹5,832 Cr in FY25 to ₹6,569 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹519 Cr in FY25 to ₹535 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "The 3-year CAGR for net profit is 4.3%.",
+    "cites": [
+     "N13"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Borrowings increased from ₹250 Cr in FY26 to ₹333 Cr in Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Shareholders' equity rose from ₹4,058 Cr in FY26 to ₹4,239 Cr in Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   },
+   {
+    "text": "The debt-to-equity ratio remains low at 0.1.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cash from operations reached ₹1,117 Cr in FY26.",
+    "cites": [
+     "N22"
+    ]
+   },
+   {
+    "text": "Free cash flow significantly improved to ₹661 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations is 143% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We are targeting to reach 1,000 crores in next 3 to 4 years.",
+   "quote": "we are targeting to reach 1,000 crores in next 3 to 4 years and even cross that.",
+   "cite": "C2:4",
+   "horizon": "FY30",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G1"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are sure that in next 3 to 4 years we'll be touching 2000 plus in Indian revenue.",
+   "quote": "we are sure that in next 3 to 4 years we'll be touching 2000 plus in Indian revenue not UK will be separate.",
+   "cite": "C2:3",
+   "horizon": "FY30",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G2"
+  },
+  {
+   "metric": "margin",
+   "statement": "We are expecting 8 to 10% plus EBITDA.",
+   "quote": "this year UK business will be growing giving 8 to 10% plus EBITDA.",
+   "cite": "C2:3",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G3"
+  },
+  {
+   "metric": "margin",
+   "statement": "Plumbing margin will be between 16 to 18%.",
+   "quote": "Plumbing plumbing margin will be between 16 to 18%.",
+   "cite": "C2:24",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G4"
+  },
+  {
+   "metric": "capex",
+   "statement": "This year we are targeting somewhere around 300 cr.",
+   "quote": "this year we are targeting somewhere around 300 cr.",
+   "cite": "C2:18",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G5"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We are expecting trial should start and Q4 we should be ready for the commercial production.",
+   "quote": "by December trials will start.",
+   "cite": "C2:6",
+   "horizon": "Q4 FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "growth",
+   "statement": "We have given a guidance of 20% growth for the full year.",
+   "quote": "This year we have given a guidance of 20% growth for the full year and we are going to achieve it as per the guidance given by us.",
+   "cite": "C4:3",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are confident that it will keep growing at the same run rate in coming fiscals.",
+   "quote": "the adhesive business is steadily growing at 15% run rate and we are confident that it will keep growing at the same run rate in coming fiscals.",
+   "cite": "C4:3",
+   "horizon": "next few fiscals",
+   "kind": "directional",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "margin",
+   "statement": "We are confident that we will come back to our original double digit kind of EBITDA margin in the next year.",
+   "quote": "we are confident that we will come back to our original double digit kind of EBITDA margin in the next year.",
+   "cite": "C4:4",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "capex",
+   "statement": "We are not going to incur more than Rs. 300 crores-Rs. 350 crores.",
+   "quote": "So whatever we have given the guidance it is going to remain same. We are not going to incur more.",
+   "cite": "C4:13",
+   "horizon": "FY26",
+   "kind": "numeric",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We will be finishing the installation of machinery and construction of the CPVC plant by next year.",
+   "quote": "we will be finishing the installation of machinery and construction of the CPVC plant by next year, by September 2026.",
+   "cite": "C4:3",
+   "horizon": "September 2026",
+   "kind": "directional",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "growth",
+   "statement": "We will aim to grow at about 20%-25% for the next 5 years.",
+   "quote": "Bathware we will aim to grow at about 20%-25% for the next 5 years.",
+   "cite": "C4:13",
+   "horizon": "next 5 years",
+   "kind": "directional",
+   "said_in": "Nov 2025",
+   "quarter": "Q2 FY26",
+   "tested_by": [
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C2",
+   "date": "May 2026",
+   "url": "https://www.astralltd.com/wp-content/uploads/2026/05/Analysts-Meet-2026-Transcript.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about future growth and profitability, emphasizing their strategic plans and market positioning.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of capex on future growth and margins.",
+     "cites": [
+      "C2:18",
+      "C2:25"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the expected growth rates in various segments.",
+     "cites": [
+      "C2:25",
+      "C2:3"
+     ]
+    },
+    {
+     "text": "Analysts sought clarification on the company's margin guidance amidst market volatility.",
+     "cites": [
+      "C2:25",
+      "C2:29"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Nov 2025",
+   "url": "https://www.astralltd.com/wp-content/uploads/2025/11/Transcript.pdf",
+   "quarter": "Q2 FY26",
+   "tone": "Management sounded confident about achieving growth targets and improving margins despite market challenges.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the expected growth rates and margin improvements.",
+     "cites": [
+      "C4:5",
+      "C4:4"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the impact of new plants on capacity and margins.",
+     "cites": [
+      "C4:11",
+      "C4:3"
+     ]
+    },
+    {
+     "text": "Analysts questioned the company's strategy regarding pricing aggression and market share.",
+     "cites": [
+      "C4:9",
+      "C4:15"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G3",
+   "promise": "We are expecting 8 to 10% plus EBITDA.",
+   "quote": "this year UK business will be growing giving 8 to 10% plus EBITDA.",
+   "said_in": "May 2026",
+   "promise_cite": "C2:3",
+   "horizon": "FY27",
+   "delivered": "The UK business did not achieve 8 to 10% plus EBITDA as the operating margin decreased from 16% to 13% from Sep 2025 to Sep 2026.",
+   "verdict": "missed",
+   "cites": [
+    "N33",
+    "N37"
+   ]
+  },
+  {
+   "guidance": "G7",
+   "promise": "We have given a guidance of 20% growth for the full year.",
+   "quote": "This year we have given a guidance of 20% growth for the full year and we are going to achieve it as per the guidance given by us.",
+   "said_in": "Nov 2025",
+   "promise_cite": "C4:3",
+   "horizon": "FY26",
+   "delivered": "The annual revenue growth from FY25 to FY26 was 12.6%, missing the 20% growth target.",
+   "verdict": "missed",
+   "cites": [
+    "N7"
+   ]
+  },
+  {
+   "guidance": "G9",
+   "promise": "We are confident that we will come back to our original double digit kind of EBITDA margin in the next year.",
+   "quote": "we are confident that we will come back to our original double digit kind of EBITDA margin in the next year.",
+   "said_in": "Nov 2025",
+   "promise_cite": "C4:4",
+   "horizon": "FY27",
+   "delivered": "The operating margin remained at 16% in FY26, not achieving a return to double-digit growth.",
+   "verdict": "missed",
+   "cites": [
+    "N8"
+   ]
+  },
+  {
+   "guidance": "G11",
+   "promise": "We will be finishing the installation of machinery and construction of the CPVC plant by next year.",
+   "quote": "we will be finishing the installation of machinery and construction of the CPVC plant by next year, by September 2026.",
+   "said_in": "Nov 2025",
+   "promise_cite": "C4:3",
+   "horizon": "September 2026",
+   "delivered": "Capital work in progress increased significantly by Sep 2026, suggesting the CPVC plant installation was not completed.",
+   "verdict": "missed",
+   "cites": [
+    "N19"
+   ]
+  }
+ ],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 4,
+  "too_early": 0
+ },
+ "divergences": [
+  {
+   "text": "Management promised 20% growth for FY26, but revenue only grew by 12.6%.",
+   "cites": [
+    "G7",
+    "N7"
+   ]
+  },
+  {
+   "text": "The UK business was expected to achieve 8 to 10% plus EBITDA, but the operating margin decreased.",
+   "cites": [
+    "G3",
+    "N33",
+    "N37"
+   ]
+  },
+  {
+   "text": "The CPVC plant installation was supposed to be completed by Sep 2026, but capital work in progress increased.",
+   "cites": [
+    "G11",
+    "N19"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "Why is there no specific data on plumbing margins or the 300 cr target segment?",
+   "answer": "There is no specific data on plumbing margins or the 300 cr target segment provided in the evidence. Therefore, I cannot address those points.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to regain credibility after missing several key targets?",
+   "answer": "Management has set ambitious targets for revenue growth, aiming for 1,000 crores in 3 to 4 years and over 2,000 crores in Indian revenue. They also expect to achieve an EBITDA margin of 8 to 10% and a plumbing margin of 16 to 18%. However, there is no evidence provided that directly addresses how they plan to regain credibility after missing previous targets.",
+   "cites": [
+    "G1",
+    "G2",
+    "G3",
+    "G4"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Astral Ltd. faces challenges in meeting growth targets despite financial stability.",
+  "narrative_vs_numbers": {
+   "text": "Management's promises of significant growth have not been met, as evidenced by missed revenue and EBITDA targets. However, the company maintains a stable financial position with low debt and positive cash flow.",
+   "cites": [
+    "G7",
+    "N7",
+    "G3",
+    "N33",
+    "N37",
+    "N18",
+    "N22",
+    "N24"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Astral Ltd. has shown consistent revenue growth, increasing from ₹5,832 Cr in FY25 to ₹6,569 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "The company maintains a low debt-to-equity ratio of 0.1, indicating financial stability.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Free cash flow significantly improved to ₹661 Cr in FY26, reflecting strong cash generation.",
+    "cites": [
+     "N24"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Astral Ltd. missed its FY26 revenue growth target of 20%, achieving only 12.6% growth.",
+    "cites": [
+     "G7",
+     "N7"
+    ]
+   },
+   {
+    "text": "The UK business failed to achieve the expected 8 to 10% EBITDA margin, with operating margins decreasing.",
+    "cites": [
+     "G3",
+     "N33",
+     "N37"
+    ]
+   },
+   {
+    "text": "The CPVC plant installation was not completed by the promised date, as indicated by increased capital work in progress.",
+    "cites": [
+     "G11",
+     "N19"
+    ]
+   }
+  ],
+  "ask_management": [
+   "What specific steps will you take to achieve the ambitious revenue targets set for FY30?",
+   "How do you plan to address the decline in operating margins, particularly in the UK business?",
+   "What is the revised timeline for the completion of the CPVC plant, and what caused the delay?"
+  ]
+ },
+ "audit": {
+  "claims": 46,
+  "dropped": 2,
+  "seconds": 1368.8,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Revenue grew from ₹5,832 Cr in FY25 to ₹6,569 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "12 explicit promises across 2 calls. Management sounded confident about future growth and profitability, emphasizing their strategic plans and market positioning."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 4 testable promises: 0 delivered, 0 partly, 4 missed, 0 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Why is there no specific data on plumbing margins or the 300 cr target segment?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "There is no specific data on plumbing margins or the 300 cr target segment provided in the evidence. Therefore, I cannot address those points.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to regain credibility after missing several key targets?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management has set ambitious targets for revenue growth, aiming for 1,000 crores in 3 to 4 years and over 2,000 crores in Indian revenue. They also expect to achieve an EBITDA margin of 8 to 10% and a plumbing margin of 16 to 18%. However, there is no evidence provided that directly addresses how they plan to regain credibility after missing previous targets.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Astral Ltd. faces challenges in meeting growth targets despite financial stability."
+  }
+ ]
+}

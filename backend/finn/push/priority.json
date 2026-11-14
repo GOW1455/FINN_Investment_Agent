@@ -1,0 +1,70 @@
+{
+ "_note": "How filings are ranked. Edit the numbers here, or move the sliders in the app; nothing about ranking is fixed in code.",
+ "tiers": {
+  "material": 70,
+  "notable": 40
+ },
+ "market_reaction_points": 12,
+ "base": {
+  "results": 90,
+  "M&A": 88,
+  "management_change": 82,
+  "litigation": 84,
+  "fund_raise": 78,
+  "capex": 78,
+  "pledging": 74,
+  "credit_rating": 66,
+  "insider_trading": 52,
+  "dividend": 50,
+  "bonus_split": 50,
+  "press_release": 46,
+  "earnings_call": 40,
+  "agm_egm": 22,
+  "investor_meetings": 15,
+  "postal_ballot": 15,
+  "unclassified": 5
+ },
+ "adjustments": [
+  {
+   "category": "management_change",
+   "strip": "non-?\\s*executive[\\w\\s-]{0,20}director|independent director|vice-?\\s*chair\\w+",
+   "pattern": "\\b(ceo|cfo|chief executive|chief financial|managing director|\\bmd\\b|chairman|chairperson|whole-?time director|executive director|key managerial|president)\\b",
+   "points": 8,
+   "otherwise": -22,
+   "why": "a senior executive (CEO, CFO, MD)",
+   "why_otherwise": "a board-level change, not an executive one"
+  },
+  {
+   "category": "results",
+   "pattern": "result",
+   "points": 0,
+   "otherwise": -15,
+   "why_otherwise": "filed under results but does not mention results"
+  },
+  {
+   "category": "results",
+   "pattern": "newspaper|intimation of board meeting|schedule",
+   "points": -30,
+   "why": "a notice about results, not the results"
+  },
+  {
+   "category": "fund_raise",
+   "pattern": "esop|allotment of equity shares under|redemption|repayment|interest payment",
+   "points": -50,
+   "stop": true,
+   "why": "repaying debt or issuing staff options is housekeeping"
+  },
+  {
+   "category": "fund_raise",
+   "pattern": "debenture|\\bncds?\\b|commercial paper|\\bbonds?\\b",
+   "points": -30,
+   "why": "routine debt issuance"
+  },
+  {
+   "category": "litigation",
+   "pattern": "\\bgst\\b|tax (demand|order)|income tax",
+   "points": -20,
+   "why": "tax demands are frequent for large companies"
+  }
+ ]
+}

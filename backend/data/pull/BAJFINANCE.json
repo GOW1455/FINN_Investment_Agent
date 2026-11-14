@@ -1,0 +1,1038 @@
+{
+ "version": 5,
+ "symbol": "BAJFINANCE",
+ "name": "Bajaj Finance",
+ "generated_at": "2026-11-13 01:19",
+ "top_ratios": {
+  "Market Cap": "₹ 6,96,648 Cr.",
+  "Current Price": "₹ 1,115",
+  "High / Low": "₹ 1,178 / 788",
+  "Stock P/E": "31.8",
+  "Book Value": "₹ 198",
+  "Dividend Yield": "0.48 %",
+  "ROCE": "10.9 %",
+  "ROE": "18.2 %",
+  "Face Value": "₹ 1.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 6,96,648 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 31.8"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 198"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.48 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 10.9 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 18.2 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 26,673 | FY22 31,633 | FY23 41,411 | FY24 54,972 | FY25 68,832 | FY26 81,985"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 24 | FY22 31 | FY23 39 | FY24 36 | FY25 33 | FY26 33"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 4,420 | FY22 7,028 | FY23 11,508 | FY24 14,451 | FY25 16,779 | FY26 19,332"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 7.3 | FY22 11.6 | FY23 19 | FY24 23.4 | FY25 26.8 | FY26 30.6"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 25.6%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 25.2%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 18.9%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 34.3%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹90,331 cr, net profit ₹22,066 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 165,232 | FY23 216,690 | FY24 293,346 | FY25 361,249 | FY26 435,112 | Sep 2026 501,982"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 43,713 | FY23 54,372 | FY24 76,696 | FY25 96,693 | FY26 113,999 | Sep 2026 123,179"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 3.8 | FY23 4 | FY24 3.8 | FY25 3.7 | FY26 3.8 | Sep 2026 4.1"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 34 | FY23 80 | FY24 43 | FY25 41 | FY26 119 | Sep 2026 76"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 1,716 | FY23 2,308 | FY24 3,250 | FY25 3,780 | FY26 3,947 | Sep 2026 4,422"
+  },
+  {
+   "id": "N21",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 -807 | FY22 -37,029 | FY23 -42,112 | FY24 -72,760 | FY25 -67,792 | FY26 -65,790"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -429 | FY22 6,347 | FY23 -10,394 | FY24 -7,171 | FY25 -2,765 | FY26 -3,389"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 -1,105 | FY22 -37,644 | FY23 -42,970 | FY24 -73,759 | FY25 -68,837 | FY26 -66,686"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is -413% of cumulative net profit"
+  },
+  {
+   "id": "N25",
+   "topic": "trajectory",
+   "text": "ROE (%): FY21 13 | FY22 17 | FY23 23 | FY24 22 | FY25 19 | FY26 18"
+  },
+  {
+   "id": "N26",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 18,035 | FY25 18,294 | Jun 2025 19,524 | Sep 2025 19,990 | Dec 2025 21,013 | FY26 21,606 | Jun 2026 23,165 | Sep 2026 24,546"
+  },
+  {
+   "id": "N27",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 33 | FY25 32 | Jun 2025 34 | Sep 2025 34 | Dec 2025 28 | FY26 35 | Jun 2026 36 | Sep 2026 36"
+  },
+  {
+   "id": "N28",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 4,308 | FY25 4,546 | Jun 2025 4,765 | Sep 2025 4,948 | Dec 2025 4,066 | FY26 5,553 | Jun 2026 6,081 | Sep 2026 6,367"
+  },
+  {
+   "id": "N29",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 17 | Dec 2025 16.5 | Mar 2026 18.1 | Jun 2026 18.6 | Sep 2026 22.8"
+  },
+  {
+   "id": "N30",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 23.3 | Dec 2025 -5.6 | Mar 2026 22.2 | Jun 2026 27.6 | Sep 2026 28.7"
+  },
+  {
+   "id": "N31",
+   "topic": "quarterly",
+   "text": "Operating margin moved +2.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/BAJFINANCE/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a448b6b0-edb5-4b99-a122-d602950310af.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Apr 2026",
+   "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p03",
+   "name": "Vikram Iyer",
+   "headline": "Director, Retail Credit Risk, Bajaj Finance",
+   "relation": "Former colleague at McKinsey",
+   "strength": 4,
+   "last_contact": "2026-06-02",
+   "days_since_contact": 164,
+   "score": 100.5,
+   "angle": "insider",
+   "why": "Director, Retail Credit Risk at Bajaj Finance (since 2019)",
+   "knows": "Early-bucket delinquency trends and how underwriting changes by customer segment."
+  },
+  {
+   "id": "p29",
+   "name": "Sana Mirza",
+   "headline": "Rural microfinance operator",
+   "relation": "Met on a field visit, 2022",
+   "strength": 3,
+   "last_contact": "2025-12-20",
+   "days_since_contact": 328,
+   "score": 58.2,
+   "angle": "competitor",
+   "why": "Head of Collections at CreditAccess Grameen (since 2019), which competes with Bajaj Finance",
+   "knows": "How Bajaj Finance is seen by a rival: pricing, share shifts, who is winning deals."
+  },
+  {
+   "id": "p04",
+   "name": "Priya Raghavan",
+   "headline": "Senior VP, Corporate Banking, HDFC Bank",
+   "relation": "Family friend",
+   "strength": 4,
+   "last_contact": "2026-09-20",
+   "days_since_contact": 54,
+   "score": 55.2,
+   "angle": "competitor",
+   "why": "Senior VP, Corporate Banking at HDFC Bank (since 2011), which competes with Bajaj Finance",
+   "knows": "How Bajaj Finance is seen by a rival: pricing, share shifts, who is winning deals."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company is a leading non-banking financial company (NBFC) in India, providing a wide range of financial products and services. It focuses on financial inclusion and serves a significant portion of Indian households.",
+   "cites": [
+    "A:41"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Loans",
+    "text": "The company disburses various types of loans, including auto loans and loans against property. It serves both self-employed and salaried customers.",
+    "cites": [
+     "A:41",
+     "A:108"
+    ]
+   },
+   {
+    "name": "Insurance",
+    "text": "The company offers insurance products as part of its financial services portfolio.",
+    "cites": [
+     "A:41"
+    ]
+   },
+   {
+    "name": "Mutual Funds",
+    "text": "The company provides mutual fund products to its customers.",
+    "cites": [
+     "A:41"
+    ]
+   },
+   {
+    "name": "Wealth Management",
+    "text": "The company is expanding its offerings to include wealth management services.",
+    "cites": [
+     "A:71"
+    ]
+   },
+   {
+    "name": "Fixed Deposits",
+    "text": "The company offers fixed deposit products as part of its financial services.",
+    "cites": [
+     "A:41"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market capitalization is ₹ 6,96,648 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 31.8.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is low at 0.48%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue has grown significantly from ₹ 26,673 Cr in FY21 to ₹ 81,985 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹ 4,420 Cr in FY21 to ₹ 19,332 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth year on year was 22.8% in Sep 2026.",
+    "cites": [
+     "N29"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Total borrowings reached ₹ 501,982 Cr by Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio increased to 4.1 in Sep 2026.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Shareholders' equity was ₹ 123,179 Cr in Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cumulative cash from operations is -413% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cash from operations has been negative for the last five fiscal years.",
+    "cites": [
+     "N21"
+    ]
+   },
+   {
+    "text": "Free cash flow has been negative, reaching -₹ 66,686 Cr in FY26.",
+    "cites": [
+     "N23"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We are well on track to deliver between 60 million to 62 million new loans in FY27.",
+   "quote": "We are well on track to deliver between 60 million to 62 million new loans in FY27.",
+   "cite": "C1:4",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are clear about adding between 18 MM to 20 MM customers to the franchise in FY27.",
+   "quote": "We are clear about adding between 18 MM to 20 MM customers to the franchise in FY27.",
+   "cite": "C1:4",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "growth",
+   "statement": "We should deliver now on a full year basis between 26%, 27% growth.",
+   "quote": "I would say probably between 26%, 27% growth we should deliver now on a full year basis.",
+   "cite": "C1:12",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "margin",
+   "statement": "We should be able to manage comfortably is what I would say in terms of NIM.",
+   "quote": "Overall profitability and return ratio, we should be able to continue to navigate is what I would say to you.",
+   "cite": "C1:12",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "opex",
+   "statement": "We remain pretty comfortable place to deliver a 25 to 40 basis point improvement in FY27 on opex-to-NTI.",
+   "quote": "We remain pretty comfortable place to deliver a 25 to 40 basis point improvement in FY27 on opex-to-NTI.",
+   "cite": "C1:4",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "credit cost",
+   "statement": "Rest of the year, we should look at it in the same corridor.",
+   "quote": "Rest of the year, we should look at it in the same corridor, is what I would just say to you.",
+   "cite": "C1:14",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G6"
+  },
+  {
+   "metric": "growth",
+   "statement": "We foresee AUM of between INR29,000 crores and INR31,000 crores.",
+   "quote": "we foresee 2,700 to 2,800 branches, all goes well, maybe 3,000 branches and AUM of between INR29,000 crores and INR31,000 crores, all organic.",
+   "cite": "C2:4",
+   "horizon": "by year-end",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are targeting to deliver INR100,000 crores volume next year.",
+   "quote": "I am targeting that next year we should be delivering INR100,000 crores volume between customer centricity, AI and tech transformation and digital transformation.",
+   "cite": "C2:6",
+   "horizon": "next year",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "margin",
+   "statement": "We foresee a moderation of 10 - 15 basis points in margins.",
+   "quote": "I think that moderation 10 - 15 basis points is what we foresee at this juncture.",
+   "cite": "C2:14",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "opex",
+   "statement": "We are confident of delivering 25 to 40 basis points improvement for FY27 in opex to NTI.",
+   "quote": "Overall, we are confident of delivering 25 to 40 basis points improvement for FY '27 in opex to NTI.",
+   "cite": "C2:4",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "credit quality",
+   "statement": "We expect continued improvement on credit quality metrics over the coming quarters.",
+   "quote": "We expect continued improvement at this juncture on this metric over the coming quarters.",
+   "cite": "C2:5",
+   "horizon": "coming quarters",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "debt",
+   "statement": "We will go down to 75% while we have time and we are in no hurry.",
+   "quote": "we will go down to 75%, while we have time and we are in no hurry.",
+   "cite": "C2:14",
+   "horizon": "by December 2027 - January 2028",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are confident of a 20% to 24% AUM growth.",
+   "quote": "we're confident of a 20% to 24% AUM growth, aided by new businesses that we've launched in the last few years as they begin to scale.",
+   "cite": "C3:7",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to add 15 to 17 million new customers in FY27.",
+   "quote": "we continue to be confident of adding 15 - 17 million new customers in FY27.",
+   "cite": "C3:7",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "margin",
+   "statement": "We expect opex to NTI to improve by 25 to 40 basis points.",
+   "quote": "we expect to see continued improvement of 25 to 40 basis points from current levels.",
+   "cite": "C3:7",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "profitability",
+   "statement": "We guide for ROA of 4.4% to 4.6%.",
+   "quote": "we continue to guide for 4.4% to 4.6%.",
+   "cite": "C3:8",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "profitability",
+   "statement": "We guide for ROE of 19% to 20%.",
+   "quote": "we continue to guide for 19% to 20%.",
+   "cite": "C3:8",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are confident of adding 15 - 17 million new customers in FY27.",
+   "quote": "We continue to be confident of adding 15 - 17 million new customers in FY27.",
+   "cite": "C4:6",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect AUM growth of 20% to 24% in FY27.",
+   "quote": "In terms of AUM, we're confident of a 20% to 24% AUM growth.",
+   "cite": "C4:6",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G19"
+  },
+  {
+   "metric": "margin",
+   "statement": "We expect opex to NTI to improve by 25 to 40 basis points.",
+   "quote": "On opex to NTI, we expect to see continued improvement of 25 to 40 basis points.",
+   "cite": "C4:6",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G20"
+  },
+  {
+   "metric": "ROA",
+   "statement": "We continue to guide for ROA of 4.4% to 4.6%.",
+   "quote": "We continue to guide for 4.4% to 4.6%.",
+   "cite": "C4:7",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G21"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded confident about growth and operational metrics, emphasizing their strategic focus on customer-centric lending.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on growth guidance and credit costs.",
+     "cites": [
+      "C1:12",
+      "C1:13"
+     ]
+    },
+    {
+     "text": "Questions on the impact of regulatory changes on margins.",
+     "cites": [
+      "C1:16"
+     ]
+    },
+    {
+     "text": "Concerns regarding asset quality and customer leverage.",
+     "cites": [
+      "C1:9",
+      "C1:10"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about growth and operational improvements, emphasizing a strong performance and future potential.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the sustainability of growth and credit cost improvements.",
+     "cites": [
+      "C2:8",
+      "C2:14"
+     ]
+    },
+    {
+     "text": "Analysts inquired about margin expectations amidst rising costs.",
+     "cites": [
+      "C2:14"
+     ]
+    },
+    {
+     "text": "Analysts pressed on the company's capital raising plans and leverage levels.",
+     "cites": [
+      "C2:14"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a448b6b0-edb5-4b99-a122-d602950310af.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded optimistic about growth prospects and operational improvements, emphasizing confidence in achieving targets.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the sustainability of growth and credit cost guidance.",
+     "cites": [
+      "C3:10",
+      "C3:15"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the impact of geopolitical tensions on forecasts.",
+     "cites": [
+      "C3:8"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the specifics of AI investments and their expected ROI.",
+     "cites": [
+      "C3:14"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Apr 2026",
+   "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about growth prospects and operational improvements.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on credit cost guidance and its implications.",
+     "cites": [
+      "C4:8",
+      "C4:14"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the impact of geopolitical tensions on growth.",
+     "cites": [
+      "C4:6"
+     ]
+    },
+    {
+     "text": "Analysts questioned the sustainability of profit growth relative to AUM growth.",
+     "cites": [
+      "C4:15"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G17",
+   "promise": "We guide for ROE of 19% to 20%.",
+   "quote": "we continue to guide for 19% to 20%.",
+   "said_in": "May 2026",
+   "promise_cite": "C3:8",
+   "horizon": "FY27",
+   "delivered": "ROE reported at 18.2%, below the guided 19% to 20%.",
+   "verdict": "missed",
+   "cites": [
+    "N6"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "We are well on track to deliver between 60 million to 62 million new loans in FY27.",
+   "quote": "We are well on track to deliver between 60 million to 62 million new loans in FY27.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:4",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G2",
+   "promise": "We are clear about adding between 18 MM to 20 MM customers to the franchise in FY27.",
+   "quote": "We are clear about adding between 18 MM to 20 MM customers to the franchise in FY27.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:4",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We should deliver now on a full year basis between 26%, 27% growth.",
+   "quote": "I would say probably between 26%, 27% growth we should deliver now on a full year basis.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:12",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 1,
+  "too_early": 3
+ },
+ "divergences": [
+  {
+   "text": "Management guided for ROE of 19% to 20%, but reported ROE is 18.2%.",
+   "cites": [
+    "G17",
+    "N6"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "What is the current AUM and how does it compare to the guidance range?",
+   "answer": "The evidence does not provide information on the current AUM or any guidance range for comparison. Therefore, I cannot address the Skeptic's question.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to address the shortfall in ROE compared to guidance?",
+   "answer": "Management has guided for ROE of 19% to 20% for FY27. They are confident in achieving this through growth in AUM and customer additions, alongside improvements in operational efficiency.",
+   "cites": [
+    "G17",
+    "G13",
+    "G14",
+    "G10"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Bajaj Finance shows strong revenue growth but struggles with cash flow and ROE targets.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of strong growth is supported by significant revenue and profit increases. However, the negative cash flow and missed ROE target suggest underlying financial challenges.",
+   "cites": [
+    "N7",
+    "N9",
+    "N21",
+    "N23",
+    "N6"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Bajaj Finance has shown significant revenue growth, increasing from ₹26,673 Cr in FY21 to ₹81,985 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit has increased substantially from ₹4,420 Cr in FY21 to ₹19,332 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth year on year was strong at 22.8% in Sep 2026.",
+    "cites": [
+     "N29"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Cash from operations has been negative for the last five fiscal years, indicating potential liquidity issues.",
+    "cites": [
+     "N21"
+    ]
+   },
+   {
+    "text": "Free cash flow was negative, reaching -₹66,686 Cr in FY26.",
+    "cites": [
+     "N23"
+    ]
+   },
+   {
+    "text": "The reported ROE of 18.2% missed the management's guidance of 19% to 20%.",
+    "cites": [
+     "N6",
+     "G17"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How does management plan to address the persistent negative cash flow from operations?",
+   "What steps are being taken to achieve the guided ROE of 19% to 20% given the current shortfall?",
+   "Can management provide more details on the strategies to improve free cash flow?"
+  ]
+ },
+ "audit": {
+  "claims": 68,
+  "dropped": 8,
+  "seconds": 73.2,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "31 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue has grown significantly from ₹ 26,673 Cr in FY21 to ₹ 81,985 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "21 explicit promises across 4 calls. Management sounded confident about growth and operational metrics, emphasizing their strategic focus on customer-centric lending."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 4 testable promises: 0 delivered, 0 partly, 1 missed, 3 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "What is the current AUM and how does it compare to the guidance range?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The evidence does not provide information on the current AUM or any guidance range for comparison. Therefore, I cannot address the Skeptic's question.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to address the shortfall in ROE compared to guidance?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management has guided for ROE of 19% to 20% for FY27. They are confident in achieving this through growth in AUM and customer additions, alongside improvements in operational efficiency.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Bajaj Finance shows strong revenue growth but struggles with cash flow and ROE targets."
+  }
+ ]
+}

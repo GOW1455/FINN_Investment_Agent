@@ -1,0 +1,1083 @@
+{
+ "version": 5,
+ "symbol": "TITAN",
+ "name": "Titan Company",
+ "generated_at": "2026-11-13 01:41",
+ "top_ratios": {
+  "Market Cap": "₹ 4,37,395 Cr.",
+  "Current Price": "₹ 4,922",
+  "High / Low": "₹ 5,187 / 3,751",
+  "Stock P/E": "61.5",
+  "Book Value": "₹ 206",
+  "Dividend Yield": "0.30 %",
+  "ROCE": "20.5 %",
+  "ROE": "37.7 %",
+  "Face Value": "₹ 1.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 4,37,395 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 61.5"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 206"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.30 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 20.5 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 37.7 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 21,644 | FY22 28,799 | FY23 40,575 | FY24 51,084 | FY25 60,456 | FY26 87,584"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 8 | FY22 12 | FY23 12 | FY24 10 | FY25 9 | FY26 10"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 974 | FY22 2,198 | FY23 3,274 | FY24 3,496 | FY25 3,337 | FY26 5,073"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 11 | FY22 24.5 | FY23 36.6 | FY24 39.4 | FY25 37.6 | FY26 57.1"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 29.2%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 32.3%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 15.7%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 39.1%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹94,306 cr, net profit ₹7,033 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 7,275 | FY23 9,367 | FY24 15,528 | FY25 20,777 | FY26 30,621 | Sep 2026 27,638"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 9,303 | FY23 11,851 | FY24 9,393 | FY25 11,624 | FY26 15,703 | Sep 2026 18,263"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0.8 | FY23 0.8 | FY24 1.6 | FY25 1.8 | FY26 1.9 | Sep 2026 1.5"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 85 | FY23 144 | FY24 97 | FY25 105 | FY26 163 | Sep 2026 142"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 2,544 | FY23 2,998 | FY24 3,709 | FY25 4,062 | FY26 6,878 | Sep 2026 7,159"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 9.4 | FY22 16.2 | FY23 17.3 | FY24 9.4 | FY25 6.5 | FY26 7.5"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 4,139 | FY22 -724 | FY23 1,370 | FY24 1,695 | FY25 -541 | FY26 5,590"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -2,799 | FY22 1,165 | FY23 -1,814 | FY24 -189 | FY25 546 | FY26 -2,965"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 4,000 | FY22 -940 | FY23 950 | FY24 1,024 | FY25 -1,011 | FY26 4,713"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 43% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 6 | FY22 7 | FY23 6 | FY24 7 | FY25 6 | FY26 4"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 187 | FY22 230 | FY23 199 | FY24 176 | FY25 217 | FY26 222"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 18 | FY22 22 | FY23 15 | FY24 13 | FY25 15 | FY26 15"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 176 | FY22 215 | FY23 191 | FY24 171 | FY25 208 | FY26 211"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 36 | FY22 68 | FY23 51 | FY24 42 | FY25 35 | FY26 28"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 13 | FY22 21 | FY23 25 | FY24 23 | FY25 19 | FY26 21"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 17,740 | FY25 14,916 | Jun 2025 16,523 | Sep 2025 18,725 | Dec 2025 25,416 | FY26 26,920 | Jun 2026 21,356 | Sep 2026 20,614"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 9 | FY25 10 | Jun 2025 11 | Sep 2025 10 | Dec 2025 11 | FY26 7 | Jun 2026 14 | Sep 2026 14"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 1,047 | FY25 871 | Jun 2025 1,091 | Sep 2025 1,120 | Dec 2025 1,684 | FY26 1,179 | Jun 2026 1,777 | Sep 2026 2,393"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 28.8 | Dec 2025 43.3 | Mar 2026 80.5 | Jun 2026 29.3 | Sep 2026 10.1"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 59.1 | Dec 2025 60.8 | Mar 2026 35.4 | Jun 2026 62.9 | Sep 2026 114"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved +4.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/TITAN/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a3bc0e3-c7ff-4887-a18a-f73fd400e8ca.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ee5b68b-8f66-4705-9a84-9debaa9aae1d.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p14",
+   "name": "Shruti Agarwal",
+   "headline": "Merchandising Lead, Tanishq (Titan)",
+   "relation": "IIM Ahmedabad junior",
+   "strength": 3,
+   "last_contact": "2026-05-25",
+   "days_since_contact": 172,
+   "score": 84.0,
+   "angle": "insider",
+   "why": "Merchandising Lead, Tanishq at Titan Company (since 2013)",
+   "knows": "Gold-price sensitivity, studded mix and franchisee economics."
+  },
+  {
+   "id": "p01",
+   "name": "Neha Kulkarni",
+   "headline": "VP Finance, Asian Paints",
+   "relation": "IIM Ahmedabad batchmate",
+   "strength": 5,
+   "last_contact": "2026-10-28",
+   "days_since_contact": 16,
+   "score": 38.0,
+   "angle": "sector expert",
+   "why": "Knows Consumer: paints, consumer, dealer distribution",
+   "knows": "The sector backdrop for Titan Company: demand, regulation, who the credible operators are."
+  },
+  {
+   "id": "p13",
+   "name": "Rajat Kapoor",
+   "headline": "Partner, Tata group alumnus, now at a family office",
+   "relation": "Former colleague at Kotak",
+   "strength": 4,
+   "last_contact": "2026-08-15",
+   "days_since_contact": 90,
+   "score": 35.0,
+   "angle": "sector expert",
+   "why": "Knows Consumer: consumer, retail, Tata group",
+   "knows": "The sector backdrop for Titan Company: demand, regulation, who the credible operators are."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company operates as a lifestyle products manufacturer, focusing on retail and technology-led manufacturing. It emphasizes strong relationships with stakeholders and customer-centric practices.",
+   "cites": [
+    "A:37",
+    "A:77"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Jewellery Division",
+    "text": "This division includes brands like Tanishq and contributes significantly to the company's revenue. It reported a contribution of new products amounting to 6,348 crore, which is 16.0% of its revenue.",
+    "cites": [
+     "A:66"
+    ]
+   },
+   {
+    "name": "Watches Division",
+    "text": "The Watches Division includes brands such as Titan and Sonata. It generated revenue from new products and technologies amounting to 39 crore.",
+    "cites": [
+     "A:66"
+    ]
+   },
+   {
+    "name": "EyeCare Division",
+    "text": "This division includes brands like Titan Eye+ and reported a revenue growth of 14% to 907 crore.",
+    "cites": [
+     "A:125"
+    ]
+   },
+   {
+    "name": "Emerging Businesses",
+    "text": "This segment includes Indian Dress Wear and Fragrances & Women’s Bag Division, which collectively recorded a revenue of 508 crore, growing by 25%.",
+    "cites": [
+     "A:125"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market capitalization is ₹4,37,395 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 61.5.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is low at 0.30%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Revenue grew significantly, reaching ₹87,584 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit for FY26 was ₹5,073 Cr, showing strong growth.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth was 10.1% year on year in Sep 2026.",
+    "cites": [
+     "N35"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Total borrowings were ₹30,621 Cr in FY26.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio improved to 1.5 as of Sep 2026.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Shareholders' equity increased to ₹18,263 Cr in Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cash from operations was strong at ₹5,590 Cr in FY26.",
+    "cites": [
+     "N22"
+    ]
+   },
+   {
+    "text": "Free cash flow was positive at ₹4,713 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations was only 43% of cumulative net profit from FY22 to FY26.",
+    "cites": [
+     "N25"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "Titan aims for buyer growth to drive overall performance.",
+   "quote": "Our number one priority is to drive buyer growth, and everything we are doing is to drive buyer growth.",
+   "cite": "C1:8",
+   "horizon": "next quarters",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "margin",
+   "statement": "Titan is anchoring its margin target around 11%.",
+   "quote": "We still, Mihir, would like to anchor our margin target at around 11%.",
+   "cite": "C1:7",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "capex",
+   "statement": "Titan plans to raise ₹2,500 crores for capital replenishment.",
+   "quote": "The board has approved raising of ₹2,500 crores capital.",
+   "cite": "C1:7",
+   "horizon": "by end of FY27",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "growth",
+   "statement": "Titan expects to see healthier buyer growth with stable gold prices.",
+   "quote": "If gold prices remain corrected and stable, the chances are we will see many more customers coming into the market.",
+   "cite": "C1:11",
+   "horizon": "next quarters",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "growth",
+   "statement": "Titan aims for EBIT margin of CaratLane to increase gradually from 8% to 9%.",
+   "quote": "Their EBIT margin should start inching up from 8% to 9%, and then further from there in next couple of years.",
+   "cite": "C1:4",
+   "horizon": "next couple of years",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are committed to a double-digit healthy growth in value in the jewellery business.",
+   "quote": "we are committed to a double-digit healthy growth in value in the jewellery business.",
+   "cite": "C2:17",
+   "horizon": "FY30",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "margin",
+   "statement": "We believe we will be able to deliver around 11% EBIT margin on a full year basis.",
+   "quote": "we are very, very hopeful we will be able to deliver on a full year basis.",
+   "cite": "C2:8",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "margin",
+   "statement": "The normalized EBIT margin for our Tanishq Mia Zoya business would be around 11%.",
+   "quote": "more of 11% being the center of gravity for jewellery business margin.",
+   "cite": "C2:5",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "other",
+   "statement": "We expect gains from customs duty to flow through P&L over the next 2 to 3 quarters.",
+   "quote": "these gains would gradually flow through P&L.",
+   "cite": "C2:5",
+   "horizon": "next 2 to 3 quarters",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "other",
+   "statement": "We are targeting a top line growth of 18% to 20%.",
+   "quote": "we are targeting, as always, a double-digit aggressive growth.",
+   "cite": "C2:10",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "growth",
+   "statement": "Titan aims for 15% to 20% growth in FY27.",
+   "quote": "we hope to do that and maybe do a bit better.",
+   "cite": "C3:8",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Jun 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "growth",
+   "statement": "Titan expects to maintain buyer growth at 15% to 20% annually.",
+   "quote": "this is the medium to three to five-year horizon if you want to look at.",
+   "cite": "C3:11",
+   "horizon": "next three to five years",
+   "kind": "directional",
+   "said_in": "Jun 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "capacity",
+   "statement": "Titan plans to expand beYon to 10 to 12 stores in two to three cities.",
+   "quote": "we would certainly like to expand to around 10 to 12 stores in two to three cities.",
+   "cite": "C3:9",
+   "horizon": "by next quarters",
+   "kind": "numeric",
+   "said_in": "Jun 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "margin",
+   "statement": "Titan aims to sustain EBIT growth slightly lower than revenue growth.",
+   "quote": "can we grow our EBIT also at least a little bit lower than revenue.",
+   "cite": "C3:11",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Jun 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "other",
+   "statement": "Titan plans to provide more guidance on margins at the Investor Day in June.",
+   "quote": "we will talk maybe more about that in our Investor Day that how do we view this.",
+   "cite": "C3:11",
+   "horizon": "June 2026",
+   "kind": "directional",
+   "said_in": "Jun 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "other",
+   "statement": "Damas consolidation will start from 1st January.",
+   "quote": "the accounting of that, you will see from 1st January, consolidation of Damas books into Titan consolidation will start from 1st January.",
+   "cite": "C4:3",
+   "horizon": "Q4 FY26",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "other",
+   "statement": "Expect to maintain EBIT level or PBT level margin profile.",
+   "quote": "As long as we are able to deliver good revenue growth, we will get operating leverage and we will able to maintain EBIT level or PBT level margin profile.",
+   "cite": "C4:15",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "other",
+   "statement": "Expect to maintain a low double-digit EBIT margin profile for CaratLane.",
+   "quote": "I think they would stay there, low double-digit margin EBIT profile.",
+   "cite": "C4:13",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded optimistic about growth prospects despite competitive pressures.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the impact of gold price fluctuations on buyer growth.",
+     "cites": [
+      "C1:8",
+      "C1:12"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the competitive landscape and margin sustainability.",
+     "cites": [
+      "C1:17"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the impact of customs duty on margins.",
+     "cites": [
+      "C1:8"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded optimistic about growth prospects and confident in achieving their targets despite market volatility.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the impact of gold price volatility on margins and growth.",
+     "cites": [
+      "C2:12",
+      "C2:9"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the competitive intensity in the jewellery market.",
+     "cites": [
+      "C2:12",
+      "C2:13"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the impact of customs duty changes on future earnings.",
+     "cites": [
+      "C2:5",
+      "C2:6"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "Jun 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a3bc0e3-c7ff-4887-a18a-f73fd400e8ca.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded optimistic about growth prospects, emphasizing confidence in achieving targets despite market challenges.",
+   "pressure": [
+    {
+     "text": "Analysts pressed on sustainability of growth and margin amidst gold price volatility.",
+     "cites": [
+      "C3:9",
+      "C3:10",
+      "C3:11"
+     ]
+    },
+    {
+     "text": "Questions on the impact of gold prices on buyer behavior and margins.",
+     "cites": [
+      "C3:8",
+      "C3:10"
+     ]
+    },
+    {
+     "text": "Inquiries about the performance and expansion plans for beYon.",
+     "cites": [
+      "C3:9",
+      "C3:18"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ee5b68b-8f66-4705-9a84-9debaa9aae1d.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded optimistic about growth and margins, emphasizing strong execution and market positioning.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the impact of gold prices on margins and consumer behavior.",
+     "cites": [
+      "C4:5",
+      "C4:15"
+     ]
+    },
+    {
+     "text": "Questions about the consolidation of Damas and its impact on financials.",
+     "cites": [
+      "C4:3"
+     ]
+    },
+    {
+     "text": "Inquiries regarding the performance of the studded jewellery segment.",
+     "cites": [
+      "C4:16"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G6",
+   "promise": "We are committed to a double-digit healthy growth in value in the jewellery business.",
+   "quote": "we are committed to a double-digit healthy growth in value in the jewellery business.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:17",
+   "horizon": "FY30",
+   "delivered": "Jewellery business revenue growth is not separately reported, but overall revenue grew 10.1% year on year in Sep 2026.",
+   "verdict": "too_early",
+   "cites": [
+    "N35"
+   ]
+  },
+  {
+   "guidance": "G7",
+   "promise": "We believe we will be able to deliver around 11% EBIT margin on a full year basis.",
+   "quote": "we are very, very hopeful we will be able to deliver on a full year basis.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:8",
+   "horizon": "FY27",
+   "delivered": "The operating margin was 14% in both Jun and Sep 2026 quarters, suggesting progress towards the 11% full-year target.",
+   "verdict": "too_early",
+   "cites": [
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G8",
+   "promise": "The normalized EBIT margin for our Tanishq Mia Zoya business would be around 11%.",
+   "quote": "more of 11% being the center of gravity for jewellery business margin.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:5",
+   "horizon": "FY27",
+   "delivered": "The operating margin was 14% in both Jun and Sep 2026 quarters, indicating potential alignment with the 11% target.",
+   "verdict": "too_early",
+   "cites": [
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G10",
+   "promise": "We are targeting a top line growth of 18% to 20%.",
+   "quote": "we are targeting, as always, a double-digit aggressive growth.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:10",
+   "horizon": "FY27",
+   "delivered": "Quarterly revenue growth was 10.1% year on year in Sep 2026, below the 18% to 20% target.",
+   "verdict": "missed",
+   "cites": [
+    "N35"
+   ]
+  },
+  {
+   "guidance": "G11",
+   "promise": "Titan aims for 15% to 20% growth in FY27.",
+   "quote": "we hope to do that and maybe do a bit better.",
+   "said_in": "Jun 2026",
+   "promise_cite": "C3:8",
+   "horizon": "FY27",
+   "delivered": "Quarterly revenue growth was 10.1% year on year in Sep 2026, below the 15% to 20% target.",
+   "verdict": "missed",
+   "cites": [
+    "N35"
+   ]
+  },
+  {
+   "guidance": "G2",
+   "promise": "Titan is anchoring its margin target around 11%.",
+   "quote": "We still, Mihir, would like to anchor our margin target at around 11%.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:7",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "Titan plans to raise ₹2,500 crores for capital replenishment.",
+   "quote": "The board has approved raising of ₹2,500 crores capital.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:7",
+   "horizon": "by end of FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G1",
+   "promise": "Titan aims for buyer growth to drive overall performance.",
+   "quote": "Our number one priority is to drive buyer growth, and everything we are doing is to drive buyer growth.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:8",
+   "horizon": "next quarters",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 2,
+  "too_early": 6
+ },
+ "divergences": [
+  {
+   "text": "Titan's target of 18% to 20% top line growth for FY27 is not supported by the 10.1% revenue growth in Sep 2026.",
+   "cites": [
+    "G10",
+    "N35"
+   ]
+  },
+  {
+   "text": "Titan's aim for 15% to 20% growth in FY27 is contradicted by the 10.1% revenue growth in Sep 2026.",
+   "cites": [
+    "G11",
+    "N35"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "Why is there no specific reporting on gains from customs duty in the P&L?",
+   "answer": "The evidence does not provide any information regarding gains from customs duty in the P&L. Therefore, I cannot address the Skeptic's question based on the available data.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to achieve the ambitious revenue growth targets given the current performance?",
+   "answer": "Titan plans to achieve ambitious revenue growth by focusing on buyer growth as a top priority (G1). They are targeting a top line growth of 18% to 20% for FY27 (G10) and expect to maintain buyer growth at 15% to 20% annually over the next three to five years (G12). Additionally, they anticipate gains from customs duty to positively impact their financials in the coming quarters (G9).",
+   "cites": [
+    "G1",
+    "G10",
+    "G12",
+    "G9"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Titan's revenue growth is lagging behind its ambitious targets for FY27.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of achieving 18% to 20% revenue growth in FY27 is not supported by the reported numbers. The actual revenue growth for the latest quarter was only 10.1% year on year.",
+   "cites": [
+    "G10",
+    "N35"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Titan's net profit for FY26 showed strong growth, reaching ₹5,073 Cr.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "The debt-to-equity ratio improved to 1.5 as of September 2026, indicating better financial health.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Free cash flow was positive at ₹4,713 Cr in FY26, showing strong cash generation.",
+    "cites": [
+     "N24"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Titan's quarterly revenue growth of 10.1% in September 2026 is below its target of 18% to 20% for FY27.",
+    "cites": [
+     "G10",
+     "N35"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations was only 43% of cumulative net profit from FY22 to FY26, indicating potential cash flow issues.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is high at 61.5, which may indicate overvaluation.",
+    "cites": [
+     "N2"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How does Titan plan to achieve its ambitious revenue growth targets given the current performance of 10.1%?",
+   "What specific strategies are in place to improve cash conversion, given that cash from operations is only 43% of net profit?",
+   "Can you provide more details on the expected impact of customs duty gains on future financials?"
+  ]
+ },
+ "audit": {
+  "claims": 64,
+  "dropped": 3,
+  "seconds": 37.2,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Revenue grew significantly, reaching ₹87,584 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "18 explicit promises across 4 calls. Management sounded optimistic about growth prospects despite competitive pressures."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 8 testable promises: 0 delivered, 0 partly, 2 missed, 6 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Why is there no specific reporting on gains from customs duty in the P&L?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The evidence does not provide any information regarding gains from customs duty in the P&L. Therefore, I cannot address the Skeptic's question based on the available data.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to achieve the ambitious revenue growth targets given the current performance?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Titan plans to achieve ambitious revenue growth by focusing on buyer growth as a top priority (G1). They are targeting a top line growth of 18% to 20% for FY27 (G10) and expect to maintain buyer growth at 15% to 20% annually over the next three to five years (G12). Additionally, they anticipate gains from customs duty to positively impact their financials in the coming quarters (G9).",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Titan's revenue growth is lagging behind its ambitious targets for FY27."
+  }
+ ]
+}

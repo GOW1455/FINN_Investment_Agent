@@ -1,0 +1,568 @@
+{
+ "version": 5,
+ "symbol": "TRENT",
+ "name": "Trent",
+ "generated_at": "2026-11-13 01:42",
+ "top_ratios": {
+  "Market Cap": "₹ 1,70,292 Cr.",
+  "Current Price": "₹ 3,180",
+  "High / Low": "₹ 3,400 / 2,184",
+  "Stock P/E": "88.9",
+  "Book Value": "₹ 146",
+  "Dividend Yield": "0.13 %",
+  "ROCE": "28.3 %",
+  "ROE": "27.7 %",
+  "Face Value": "₹ 1.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 1,70,292 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 88.9"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 146"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.13 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 28.3 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 27.7 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 2,593 | FY22 4,498 | FY23 8,242 | FY24 12,375 | FY25 17,135 | FY26 20,074"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 4.4 | FY22 13 | FY23 14 | FY24 16 | FY25 16 | FY26 19"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 -181 | FY22 35 | FY23 394 | FY24 1,477 | FY25 1,534 | FY26 1,721"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 -2.7 | FY22 2 | FY23 8.3 | FY24 27.9 | FY25 29 | FY26 32.2"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 34.5%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 50.6%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 63.5%"
+  },
+  {
+   "id": "N14",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹22,001 cr, net profit ₹1,909 cr"
+  },
+  {
+   "id": "N15",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 4,725 | FY23 4,464 | FY24 1,753 | FY25 2,237 | FY26 2,561 | Sep 2026 2,328"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 2,364 | FY23 2,596 | FY24 4,068 | FY25 5,462 | FY26 6,985 | Sep 2026 7,769"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 2 | FY23 1.7 | FY24 0.4 | FY25 0.4 | FY26 0.4 | Sep 2026 0.3"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 105 | FY23 102 | FY24 224 | FY25 180 | FY26 254 | Sep 2026 238"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 4,687 | FY23 4,527 | FY24 2,450 | FY25 3,895 | FY26 5,519 | Sep 2026 5,377"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 1.2 | FY22 2.3 | FY23 3.6 | FY24 8 | FY25 15.6 | FY26 16.4"
+  },
+  {
+   "id": "N21",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 285 | FY22 58 | FY23 595 | FY24 1,349 | FY25 1,661 | FY26 2,668"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 18 | FY22 56 | FY23 -103 | FY24 -508 | FY25 -923 | FY26 -1,577"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 194 | FY22 -152 | FY23 371 | FY24 955 | FY25 799 | FY26 931"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 123% of cumulative net profit"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 3 | FY22 1 | FY23 2 | FY24 2 | FY25 1 | FY26 1"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 102 | FY22 128 | FY23 105 | FY24 83 | FY25 77 | FY26 74"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 65 | FY22 56 | FY23 51 | FY24 41 | FY25 35 | FY26 39"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 40 | FY22 74 | FY23 55 | FY24 45 | FY25 43 | FY26 36"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 -14 | FY22 42 | FY23 29 | FY24 16 | FY25 15 | FY26 -2"
+  },
+  {
+   "id": "N30",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 1 | FY22 7 | FY23 12 | FY24 24 | FY25 31 | FY26 28"
+  },
+  {
+   "id": "N31",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 4,657 | FY25 4,217 | Jun 2025 4,883 | Sep 2025 4,818 | Dec 2025 5,345 | FY26 5,028 | Jun 2026 5,755 | Sep 2026 5,873"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 18 | FY25 15 | Jun 2025 17 | Sep 2025 17 | Dec 2025 20 | FY26 18 | Jun 2026 19 | Sep 2026 18"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 497 | FY25 312 | Jun 2025 425 | Sep 2025 373 | Dec 2025 510 | FY26 413 | Jun 2026 518 | Sep 2026 468"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 15.9 | Dec 2025 14.8 | Mar 2026 19.2 | Jun 2026 17.9 | Sep 2026 21.9"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 11.3 | Dec 2025 2.6 | Mar 2026 32.4 | Jun 2026 21.9 | Sep 2026 25.5"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Operating margin moved +1.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/TRENT/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c3f6fa4a-3c51-453e-b634-3c3ef98f7361.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p12",
+   "name": "Ishita Banerjee",
+   "headline": "Category Head, Westside (Trent)",
+   "relation": "College friend's sister",
+   "strength": 2,
+   "last_contact": "2025-11-11",
+   "days_since_contact": 367,
+   "score": 82.4,
+   "angle": "insider",
+   "why": "Category Head, Westside at Trent (since 2016)",
+   "knows": "Store-level throughput, Zudio expansion pace and private-label margins."
+  },
+  {
+   "id": "p21",
+   "name": "Suresh Reddy",
+   "headline": "Ex-GM Finance, Reliance Retail",
+   "relation": "Met at a CFO roundtable, 2023",
+   "strength": 2,
+   "last_contact": "2025-09-12",
+   "days_since_contact": 427,
+   "score": 57.7,
+   "angle": "competitor",
+   "why": "Finance Controller at DMart (Avenue Supermarts) (since 2023), which competes with Trent",
+   "knows": "How Trent is seen by a rival: pricing, share shifts, who is winning deals."
+  },
+  {
+   "id": "p13",
+   "name": "Rajat Kapoor",
+   "headline": "Partner, Tata group alumnus, now at a family office",
+   "relation": "Former colleague at Kotak",
+   "strength": 4,
+   "last_contact": "2026-08-15",
+   "days_since_contact": 90,
+   "score": 35.0,
+   "angle": "sector expert",
+   "why": "Knows Retail: consumer, retail, Tata group",
+   "knows": "The sector backdrop for Trent: demand, regulation, who the credible operators are."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company operates in the retail sector, focusing on lifestyle brands and food businesses. It aims to enhance customer experience through innovative store designs and a strong digital presence.",
+   "cites": [
+    "A:72",
+    "A:82"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Lifestyle Retail",
+    "text": "This segment includes a portfolio of lifestyle brands that cater to consumer preferences. It aims to build a compelling brand image and address substantial market opportunities.",
+    "cites": [
+     "A:78",
+     "A:82"
+    ]
+   },
+   {
+    "name": "Food Business",
+    "text": "The food business focuses on tight footprint stores with a curated selection of merchandise and a growing proportion of own-branded offerings.",
+    "cites": [
+     "A:82"
+    ]
+   },
+   {
+    "name": "Digital and Omni-Channel",
+    "text": "This segment enhances customer engagement through digital platforms, contributing to around 6% of revenues.",
+    "cites": [
+     "A:118"
+    ]
+   },
+   {
+    "name": "Supply Chain and Logistics",
+    "text": "The company invests in scaling and upgrading its supply chain network to support sustainable long-term growth.",
+    "cites": [
+     "A:118"
+    ]
+   },
+   {
+    "name": "Information Security",
+    "text": "The company implements a structured approach to managing information assets through an Information Security Management System.",
+    "cites": [
+     "A:69"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market cap is ₹ 1,70,292 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is high at 88.9.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "Dividend yield is low at 0.13%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Revenue has shown strong growth with a 5-year CAGR of 50.6%.",
+    "cites": [
+     "N12"
+    ]
+   },
+   {
+    "text": "Net profit has increased significantly with a 3-year CAGR of 63.5%.",
+    "cites": [
+     "N13"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth year on year was 21.9% for Sep 2026.",
+    "cites": [
+     "N34"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Debt-to-equity ratio has improved to 0.3 as of Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   },
+   {
+    "text": "Shareholders' equity has increased to ₹ 7,769 Cr. as of Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Borrowings decreased to ₹ 2,328 Cr. as of Sep 2026.",
+    "cites": [
+     "N15"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cumulative cash from operations is 123% of cumulative net profit.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Free cash flow was ₹ 931 Cr. in FY26.",
+    "cites": [
+     "N23"
+    ]
+   },
+   {
+    "text": "Cash from operations has steadily increased, reaching ₹ 2,668 Cr. in FY26.",
+    "cites": [
+     "N21"
+    ]
+   }
+  ]
+ },
+ "guidance": [],
+ "calls": [],
+ "status": "complete",
+ "scorecard": [],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 0,
+  "too_early": 0
+ },
+ "divergences": [],
+ "rebuttals": {
+  "numbers": {
+   "question": "Why is there no breakdown of revenue or profit by segment or geography, which could provide more insight into growth drivers?",
+   "answer": "The evidence does not provide a breakdown of revenue or profit by segment or geography. Therefore, I cannot address the Skeptic's concern regarding growth drivers.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "Without explicit guidance, how can investors assess management's credibility in delivering on strategic goals?",
+   "answer": "Investors can assess management's credibility through financial metrics such as revenue growth, net profit growth, and operating margins. For instance, the revenue CAGR is 34.5% over three years and net profit CAGR is 63.5% over the same period, indicating strong performance. Additionally, operating margins have improved from 4.4% in FY21 to 19% in FY26, reflecting operational efficiency.",
+   "cites": [
+    "N11",
+    "N13",
+    "N8"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Trent shows strong growth but faces valuation concerns with a high P/E ratio.",
+  "narrative_vs_numbers": {
+   "text": "Management's story of growth aligns with the reported numbers. Revenue and net profit have grown significantly, with a 5-year CAGR of 50.6% and a 3-year CAGR of 63.5%, respectively.",
+   "cites": [
+    "N12",
+    "N13"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Trent has demonstrated strong revenue growth with a 5-year CAGR of 50.6%.",
+    "cites": [
+     "N12"
+    ]
+   },
+   {
+    "text": "Net profit has increased significantly with a 3-year CAGR of 63.5%.",
+    "cites": [
+     "N13"
+    ]
+   },
+   {
+    "text": "The debt-to-equity ratio has improved to 0.3, indicating better financial health.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "The stock P/E ratio is high at 88.9, suggesting overvaluation concerns.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "Dividend yield is low at 0.13%, which may not attract income-focused investors.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "ask_management": [
+   "What are the key drivers behind the significant revenue and net profit growth?",
+   "How does management plan to address the high P/E ratio and potential overvaluation concerns?",
+   "Can you provide a breakdown of revenue and profit by segment or geography to better understand growth drivers?"
+  ]
+ },
+ "audit": {
+  "claims": 25,
+  "dropped": 1,
+  "seconds": 45.7,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "36 financial facts, 0 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 0 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Revenue has shown strong growth with a 5-year CAGR of 50.6%."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "0 explicit promises across 0 calls. No transcripts were available."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 0 testable promises: 0 delivered, 0 partly, 0 missed, 0 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Why is there no breakdown of revenue or profit by segment or geography, which could provide more insight into growth drivers?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The evidence does not provide a breakdown of revenue or profit by segment or geography. Therefore, I cannot address the Skeptic's concern regarding growth drivers.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Without explicit guidance, how can investors assess management's credibility in delivering on strategic goals?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Investors can assess management's credibility through financial metrics such as revenue growth, net profit growth, and operating margins. For instance, the revenue CAGR is 34.5% over three years and net profit CAGR is 63.5% over the same period, indicating strong performance. Additionally, operating margins have improved from 4.4% in FY21 to 19% in FY26, reflecting operational efficiency.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Trent shows strong growth but faces valuation concerns with a high P/E ratio."
+  }
+ ]
+}

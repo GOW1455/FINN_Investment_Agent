@@ -1,0 +1,1093 @@
+{
+ "version": 5,
+ "symbol": "INFY",
+ "name": "Infosys",
+ "generated_at": "2026-11-13 01:21",
+ "top_ratios": {
+  "Market Cap": "₹ 4,68,001 Cr.",
+  "Current Price": "₹ 1,151",
+  "High / Low": "₹ 1,728 / 980",
+  "Stock P/E": "14.8",
+  "Book Value": "₹ 244",
+  "Dividend Yield": "4.17 %",
+  "ROCE": "40.0 %",
+  "ROE": "31.9 %",
+  "Face Value": "₹ 5.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 4,68,001 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 14.8"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 244"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 4.17 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 40.0 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 31.9 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 100,472 | FY22 121,641 | FY23 146,767 | FY24 153,670 | FY25 162,990 | FY26 178,650"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 28 | FY22 26 | FY23 24 | FY24 24 | FY25 24 | FY26 24"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 19,423 | FY22 22,146 | FY23 24,108 | FY24 26,248 | FY25 26,750 | FY26 29,474"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 45.4 | FY22 52.6 | FY23 58.1 | FY24 63.2 | FY25 64.3 | FY26 72.6"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 6.8%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 12.2%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 6.9%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 8.7%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹189,336 cr, net profit ₹30,788 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 5,474 | FY23 8,299 | FY24 8,359 | FY25 8,227 | FY26 9,176 | Sep 2026 8,525"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 75,350 | FY23 75,407 | FY24 88,116 | FY25 95,818 | FY26 92,852 | Sep 2026 99,077"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0.1 | FY23 0.1 | FY24 0.1 | FY25 0.1 | FY26 0.1 | Sep 2026 0.1"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 416 | FY23 288 | FY24 293 | FY25 814 | FY26 526 | Sep 2026 423"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 25,800 | FY23 29,225 | FY24 27,622 | FY25 30,961 | FY26 33,770 | Sep 2026 38,536"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 154 | FY22 169 | FY23 133 | FY24 87.5 | FY25 103 | FY26 109"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 23,224 | FY22 23,885 | FY23 22,467 | FY24 25,210 | FY25 35,694 | FY26 33,986"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -7,373 | FY22 -6,485 | FY23 -1,071 | FY24 -5,093 | FY25 -1,864 | FY26 3,546"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 21,117 | FY22 21,724 | FY23 19,888 | FY24 23,009 | FY25 33,457 | FY26 31,259"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 110% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 70 | FY22 68 | FY23 63 | FY24 72 | FY25 70 | FY26 72"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 70 | FY22 68 | FY23 63 | FY24 72 | FY25 70 | FY26 72"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 36 | FY22 28 | FY23 31 | FY24 54 | FY25 39 | FY26 33"
+  },
+  {
+   "id": "N29",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 35 | FY22 37 | FY23 40 | FY24 40 | FY25 38 | FY26 40"
+  },
+  {
+   "id": "N30",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 41,764 | FY25 40,925 | Jun 2025 42,279 | Sep 2025 44,490 | Dec 2025 45,479 | FY26 46,402 | Jun 2026 48,211 | Sep 2026 49,244"
+  },
+  {
+   "id": "N31",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 24 | FY25 24 | Jun 2025 24 | Sep 2025 24 | Dec 2025 23 | FY26 24 | Jun 2026 24 | Sep 2026 24"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 6,822 | FY25 7,038 | Jun 2025 6,924 | Sep 2025 7,375 | Dec 2025 6,666 | FY26 8,509 | Jun 2026 7,775 | Sep 2026 7,838"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 8.5 | Dec 2025 8.9 | Mar 2026 13.4 | Jun 2026 14 | Sep 2026 10.7"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 13.2 | Dec 2025 -2.3 | Mar 2026 20.9 | Jun 2026 12.3 | Sep 2026 6.3"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Operating margin moved +0.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/INFY/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4632b94-2a41-4103-876d-cdb1f6848d64.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p06",
+   "name": "Ananya Sen",
+   "headline": "Delivery Head, BFSI, Infosys",
+   "relation": "IIT Bombay junior",
+   "strength": 3,
+   "last_contact": "2026-01-18",
+   "days_since_contact": 299,
+   "score": 91.1,
+   "angle": "insider",
+   "why": "Delivery Head, BFSI at Infosys (since 2015)",
+   "knows": "Deal ramp-ups, client budget cuts and how GenAI is changing pricing in large contracts."
+  },
+  {
+   "id": "p32",
+   "name": "Imran Sheikh",
+   "headline": "Head of Treasury, Tata Consultancy Services",
+   "relation": "Met through Rajat Kapoor",
+   "strength": 2,
+   "last_contact": "2026-07-19",
+   "days_since_contact": 117,
+   "score": 45.6,
+   "angle": "competitor",
+   "why": "Head of Treasury at Tata Consultancy Services (since 2015), which competes with Infosys",
+   "knows": "How Infosys is seen by a rival: pricing, share shifts, who is winning deals."
+  },
+  {
+   "id": "p07",
+   "name": "Karthik Subramanian",
+   "headline": "Ex-CFO, mid-cap IT services",
+   "relation": "Met as management, 2021 roadshow",
+   "strength": 3,
+   "last_contact": "2025-12-05",
+   "days_since_contact": 343,
+   "score": 27.2,
+   "angle": "competitor",
+   "why": "VP Finance at Tata Consultancy Services (2012–2018), which competes with Infosys",
+   "knows": "How Infosys is seen by a rival: pricing, share shifts, who is winning deals."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company provides end-to-end business solutions to enhance client performance. It focuses on leveraging AI and cloud technologies to drive transformation across various industries.",
+   "cites": [
+    "A:80",
+    "A:40"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Financial Services and Insurance",
+    "text": "This segment includes services tailored for financial institutions and insurance companies.",
+    "cites": [
+     "A:22",
+     "A:80"
+    ]
+   },
+   {
+    "name": "Retail, Consumer Packaged Goods, and Logistics",
+    "text": "This segment focuses on solutions for retail and logistics sectors.",
+    "cites": [
+     "A:22",
+     "A:80"
+    ]
+   },
+   {
+    "name": "Energy, Utilities, Resources and Services",
+    "text": "This segment provides services to energy and utility companies.",
+    "cites": [
+     "A:22",
+     "A:80"
+    ]
+   },
+   {
+    "name": "Communications, Telecom OEM and Media",
+    "text": "This segment serves clients in telecommunications and media industries.",
+    "cites": [
+     "A:22",
+     "A:80"
+    ]
+   },
+   {
+    "name": "Hi-Tech and Manufacturing",
+    "text": "This segment includes services for high-tech and manufacturing industries.",
+    "cites": [
+     "A:22",
+     "A:80"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market capitalization is ₹ 4,68,001 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 14.8.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield stands at 4.17%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue grew from ₹ 162,990 Cr in FY25 to ₹ 178,650 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹ 26,750 Cr in FY25 to ₹ 29,474 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Trailing twelve-month revenue is ₹ 189,336 Cr.",
+    "cites": [
+     "N15"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Total borrowings were ₹ 9,176 Cr in FY26 and ₹ 8,525 Cr in Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Shareholders' equity increased to ₹ 99,077 Cr in Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio remains stable at 0.1.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Free cash flow was ₹ 31,259 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations is 110% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Cash from operations was ₹ 33,986 Cr in FY26.",
+    "cites": [
+     "N22"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "Our revenue growth guidance is 1% to 2% YoY in constant currency terms.",
+   "quote": "Based on our Q2 performance and revised outlook for rest of the year, our revenue growth guidance is 1% to 2% YoY in constant currency terms.",
+   "cite": "C1:4",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "margin",
+   "statement": "Our operating margin guidance remains the same at 20% to 22%.",
+   "quote": "Our operating margin guidance remains the same at 20% to 22%.",
+   "cite": "C1:26",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We aim to hire approximately 20,000 employees in FY27.",
+   "quote": "For the full year, our target remains clear at approximately 20,000, so around 20,000 like last year.",
+   "cite": "C1:8",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "growth",
+   "statement": "The net new mega deal is expected to contribute over 1% revenue growth in FY28.",
+   "quote": "This deal is expected to contribute over 1% growth for the company in FY28.",
+   "cite": "C1:27",
+   "horizon": "FY28",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "other",
+   "statement": "We expect effective tax rate for the year to be in the range of 29% to 30%.",
+   "quote": "We expect effective tax rate for the year to be in the range of 29% to 30%.",
+   "cite": "C1:28",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are changing our revenue growth guidance to 1.5% to 3% Y-on-Y growth in constant currency terms.",
+   "quote": "we are changing our revenue growth guidance to 1.5% to 3% Y-on-Y growth in constant currency terms.",
+   "cite": "C2:6",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "margin",
+   "statement": "Our operating margin guidance remains the same at 20% to 22%.",
+   "quote": "Our operating margin guidance remains the same at 20% to 22%.",
+   "cite": "C2:6",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "capacity",
+   "statement": "Our plan is to have 6,000 Frontier Engineers over the next few years.",
+   "quote": "Our plan is to have 6,000 Frontier Engineers over the next few years.",
+   "cite": "C2:5",
+   "horizon": "next few years",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "growth",
+   "statement": "Revenue growth guidance for FY27 is 1.5% to 3.5% year-on-year in constant currency terms.",
+   "quote": "Our revenue growth guidance for the financial year 2027 is 1.5% to 3.5% growth year-on-year in constant currency terms.",
+   "cite": "C3:4",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "margin",
+   "statement": "Operating margin guidance for FY27 is 20% to 22%.",
+   "quote": "Our operating margin guidance for financial year '27 is 20% to 22%.",
+   "cite": "C3:4",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "other",
+   "statement": "Expect to hire at least 20,000 freshers in FY27.",
+   "quote": "This year also, we are expecting at least 20,000 freshers to be hired.",
+   "cite": "C3:8",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "other",
+   "statement": "Expect acceleration of growth in Financial Services and Energy, Utility, Resources Services vertical.",
+   "quote": "We expect acceleration of growth in Financial Services and in Energy, Utility, Resources and Services vertical.",
+   "cite": "C3:4",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "growth",
+   "statement": "AI services represent 5.5% of our revenue and are growing at a robust pace.",
+   "quote": "AI services represent 5.5% of our revenue in Q3, and it is growing at a robust pace.",
+   "cite": "C4:10",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "growth",
+   "statement": "We see the AI opportunity between $300 billion and $400 billion by 2030.",
+   "quote": "We understand that the opportunity is between $300 bn and $400 bn in the year getting to 2030.",
+   "cite": "C4:11",
+   "horizon": "by 2030",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "capex",
+   "statement": "We plan to recruit 20,000 college graduates next financial year.",
+   "quote": "Next financial year, we also have a plan to recruit 20,000 college graduates.",
+   "cite": "C4:12",
+   "horizon": "next financial year",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "other",
+   "statement": "We aim for a $450 million cost run rate reduction target for Citizens Bank.",
+   "quote": "The bank has talked about a $450 mn cost run rate reduction target as part of this ‘Reimagine the Bank’ program.",
+   "cite": "C4:34",
+   "horizon": "ongoing",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "other",
+   "statement": "We target a 50% faster contract validation for BP.",
+   "quote": "50% faster contract validation, which is something that we are very proud of.",
+   "cite": "C4:38",
+   "horizon": "ongoing",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded cautious due to macroeconomic pressures and competitive intensity affecting growth and margins.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the reasons for the downward revision of growth guidance.",
+     "cites": [
+      "C1:6",
+      "C1:8"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the impact of AI on pricing and margins.",
+     "cites": [
+      "C1:12",
+      "C1:38"
+     ]
+    },
+    {
+     "text": "Analysts questioned the hiring plans and their impact on margins.",
+     "cites": [
+      "C1:8",
+      "C1:14"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded cautious due to macroeconomic uncertainties impacting guidance.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on the impact of macroeconomic conditions on guidance.",
+     "cites": [
+      "C2:6",
+      "C2:30"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the competitive pricing environment.",
+     "cites": [
+      "C2:6",
+      "C2:30"
+     ]
+    },
+    {
+     "text": "Analysts questioned the impact of client decisions on revenue.",
+     "cites": [
+      "C2:6",
+      "C2:30"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded cautiously optimistic, emphasizing growth opportunities in AI and specific sectors despite competitive pressures.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the impact of competitive pricing and client spending cuts.",
+     "cites": [
+      "C3:5",
+      "C3:9"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the impact of acquisitions on guidance.",
+     "cites": [
+      "C3:5",
+      "C3:6"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on margin sustainability amidst headwinds.",
+     "cites": [
+      "C3:9",
+      "C3:30"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4632b94-2a41-4103-876d-cdb1f6848d64.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded optimistic about growth opportunities in AI and their strategic initiatives.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of AI on revenue growth and operational efficiency.",
+     "cites": [
+      "C4:11"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the recruitment strategy and talent transformation.",
+     "cites": [
+      "C4:11"
+     ]
+    },
+    {
+     "text": "Analysts pressed for details on the execution risks associated with AI initiatives.",
+     "cites": [
+      "C4:11"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G6",
+   "promise": "We are changing our revenue growth guidance to 1.5% to 3% Y-on-Y growth in constant currency terms.",
+   "quote": "we are changing our revenue growth guidance to 1.5% to 3% Y-on-Y growth in constant currency terms.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:6",
+   "horizon": "FY27",
+   "delivered": "Revenue growth guidance of 1.5% to 3% YoY is missed as Sep 2026 YoY growth is 10.7%.",
+   "verdict": "missed",
+   "cites": [
+    "G6",
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G7",
+   "promise": "Our operating margin guidance remains the same at 20% to 22%.",
+   "quote": "Our operating margin guidance remains the same at 20% to 22%.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:6",
+   "horizon": "FY27",
+   "delivered": "Operating margin remains at 24%, which is below the 20% to 22% guidance.",
+   "verdict": "missed",
+   "cites": [
+    "G7",
+    "N31"
+   ]
+  },
+  {
+   "guidance": "G9",
+   "promise": "Revenue growth guidance for FY27 is 1.5% to 3.5% year-on-year in constant currency terms.",
+   "quote": "Our revenue growth guidance for the financial year 2027 is 1.5% to 3.5% growth year-on-year in constant currency terms.",
+   "said_in": "Apr 2026",
+   "promise_cite": "C3:4",
+   "horizon": "FY27",
+   "delivered": "Revenue growth guidance of 1.5% to 3.5% YoY is missed as Sep 2026 YoY growth is 10.7%.",
+   "verdict": "missed",
+   "cites": [
+    "G9",
+    "N33"
+   ]
+  },
+  {
+   "guidance": "G10",
+   "promise": "Operating margin guidance for FY27 is 20% to 22%.",
+   "quote": "Our operating margin guidance for financial year '27 is 20% to 22%.",
+   "said_in": "Apr 2026",
+   "promise_cite": "C3:4",
+   "horizon": "FY27",
+   "delivered": "Operating margin remains at 24%, which is below the 20% to 22% guidance.",
+   "verdict": "missed",
+   "cites": [
+    "G10",
+    "N31"
+   ]
+  },
+  {
+   "guidance": "G13",
+   "promise": "AI services represent 5.5% of our revenue and are growing at a robust pace.",
+   "quote": "AI services represent 5.5% of our revenue in Q3, and it is growing at a robust pace.",
+   "said_in": "Feb 2026",
+   "promise_cite": "C4:10",
+   "horizon": "ongoing",
+   "delivered": "No specific data on AI services revenue growth provided.",
+   "verdict": "too_early",
+   "cites": [
+    "G13"
+   ]
+  },
+  {
+   "guidance": "G15",
+   "promise": "We plan to recruit 20,000 college graduates next financial year.",
+   "quote": "Next financial year, we also have a plan to recruit 20,000 college graduates.",
+   "said_in": "Feb 2026",
+   "promise_cite": "C4:12",
+   "horizon": "next financial year",
+   "delivered": "No specific data on recruitment of 20,000 college graduates provided.",
+   "verdict": "too_early",
+   "cites": [
+    "G15"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "Our revenue growth guidance is 1% to 2% YoY in constant currency terms.",
+   "quote": "Based on our Q2 performance and revised outlook for rest of the year, our revenue growth guidance is 1% to 2% YoY in constant currency terms.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:4",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G2",
+   "promise": "Our operating margin guidance remains the same at 20% to 22%.",
+   "quote": "Our operating margin guidance remains the same at 20% to 22%.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:26",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We aim to hire approximately 20,000 employees in FY27.",
+   "quote": "For the full year, our target remains clear at approximately 20,000, so around 20,000 like last year.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:8",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 4,
+  "too_early": 5
+ },
+ "divergences": [
+  {
+   "text": "Revenue growth guidance for FY27 was set at 1.5% to 3.5% but actual growth was 10.7% YoY as of Sep 2026.",
+   "cites": [
+    "G9",
+    "N33"
+   ]
+  },
+  {
+   "text": "Operating margin guidance was 20% to 22%, but the actual margin remained at 24%.",
+   "cites": [
+    "G10",
+    "N31"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "Why is there no specific data on the growth of AI services revenue?",
+   "answer": "There is no specific data on the growth of AI services revenue in the provided evidence. The evidence focuses on overall revenue, net profit, and other financial metrics without detailing AI services.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management justify the discrepancy between the revenue growth guidance and the actual reported growth?",
+   "answer": "Management has provided updated revenue growth guidance of 1% to 2% YoY in constant currency terms for FY27, based on Q2 performance and revised outlook. Previously, the guidance was 1.5% to 3.5% YoY, indicating a downward revision. This discrepancy reflects adjustments made in response to current performance metrics.",
+   "cites": [
+    "G1",
+    "G6",
+    "G9"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Infosys shows strong financial performance but misses its own guidance targets.",
+  "narrative_vs_numbers": {
+   "text": "Management's revenue growth guidance was set at 1.5% to 3.5% for FY27, but actual growth was 10.7% YoY as of Sep 2026. Operating margin guidance was 20% to 22%, yet the actual margin remained at 24%.",
+   "cites": [
+    "G9",
+    "N33",
+    "G10",
+    "N31"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Infosys achieved a significant YoY revenue growth of 10.7% as of Sep 2026, surpassing its guidance.",
+    "cites": [
+     "N33"
+    ]
+   },
+   {
+    "text": "The company maintains a strong financial position with a stable debt-to-equity ratio of 0.1.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Free cash flow remains robust at ₹31,259 Cr in FY26, indicating strong cash generation capabilities.",
+    "cites": [
+     "N24"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Infosys missed its revenue growth guidance of 1.5% to 3.5% for FY27, indicating potential forecasting issues.",
+    "cites": [
+     "G9",
+     "N33"
+    ]
+   },
+   {
+    "text": "The operating margin of 24% is above the guidance range of 20% to 22%, suggesting possible misalignment in cost management expectations.",
+    "cites": [
+     "G10",
+     "N31"
+    ]
+   },
+   {
+    "text": "There is no specific data on the growth of AI services revenue, despite its stated importance.",
+    "cites": [
+     "G13"
+    ]
+   }
+  ],
+  "ask_management": [
+   "What factors led to the significant discrepancy between the revenue growth guidance and actual performance?",
+   "How does Infosys plan to align its operating margin expectations with actual results in future quarters?",
+   "Can management provide more detailed insights into the growth trajectory of AI services revenue?"
+  ]
+ },
+ "audit": {
+  "claims": 62,
+  "dropped": 0,
+  "seconds": 66.5,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "35 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue grew from ₹ 162,990 Cr in FY25 to ₹ 178,650 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "17 explicit promises across 4 calls. Management sounded cautious due to macroeconomic pressures and competitive intensity affecting growth and margins."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 9 testable promises: 0 delivered, 0 partly, 4 missed, 5 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Why is there no specific data on the growth of AI services revenue?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "There is no specific data on the growth of AI services revenue in the provided evidence. The evidence focuses on overall revenue, net profit, and other financial metrics without detailing AI services.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management justify the discrepancy between the revenue growth guidance and the actual reported growth?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management has provided updated revenue growth guidance of 1% to 2% YoY in constant currency terms for FY27, based on Q2 performance and revised outlook. Previously, the guidance was 1.5% to 3.5% YoY, indicating a downward revision. This discrepancy reflects adjustments made in response to current performance metrics.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Infosys shows strong financial performance but misses its own guidance targets."
+  }
+ ]
+}

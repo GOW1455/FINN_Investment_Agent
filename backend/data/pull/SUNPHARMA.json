@@ -1,0 +1,1038 @@
+{
+ "version": 5,
+ "symbol": "SUNPHARMA",
+ "name": "Sun Pharma",
+ "generated_at": "2026-11-13 01:33",
+ "top_ratios": {
+  "Market Cap": "₹ 4,53,777 Cr.",
+  "Current Price": "₹ 1,885",
+  "High / Low": "₹ 2,048 / 1,584",
+  "Stock P/E": "36.9",
+  "Book Value": "₹ 372",
+  "Dividend Yield": "0.85 %",
+  "ROCE": "20.5 %",
+  "ROE": "16.0 %",
+  "Face Value": "₹ 1.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 4,53,777 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 36.9"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 372"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 0.85 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 20.5 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 16.0 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 33,498 | FY22 38,654 | FY23 43,886 | FY24 48,497 | FY25 52,578 | FY26 58,462"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 25 | FY22 27 | FY23 27 | FY24 27 | FY25 29 | FY26 28"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 2,272 | FY22 3,389 | FY23 8,513 | FY24 9,610 | FY25 10,965 | FY26 11,509"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 12.1 | FY22 13.6 | FY23 35.3 | FY24 39.9 | FY25 45.5 | FY26 47.8"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 10.0%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 11.8%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 10.6%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 38.3%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹61,631 cr, net profit ₹10,987 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 1,290 | FY23 6,886 | FY24 3,274 | FY25 2,362 | FY26 4,627 | Sep 2026 3,241"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 48,011 | FY23 55,995 | FY24 63,667 | FY25 72,218 | FY26 83,570 | Sep 2026 89,280"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0 | FY23 0.1 | FY24 0.1 | FY25 0 | FY26 0.1 | Sep 2026 0"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 1,287 | FY23 4,973 | FY24 5,354 | FY25 6,644 | FY26 3,052 | Sep 2026 1,864"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 22,665 | FY23 24,065 | FY24 23,248 | FY25 22,586 | FY26 32,822 | Sep 2026 35,110"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 35.6 | FY22 53.2 | FY23 70.4 | FY24 58.3 | FY25 71.7 | FY26 54.3"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 6,170 | FY22 8,985 | FY23 4,959 | FY24 12,135 | FY25 14,072 | FY26 12,419"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 407 | FY22 -5,556 | FY23 -7,220 | FY24 -763 | FY25 -5,183 | FY26 -10,405"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 5,097 | FY22 7,550 | FY23 2,895 | FY24 9,964 | FY25 12,005 | FY26 8,906"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 120% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 99 | FY22 99 | FY23 95 | FY24 85 | FY25 91 | FY26 97"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Inventory Days (days): FY21 378 | FY22 315 | FY23 360 | FY24 338 | FY25 348 | FY26 363"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Days Payable (days): FY21 167 | FY22 158 | FY23 194 | FY24 194 | FY25 210 | FY26 232"
+  },
+  {
+   "id": "N29",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 310 | FY22 255 | FY23 261 | FY24 229 | FY25 228 | FY26 228"
+  },
+  {
+   "id": "N30",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 51 | FY22 47 | FY23 40 | FY24 55 | FY25 65 | FY26 54"
+  },
+  {
+   "id": "N31",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 13 | FY22 17 | FY23 16 | FY24 17 | FY25 20 | FY26 21"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 13,675 | FY25 12,959 | Jun 2025 13,851 | Sep 2025 14,478 | Dec 2025 15,521 | FY26 14,612 | Jun 2026 15,300 | Sep 2026 16,199"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 29 | FY25 29 | Jun 2025 31 | Sep 2025 31 | Dec 2025 32 | FY26 27 | Jun 2026 29 | Sep 2026 29"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 2,913 | FY25 2,154 | Jun 2025 2,293 | Sep 2025 3,125 | Dec 2025 3,381 | FY26 2,710 | Jun 2026 2,901 | Sep 2026 1,995"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 8.9 | Dec 2025 13.5 | Mar 2026 12.8 | Jun 2026 10.5 | Sep 2026 11.9"
+  },
+  {
+   "id": "N36",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 2.9 | Dec 2025 16.1 | Mar 2026 25.8 | Jun 2026 26.5 | Sep 2026 -36.2"
+  },
+  {
+   "id": "N37",
+   "topic": "quarterly",
+   "text": "Operating margin moved -2.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/SUNPHARMA/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb65dea5-416a-4f98-95e2-0b58761b7442.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe431adc-0e1a-48ee-9c2b-b6e39cba04e4.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34be7c92-1d9f-4010-ba30-2344c959bc5e.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=287022b2-8de5-487d-8d0d-77b819ee3eb4.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=293c1789-7308-4864-982a-192b016de087.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p17",
+   "name": "Nikhil Rao",
+   "headline": "Head of Formulations Strategy, Sun Pharma",
+   "relation": "Neighbour",
+   "strength": 3,
+   "last_contact": "2026-09-01",
+   "days_since_contact": 73,
+   "score": 91.1,
+   "angle": "insider",
+   "why": "Head of Formulations Strategy at Sun Pharmaceutical Industries (since 2015)",
+   "knows": "US specialty ramp, pricing erosion in generics and plant compliance status."
+  },
+  {
+   "id": "p18",
+   "name": "Divya Pillai",
+   "headline": "Ex-Head of API Sourcing, Cipla",
+   "relation": "Met through Nikhil Rao",
+   "strength": 2,
+   "last_contact": "2025-10-03",
+   "days_since_contact": 406,
+   "score": 47.8,
+   "angle": "competitor",
+   "why": "Head of API Sourcing at Cipla (2016–2025), which competes with Sun Pharma",
+   "knows": "How Sun Pharma is seen by a rival: pricing, share shifts, who is winning deals."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "Sun Pharmaceutical Industries Limited focuses on developing and commercializing innovative and complex pharmaceutical products. The company aims to deliver meaningful benefits to patients through novel therapies.",
+   "cites": [
+    "A:3"
+   ]
+  },
+  "segments": [
+   {
+    "name": "India Business",
+    "text": "The India Business segment contributes 33% of total revenue. It focuses on maintaining market leadership and high brand equity.",
+    "cites": [
+     "A:35"
+    ]
+   },
+   {
+    "name": "US Business",
+    "text": "The US Business segment accounts for 29% of total revenue. It emphasizes the development of innovative medicines.",
+    "cites": [
+     "A:35"
+    ]
+   },
+   {
+    "name": "Emerging Markets",
+    "text": "Emerging Markets contribute 19% of total revenue. The company aims to gain critical mass in these regions.",
+    "cites": [
+     "A:35"
+    ]
+   },
+   {
+    "name": "Rest of the World (RoW)",
+    "text": "The Rest of the World segment includes various international markets and contributes 15% of total revenue.",
+    "cites": [
+     "A:35"
+    ]
+   },
+   {
+    "name": "Active Pharmaceutical Ingredients (API)",
+    "text": "The Active Pharmaceutical Ingredients segment contributes 4% of total revenue. It focuses on developing API technologies.",
+    "cites": [
+     "A:35"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market capitalization is ₹ 4,53,777 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 36.9.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is 0.85%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue grew from ₹ 52,578 Cr in FY25 to ₹ 58,462 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹ 10,965 Cr in FY25 to ₹ 11,509 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly net profit declined by 36.2% year on year in Sep 2026.",
+    "cites": [
+     "N36"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Shareholders' equity rose to ₹ 89,280 Cr by Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio is 0 as of Sep 2026.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Borrowings decreased to ₹ 3,241 Cr in Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cumulative cash from operations is 120% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Free cash flow was ₹ 8,906 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cash from operations was ₹ 12,419 Cr in FY26.",
+    "cites": [
+     "N22"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We expect to maintain high single-digit growth for FY27.",
+   "quote": "we'll stick to what guidance we have given at the beginning of the year.",
+   "cite": "C1:8",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We are on track to close the Organon acquisition by Q4 FY27.",
+   "quote": "we are now on track to close the transaction as per earlier communicated timelines, that is Q4 of FY27.",
+   "cite": "C1:5",
+   "horizon": "Q4 FY27",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "R&D",
+   "statement": "We expect R&D spend to ramp up significantly in the second half.",
+   "quote": "we expect the R&D spend to significantly ramp up in the subsequent quarter.",
+   "cite": "C1:9",
+   "horizon": "H2 FY27",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "other",
+   "statement": "We anticipate further growth from the psoriatic arthritis indication.",
+   "quote": "we believe will return Ilumya to more typical growth patterns.",
+   "cite": "C1:7",
+   "horizon": "next few quarters",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "other",
+   "statement": "We are planning for a soft launch of Ilumya in November.",
+   "quote": "We are planning for a soft launch in November with a full launch in the following months.",
+   "cite": "C1:4",
+   "horizon": "November 2026",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect high single-digit growth for the full year.",
+   "quote": "we should stick on to the high single-digit growth for the full year.",
+   "cite": "C2:10",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect innovative business to continue to grow at a healthy rate.",
+   "quote": "we would like the innovative business to continue to grow at a healthy rate.",
+   "cite": "C2:7",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "tax",
+   "statement": "We expect the effective tax rate to remain around 27.8%.",
+   "quote": "we expect the tax rate to be in a similar range as in Q1.",
+   "cite": "C2:4",
+   "horizon": "until Organon closing",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "other",
+   "statement": "We expect additional charges related to Organon's acquisition in subsequent quarters.",
+   "quote": "there would be additional charges on this account in the subsequent quarters.",
+   "cite": "C2:4",
+   "horizon": "subsequent quarters",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "R&D",
+   "statement": "We should be able to meet our annual R&D spend guidance.",
+   "quote": "we have already guided for the annual number.",
+   "cite": "C2:8",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect high single-digit consolidated top line growth for FY27.",
+   "quote": "we expect high single-digit consolidated top line growth for FY27 based on our current understanding of the regulatory and macro environment.",
+   "cite": "C3:6",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "R&D",
+   "statement": "We expect our FY27 R&D spend to be 6% to 7% of the sales for the next year.",
+   "quote": "we expect our FY27 R&D spend to be 6% to 7% of the sales for the next year.",
+   "cite": "C3:6",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "acquisition timeline",
+   "statement": "We expect the acquisition to be completed in Q4 FY27.",
+   "quote": "we expect the acquisition to be completed in Q4 FY27.",
+   "cite": "C3:6",
+   "horizon": "Q4 FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "tax rate",
+   "statement": "We expect the effective tax rate to be in the range of 25%.",
+   "quote": "we expect the effective tax rate to be in the range of 25%.",
+   "cite": "C3:17",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "growth",
+   "statement": "Combined revenues will be $12.4 billion.",
+   "quote": "the combined company's revenues will be $12.4 billion.",
+   "cite": "C4:7",
+   "horizon": "by FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "growth",
+   "statement": "Innovative medicines will increase from 20% to 27% of total revenue.",
+   "quote": "the innovative part of the business will from 20% moves to 27%.",
+   "cite": "C4:7",
+   "horizon": "by FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "debt",
+   "statement": "Net debt will be 2.3x EBITDA post-acquisition.",
+   "quote": "we will get into a net debt by EBITDA of 2.3x.",
+   "cite": "C4:9",
+   "horizon": "by FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "synergies",
+   "statement": "Expect $350 million in synergies within two to four years.",
+   "quote": "could be in the range of about $350 million which could be materialized in the next two to four years.",
+   "cite": "C4:9",
+   "horizon": "by FY29",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "timelines",
+   "statement": "Transaction expected to close in six to nine months.",
+   "quote": "we expect this deal to close in about six to nine month time.",
+   "cite": "C4:9",
+   "horizon": "by Q3 FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G19"
+  },
+  {
+   "metric": "EPS",
+   "statement": "Transaction will be EPS accretive from the first year.",
+   "quote": "we believe this will be EPS accretive from the beginning.",
+   "cite": "C4:17",
+   "horizon": "by FY27",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G20"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe431adc-0e1a-48ee-9c2b-b6e39cba04e4.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded confident about growth prospects and strategic initiatives.",
+   "pressure": []
+  },
+  {
+   "tag": "C2",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34be7c92-1d9f-4010-ba30-2344c959bc5e.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded confident about growth prospects and strategic initiatives.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the growth in the U.S. generic business and its future trajectory.",
+     "cites": [
+      "C2:12",
+      "C2:13"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the impact of pricing pressure in emerging markets.",
+     "cites": [
+      "C2:20"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the sustainability of recent growth rates.",
+     "cites": [
+      "C2:21"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=287022b2-8de5-487d-8d0d-77b819ee3eb4.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded cautiously optimistic, focusing on growth and strategic investments.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the impact of higher spending and margin expectations.",
+     "cites": [
+      "C3:12",
+      "C3:17"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the integration of the Organon acquisition.",
+     "cites": [
+      "C3:9"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the outlook for the generics business.",
+     "cites": [
+      "C3:13"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=293c1789-7308-4864-982a-192b016de087.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded optimistic about the acquisition's potential to drive growth and synergies.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the integration strategy and cultural fit post-acquisition.",
+     "cites": [
+      "C4:11"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the specifics of the $350 million synergies.",
+     "cites": [
+      "C4:12"
+     ]
+    },
+    {
+     "text": "Analysts asked about the impact of debt on future acquisitions.",
+     "cites": [
+      "C4:9"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G6",
+   "promise": "We expect high single-digit growth for the full year.",
+   "quote": "we should stick on to the high single-digit growth for the full year.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:10",
+   "horizon": "FY27",
+   "delivered": "Revenue growth was 11.9% year on year in Sep 2026, which is above high single-digit growth.",
+   "verdict": "delivered",
+   "cites": [
+    "N35"
+   ]
+  },
+  {
+   "guidance": "G11",
+   "promise": "We expect high single-digit consolidated top line growth for FY27.",
+   "quote": "we expect high single-digit consolidated top line growth for FY27 based on our current understanding of the regulatory and macro environment.",
+   "said_in": "May 2026",
+   "promise_cite": "C3:6",
+   "horizon": "FY27",
+   "delivered": "Revenue growth was 11.9% year on year in Sep 2026, which is above high single-digit growth.",
+   "verdict": "delivered",
+   "cites": [
+    "N35"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "We expect to maintain high single-digit growth for FY27.",
+   "quote": "we'll stick to what guidance we have given at the beginning of the year.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:8",
+   "horizon": "FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G2",
+   "promise": "We are on track to close the Organon acquisition by Q4 FY27.",
+   "quote": "we are now on track to close the transaction as per earlier communicated timelines, that is Q4 of FY27.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:5",
+   "horizon": "Q4 FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We expect R&D spend to ramp up significantly in the second half.",
+   "quote": "we expect the R&D spend to significantly ramp up in the subsequent quarter.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:9",
+   "horizon": "H2 FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 2,
+  "partly": 0,
+  "missed": 0,
+  "too_early": 3
+ },
+ "divergences": [
+  {
+   "text": "Quarterly net profit declined by 36.2% year on year in Sep 2026, which contradicts the expectation of healthy growth.",
+   "cites": [
+    "G7",
+    "N36"
+   ]
+  },
+  {
+   "text": "No specific charges related to Organon's acquisition are mentioned, despite expectations of additional charges.",
+   "cites": [
+    "G9"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "What is the effective tax rate for the quarters reported since the guidance was given?",
+   "answer": "The effective tax rate for the quarters reported is not provided in the evidence. Therefore, I cannot determine the effective tax rate.",
+   "cites": [],
+   "concede": false
+  },
+  "guidance": {
+   "question": "How does management plan to address the significant decline in quarterly net profit?",
+   "answer": "Management has not provided specific plans to address the decline in quarterly net profit. They have indicated expectations for high single-digit growth and anticipate further growth from certain indications, but no direct measures to counter the profit decline were mentioned.",
+   "cites": [
+    "G1",
+    "G4",
+    "G6"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Sun Pharma faces a significant decline in quarterly net profit despite strong revenue growth.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of high single-digit growth is supported by the reported revenue growth of 11.9% year on year in Sep 2026. However, the significant decline in quarterly net profit by 36.2% contradicts the expectation of healthy growth in the innovative business.",
+   "cites": [
+    "G6",
+    "G7",
+    "N35",
+    "N36"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Sun Pharma achieved an 11.9% year-on-year revenue growth in Sep 2026, exceeding the high single-digit growth guidance.",
+    "cites": [
+     "G6",
+     "N35"
+    ]
+   },
+   {
+    "text": "The company has a strong balance sheet with a debt-to-equity ratio of 0 as of Sep 2026.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Cash from operations is robust, with cumulative cash from operations being 120% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Quarterly net profit declined by 36.2% year on year in Sep 2026, raising concerns about profitability.",
+    "cites": [
+     "N36"
+    ]
+   },
+   {
+    "text": "No specific charges related to Organon's acquisition were mentioned, despite expectations of additional charges.",
+    "cites": [
+     "G9"
+    ]
+   },
+   {
+    "text": "The stock's P/E ratio is relatively high at 36.9, which may indicate overvaluation.",
+    "cites": [
+     "N2"
+    ]
+   }
+  ],
+  "ask_management": [
+   "What specific measures are being taken to address the significant decline in quarterly net profit?",
+   "Can you provide more details on the expected additional charges related to the Organon acquisition?",
+   "How does management plan to ensure the innovative business continues to grow at a healthy rate despite recent profit declines?"
+  ]
+ },
+ "audit": {
+  "claims": 67,
+  "dropped": 8,
+  "seconds": 184.1,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "37 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue grew from ₹ 52,578 Cr in FY25 to ₹ 58,462 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "20 explicit promises across 4 calls. Management sounded confident about growth prospects and strategic initiatives."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 5 testable promises: 2 delivered, 0 partly, 0 missed, 3 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "What is the effective tax rate for the quarters reported since the guidance was given?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The effective tax rate for the quarters reported is not provided in the evidence. Therefore, I cannot determine the effective tax rate.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to address the significant decline in quarterly net profit?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management has not provided specific plans to address the decline in quarterly net profit. They have indicated expectations for high single-digit growth and anticipate further growth from certain indications, but no direct measures to counter the profit decline were mentioned.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Sun Pharma faces a significant decline in quarterly net profit despite strong revenue growth."
+  }
+ ]
+}

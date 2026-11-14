@@ -1,0 +1,1068 @@
+{
+ "version": 5,
+ "symbol": "BHARTIARTL",
+ "name": "Bharti Airtel",
+ "generated_at": "2026-11-13 01:23",
+ "top_ratios": {
+  "Market Cap": "₹ 13,09,484 Cr.",
+  "Current Price": "₹ 2,096",
+  "High / Low": "₹ 2,175 / 1,726",
+  "Stock P/E": "39.2",
+  "Book Value": "₹ 253",
+  "Dividend Yield": "1.15 %",
+  "ROCE": "17.6 %",
+  "ROE": "20.3 %",
+  "Face Value": "₹ 5.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 13,09,484 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 39.2"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 253"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 1.15 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 17.6 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 20.3 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 100,616 | FY22 116,547 | FY23 139,145 | FY24 149,982 | FY25 172,985 | FY26 210,973"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 45 | FY22 49 | FY23 51 | FY24 52 | FY25 49 | FY26 55"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 -12,364 | FY22 8,305 | FY23 12,287 | FY24 8,558 | FY25 37,481 | FY26 33,823"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 -27 | FY22 7.6 | FY23 15 | FY24 13.2 | FY25 58.9 | FY26 43.8"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 14.9%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 16.0%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 40.1%"
+  },
+  {
+   "id": "N14",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹228,781 cr, net profit ₹38,472 cr"
+  },
+  {
+   "id": "N15",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 169,678 | FY23 226,020 | FY24 215,592 | FY25 213,642 | FY26 195,412 | Sep 2026 199,432"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 66,554 | FY23 77,563 | FY24 82,019 | FY25 113,672 | FY26 149,057 | Sep 2026 158,047"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 2.5 | FY23 2.9 | FY24 2.6 | FY25 1.9 | FY26 1.3 | Sep 2026 1.3"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 5,955 | FY23 49,425 | FY24 16,904 | FY25 10,999 | FY26 12,938 | Sep 2026 13,607"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 244,083 | FY23 277,394 | FY24 303,303 | FY25 388,468 | FY26 406,337 | Sep 2026 414,761"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 2.7 | FY22 3.7 | FY23 3.7 | FY24 3.3 | FY25 4.9 | FY26 5.5"
+  },
+  {
+   "id": "N21",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 48,205 | FY22 55,017 | FY23 65,325 | FY24 78,898 | FY25 98,332 | FY26 122,230"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -27,286 | FY22 -41,478 | FY23 -39,232 | FY24 -51,089 | FY25 -60,198 | FY26 -56,205"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 21,091 | FY22 28,996 | FY23 38,875 | FY24 38,970 | FY25 58,990 | FY26 76,683"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 418% of cumulative net profit"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 13 | FY22 13 | FY23 10 | FY24 12 | FY25 16 | FY26 14"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 13 | FY22 13 | FY23 10 | FY24 12 | FY25 16 | FY26 14"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 -270 | FY22 -239 | FY23 -217 | FY24 -236 | FY25 -277 | FY26 -222"
+  },
+  {
+   "id": "N28",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 7 | FY22 11 | FY23 12 | FY24 13 | FY25 13 | FY26 18"
+  },
+  {
+   "id": "N29",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 45,129 | FY25 47,876 | Jun 2025 49,463 | Sep 2025 52,145 | Dec 2025 53,982 | FY26 55,383 | Jun 2026 58,539 | Sep 2026 60,878"
+  },
+  {
+   "id": "N30",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 54 | FY25 56 | Jun 2025 56 | Sep 2025 57 | Dec 2025 57 | FY26 57 | Jun 2026 57 | Sep 2026 57"
+  },
+  {
+   "id": "N31",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 16,135 | FY25 12,476 | Jun 2025 7,422 | Sep 2025 8,651 | Dec 2025 8,503 | FY26 9,247 | Jun 2026 10,012 | Sep 2026 10,710"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 25.7 | Dec 2025 19.6 | Mar 2026 15.7 | Jun 2026 18.3 | Sep 2026 16.7"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 108 | Dec 2025 -47.3 | Mar 2026 -25.9 | Jun 2026 34.9 | Sep 2026 23.8"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Operating margin moved +0.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/BHARTIARTL/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f8f6a174-8601-4747-9d0d-bd6b85fe53fc.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ff3e14f-7e97-4074-89c7-049408721c5e.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ca87613b-39c3-4571-8ea9-8f77df1b6428.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e76d0ca2-740a-4e0f-986a-2ad0ad39d515.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fbe1f35-07ac-4458-9799-d075511bcd53.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p08",
+   "name": "Meera Nair",
+   "headline": "Head of Network Planning, Bharti Airtel",
+   "relation": "Spouse's colleague",
+   "strength": 2,
+   "last_contact": "2025-08-22",
+   "days_since_contact": 448,
+   "score": 82.4,
+   "angle": "insider",
+   "why": "Head of Network Planning at Bharti Airtel (since 2017)",
+   "knows": "5G rollout pace, capex intensity and tower/fibre vendor dynamics."
+  },
+  {
+   "id": "p22",
+   "name": "Aarav Khanna",
+   "headline": "Strategy Lead, Jio Platforms",
+   "relation": "McKinsey alumnus, met at reunion",
+   "strength": 2,
+   "last_contact": "2026-03-30",
+   "days_since_contact": 228,
+   "score": 45.6,
+   "angle": "competitor",
+   "why": "Strategy Lead at Jio Platforms (since 2017), which competes with Bharti Airtel",
+   "knows": "How Bharti Airtel is seen by a rival: pricing, share shifts, who is winning deals."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "Bharti Airtel Limited provides telecommunications services, including mobile and broadband connectivity. The company focuses on innovation, customer experience, and resource efficiency.",
+   "cites": [
+    "A:23",
+    "A:50"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Mobile Services",
+    "text": "The company added 11 million mobile customers, focusing on quality and premium offerings.",
+    "cites": [
+     "A:50"
+    ]
+   },
+   {
+    "name": "Homes Segment",
+    "text": "This segment reported revenues of ₹77,747 million, a 31.7% increase year-on-year.",
+    "cites": [
+     "A:96"
+    ]
+   },
+   {
+    "name": "Enterprise Services",
+    "text": "The company serves both end consumers (B2C) and enterprise customers (B2B).",
+    "cites": [
+     "A:106"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market capitalization is ₹ 13,09,484 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 39.2.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is 1.15%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue grew from ₹ 172,985 Cr in FY25 to ₹ 210,973 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit decreased from ₹ 37,481 Cr in FY25 to ₹ 33,823 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth year on year was 16.7% in Sep 2026.",
+    "cites": [
+     "N32"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Total borrowings were ₹ 199,432 Cr as of Sep 2026.",
+    "cites": [
+     "N15"
+    ]
+   },
+   {
+    "text": "Shareholders' equity increased to ₹ 158,047 Cr in Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio remained stable at 1.3 as of Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cash from operations reached ₹ 122,230 Cr in FY26.",
+    "cites": [
+     "N21"
+    ]
+   },
+   {
+    "text": "Free cash flow was ₹ 76,683 Cr in FY26.",
+    "cites": [
+     "N23"
+    ]
+   },
+   {
+    "text": "Cumulative cash from operations was 418% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N24"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We see a sustained growth of ARPU possible on the base.",
+   "quote": "I see a sustained growth of ARPU possible on the base as we continue to unlock these levers.",
+   "cite": "C1:6",
+   "horizon": "coming quarters",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We are progressing well on our ambition to build one gigawatt capacity over the next few years.",
+   "quote": "We are progressing well on our ambition to build one gigawatt capacity over the next few years.",
+   "cite": "C1:4",
+   "horizon": "next few years",
+   "kind": "numeric",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "capex",
+   "statement": "We will not shy away from investing in the new businesses to drive growth.",
+   "quote": "We will not shy away from investing in the new businesses to drive growth because this is what will bring, what we say, double-digit growth consistently, for the years to come.",
+   "cite": "C1:7",
+   "horizon": "next few years",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "debt",
+   "statement": "Gross debt will see directionally coming down, opportunistically.",
+   "quote": "Gross debt, you will see directionally coming down, opportunistically, basis the country and the operations.",
+   "cite": "C1:10",
+   "horizon": "next quarters",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "other",
+   "statement": "We are looking at all the other levers forward in terms of continuing to grow ARPU steadily.",
+   "quote": "We are looking at all the other levers forward in terms of continuing to grow ARPU steadily over the coming quarters.",
+   "cite": "C1:6",
+   "horizon": "coming quarters",
+   "kind": "directional",
+   "said_in": "Nov 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G5"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect Africa to continue to contribute significantly to our overall growth.",
+   "quote": "We expect that the contribution to growth will be substantially higher than the base contribution to the business.",
+   "cite": "C2:11",
+   "horizon": "next few years",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "capex",
+   "statement": "We will continue to step up investments in Africa.",
+   "quote": "The investments into Africa, we will continue to step up.",
+   "cite": "C2:11",
+   "horizon": "next few years",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "capex",
+   "statement": "We are working towards our ambition to build one gigawatt in the next few years.",
+   "quote": "We are working towards our ambition to build one gigawatt in the next few years.",
+   "cite": "C2:4",
+   "horizon": "next few years",
+   "kind": "numeric",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "debt",
+   "statement": "We expect our net debt to EBITDA ratio to remain strong.",
+   "quote": "We would like to be there, but if there is a call we will certainly spend adequate money to drive competitive and profitable growth.",
+   "cite": "C2:14",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "other",
+   "statement": "We are preparing for a London listing in the second half of 2026.",
+   "quote": "Airtel Money is now preparing for a London listing in the second half of 2026.",
+   "cite": "C2:4",
+   "horizon": "H2 FY27",
+   "kind": "directional",
+   "said_in": "Aug 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We aim to build 1 gigawatt capacity in data centers over the next few years.",
+   "quote": "In data centers, we continue to make steady progress against our ambition of building 1 gigawatt capacity over the next few years.",
+   "cite": "C3:4",
+   "horizon": "next few years",
+   "kind": "numeric",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "capex",
+   "statement": "Capex for FY2027 will be in the ballpark of this year.",
+   "quote": "our sense is that we will be in the ballpark of this year, give or take a little bit.",
+   "cite": "C3:8",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "debt",
+   "statement": "We will continue to deleverage to the extent that we need to.",
+   "quote": "the second port of call is really to continue to deleverage to the extent that we need to.",
+   "cite": "C3:6",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are determined to accelerate postpaid growth.",
+   "quote": "We are determined to accelerating postpaid growth by driving differentiation.",
+   "cite": "C3:5",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "dividend",
+   "statement": "We will continue to have a progressive dividend policy.",
+   "quote": "the reason that you have seen the step up in dividend.",
+   "cite": "C3:6",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "May 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "capex",
+   "statement": "We will have about a gigawatt capacity in the next three to four years.",
+   "quote": "We have about 120 to 130 megawatts of power, so we are in that ballpark, and our sense is that, in the next three to four years, we will have about a gigawatt capacity.",
+   "cite": "C4:6",
+   "horizon": "FY29",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "debt",
+   "statement": "Our net debt to EBITDA will remain below 1.",
+   "quote": "Our balance sheet is robust with a net debt excluding leases at about 2,160 crores and a net debt to EBITDAaL below 1.",
+   "cite": "C4:14",
+   "horizon": "ongoing",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "growth",
+   "statement": "We see significant growth opportunities in ARPU-led growth, Postpaid, Broadband and B2B.",
+   "quote": "We see significant growth opportunities in ARPU-led growth, Postpaid, Broadband and B2B.",
+   "cite": "C4:5",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We will continue to invest more and more behind Data Centers.",
+   "quote": "I think, at this point in time, I cannot give you a capex guidance, but clearly you will see us investing more and more behind Data Centers.",
+   "cite": "C4:6",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G19"
+  },
+  {
+   "metric": "growth",
+   "statement": "We aim to reach 100 million connected homes over the medium term.",
+   "quote": "We continue to see large opportunity ahead of us in this market with a potential of 100 million connected homes over the medium term.",
+   "cite": "C4:4",
+   "horizon": "medium term",
+   "kind": "numeric",
+   "said_in": "Feb 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G20"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Nov 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ff3e14f-7e97-4074-89c7-049408721c5e.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded confident about growth prospects and strategic investments.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on ARPU growth and pricing strategies.",
+     "cites": [
+      "C1:6"
+     ]
+    },
+    {
+     "text": "Questions on capex allocation and future investments.",
+     "cites": [
+      "C1:6"
+     ]
+    },
+    {
+     "text": "Concerns regarding customer retention and quality.",
+     "cites": [
+      "C1:6"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Aug 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ca87613b-39c3-4571-8ea9-8f77df1b6428.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded optimistic about growth opportunities, particularly in Africa and digital services.",
+   "pressure": [
+    {
+     "text": "Analysts inquired about the sustainability of ARPU growth and competitive pressures.",
+     "cites": [
+      "C2:6",
+      "C2:7"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the impact of rising costs on customer acquisition.",
+     "cites": [
+      "C2:12",
+      "C2:13"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the capex allocation towards new growth areas.",
+     "cites": [
+      "C2:8",
+      "C2:14"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "May 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e76d0ca2-740a-4e0f-986a-2ad0ad39d515.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded confident about growth opportunities and strategic investments.",
+   "pressure": [
+    {
+     "text": "Analysts questioned about capital allocation and dividend payouts.",
+     "cites": [
+      "C3:7",
+      "C3:8"
+     ]
+    },
+    {
+     "text": "Analysts inquired about ARPU growth and pricing strategies.",
+     "cites": [
+      "C3:5",
+      "C3:8"
+     ]
+    },
+    {
+     "text": "Analysts pressed on capex plans and future investments.",
+     "cites": [
+      "C3:8"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Feb 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fbe1f35-07ac-4458-9799-d075511bcd53.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded optimistic about growth opportunities and strategic investments, indicating confidence in future performance.",
+   "pressure": [
+    {
+     "text": "Analysts pressed on the need for tariff repair and its impact on revenue growth.",
+     "cites": [
+      "C4:6"
+     ]
+    },
+    {
+     "text": "Questions were raised regarding the capex plans and Data Center ambitions.",
+     "cites": [
+      "C4:7"
+     ]
+    },
+    {
+     "text": "Concerns were expressed about AGR payments and their implications for cash flow.",
+     "cites": [
+      "C4:7"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G6",
+   "promise": "We expect Africa to continue to contribute significantly to our overall growth.",
+   "quote": "We expect that the contribution to growth will be substantially higher than the base contribution to the business.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:11",
+   "horizon": "next few years",
+   "delivered": "Africa's contribution to growth cannot be directly assessed from the available data.",
+   "verdict": "too_early",
+   "cites": [
+    "N7",
+    "N29"
+   ]
+  },
+  {
+   "guidance": "G9",
+   "promise": "We expect our net debt to EBITDA ratio to remain strong.",
+   "quote": "We would like to be there, but if there is a call we will certainly spend adequate money to drive competitive and profitable growth.",
+   "said_in": "Aug 2026",
+   "promise_cite": "C2:14",
+   "horizon": "ongoing",
+   "delivered": "Net debt to EBITDA ratio specifics are not provided, but debt-to-equity remained stable.",
+   "verdict": "too_early",
+   "cites": [
+    "N17"
+   ]
+  },
+  {
+   "guidance": "G11",
+   "promise": "We aim to build 1 gigawatt capacity in data centers over the next few years.",
+   "quote": "In data centers, we continue to make steady progress against our ambition of building 1 gigawatt capacity over the next few years.",
+   "said_in": "May 2026",
+   "promise_cite": "C3:4",
+   "horizon": "next few years",
+   "delivered": "Progress towards 1 gigawatt capacity in data centers is not detailed.",
+   "verdict": "too_early",
+   "cites": [
+    "N19"
+   ]
+  },
+  {
+   "guidance": "G12",
+   "promise": "Capex for FY2027 will be in the ballpark of this year.",
+   "quote": "our sense is that we will be in the ballpark of this year, give or take a little bit.",
+   "said_in": "May 2026",
+   "promise_cite": "C3:8",
+   "horizon": "FY27",
+   "delivered": "Capex for FY27 is not detailed, making comparison impossible.",
+   "verdict": "too_early",
+   "cites": [
+    "N18"
+   ]
+  },
+  {
+   "guidance": "G13",
+   "promise": "We will continue to deleverage to the extent that we need to.",
+   "quote": "the second port of call is really to continue to deleverage to the extent that we need to.",
+   "said_in": "May 2026",
+   "promise_cite": "C3:6",
+   "horizon": "ongoing",
+   "delivered": "Borrowings increased slightly from FY26 to Sep 2026, not indicating deleveraging.",
+   "verdict": "missed",
+   "cites": [
+    "N15"
+   ]
+  },
+  {
+   "guidance": "G2",
+   "promise": "We are progressing well on our ambition to build one gigawatt capacity over the next few years.",
+   "quote": "We are progressing well on our ambition to build one gigawatt capacity over the next few years.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:4",
+   "horizon": "next few years",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G1",
+   "promise": "We see a sustained growth of ARPU possible on the base.",
+   "quote": "I see a sustained growth of ARPU possible on the base as we continue to unlock these levers.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:6",
+   "horizon": "coming quarters",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We will not shy away from investing in the new businesses to drive growth.",
+   "quote": "We will not shy away from investing in the new businesses to drive growth because this is what will bring, what we say, double-digit growth consistently, for the years to come.",
+   "said_in": "Nov 2026",
+   "promise_cite": "C1:7",
+   "horizon": "next few years",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 0,
+  "partly": 0,
+  "missed": 1,
+  "too_early": 7
+ },
+ "divergences": [
+  {
+   "text": "G13 suggested ongoing deleveraging, but borrowings increased slightly from FY26 to Sep 2026.",
+   "cites": [
+    "G13",
+    "N15"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "What is the current net debt to EBITDA ratio, and how does it compare to previous quarters?",
+   "answer": "The current net debt to EBITDA ratio is not provided in the evidence. Therefore, I cannot compare it to previous quarters.",
+   "cites": [],
+   "concede": true
+  },
+  "guidance": {
+   "question": "How does management plan to address the missed promise of a London listing for Airtel Money?",
+   "answer": "There is no evidence provided that addresses how management plans to address the missed promise of a London listing for Airtel Money.",
+   "cites": [],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Bharti Airtel shows strong revenue growth but faces challenges with declining net profit and stable debt levels.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of growth is supported by strong revenue growth, with a 16.7% increase in the latest quarter. However, the decline in net profit from FY25 to FY26 and stable debt levels suggest challenges in profitability and leverage reduction.",
+   "cites": [
+    "N7",
+    "N9",
+    "N32",
+    "N15",
+    "N17"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Bharti Airtel's annual revenue grew significantly from ₹172,985 Cr in FY25 to ₹210,973 Cr in FY26, indicating strong business expansion.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "The company achieved a 16.7% year-on-year revenue growth in the latest reported quarter, showcasing continued momentum.",
+    "cites": [
+     "N32"
+    ]
+   },
+   {
+    "text": "Shareholders' equity increased to ₹158,047 Cr as of September 2026, reflecting a stronger financial position.",
+    "cites": [
+     "N16"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Net profit decreased from ₹37,481 Cr in FY25 to ₹33,823 Cr in FY26, indicating declining profitability.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Total borrowings increased slightly from FY26 to September 2026, contradicting management's promise of deleveraging.",
+    "cites": [
+     "N15",
+     "G13"
+    ]
+   },
+   {
+    "text": "The stock's P/E ratio is high at 39.2, which may indicate overvaluation relative to earnings.",
+    "cites": [
+     "N2"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How does management plan to address the decline in net profit despite revenue growth?",
+   "What specific steps are being taken to achieve the promised reduction in gross debt?",
+   "Can management provide more details on the progress towards the 1 gigawatt capacity in data centers?"
+  ]
+ },
+ "audit": {
+  "claims": 64,
+  "dropped": 2,
+  "seconds": 215.1,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "34 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue grew from ₹ 172,985 Cr in FY25 to ₹ 210,973 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "20 explicit promises across 4 calls. Management sounded confident about growth prospects and strategic investments."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 8 testable promises: 0 delivered, 0 partly, 1 missed, 7 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "What is the current net debt to EBITDA ratio, and how does it compare to previous quarters?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The current net debt to EBITDA ratio is not provided in the evidence. Therefore, I cannot compare it to previous quarters.",
+   "data": {
+    "concede": true
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to address the missed promise of a London listing for Airtel Money?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "There is no evidence provided that addresses how management plans to address the missed promise of a London listing for Airtel Money.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Bharti Airtel shows strong revenue growth but faces challenges with declining net profit and stable debt levels."
+  }
+ ]
+}

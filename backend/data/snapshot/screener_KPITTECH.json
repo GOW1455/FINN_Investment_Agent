@@ -1,0 +1,848 @@
+{
+ "symbol": "KPITTECH",
+ "name": "KPIT Technologies Ltd",
+ "about": "KPIT is a global technology company with software solutions that will help mobility leapfrog towards autonomous, clean, smart and connected future. With 13000+ Automobelievers across the globe, specializing in embedded software, AI & Digital solutions, KPIT enables customers accelerate implementation of next generation mobility technologies . With development centers in Europe, USA, Japan, China, Thailand and India [1]",
+ "industry": [
+  "Information Technology",
+  "IT - Software",
+  "Computers - Software & Consulting"
+ ],
+ "top_ratios": {
+  "Market Cap": "₹ 15,133 Cr.",
+  "Current Price": "₹ 552",
+  "High / Low": "₹ 1,285 / 470",
+  "Stock P/E": "26.3",
+  "Book Value": "₹ 134",
+  "Dividend Yield": "1.36 %",
+  "ROCE": "26.3 %",
+  "ROE": "20.9 %",
+  "Face Value": "₹ 10.0"
+ },
+ "tables": {
+  "quarters": {
+   "periods": [
+    "Sep 2023",
+    "Dec 2023",
+    "Mar 2024",
+    "Jun 2024",
+    "Sep 2024",
+    "Dec 2024",
+    "Mar 2025",
+    "Jun 2025",
+    "Sep 2025",
+    "Dec 2025",
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "rows": {
+    "Sales": [
+     1199.0,
+     1257.0,
+     1318.0,
+     1365.0,
+     1471.0,
+     1478.0,
+     1528.0,
+     1539.0,
+     1588.0,
+     1617.0,
+     1711.0,
+     1675.0,
+     1691.0
+    ],
+    "YoY Sales growth": [
+     61.0,
+     37.0,
+     30.0,
+     24.0,
+     23.0,
+     18.0,
+     16.0,
+     13.0,
+     8.0,
+     9.0,
+     12.0,
+     9.0,
+     6.0
+    ],
+    "Expenses": [
+     959.0,
+     998.0,
+     1045.0,
+     1077.0,
+     1174.0,
+     1172.0,
+     1205.0,
+     1244.0,
+     1290.0,
+     1306.0,
+     1394.0,
+     1418.0,
+     1424.0
+    ],
+    "Operating Profit": [
+     240.0,
+     259.0,
+     272.0,
+     288.0,
+     297.0,
+     306.0,
+     323.0,
+     295.0,
+     298.0,
+     311.0,
+     317.0,
+     257.0,
+     267.0
+    ],
+    "OPM %": [
+     20.0,
+     21.0,
+     21.0,
+     21.0,
+     20.0,
+     21.0,
+     21.0,
+     19.0,
+     19.0,
+     19.0,
+     18.0,
+     15.0,
+     16.0
+    ],
+    "Other Income": [
+     9.0,
+     19.0,
+     17.0,
+     54.0,
+     52.0,
+     19.0,
+     60.0,
+     16.0,
+     24.0,
+     -26.0,
+     12.0,
+     8.0,
+     8.0
+    ],
+    "Interest": [
+     14.0,
+     16.0,
+     12.0,
+     13.0,
+     10.0,
+     10.0,
+     9.0,
+     12.0,
+     16.0,
+     23.0,
+     22.0,
+     23.0,
+     21.0
+    ],
+    "Depreciation": [
+     48.0,
+     50.0,
+     53.0,
+     53.0,
+     56.0,
+     58.0,
+     58.0,
+     63.0,
+     75.0,
+     81.0,
+     82.0,
+     83.0,
+     86.0
+    ],
+    "Profit before tax": [
+     188.0,
+     212.0,
+     224.0,
+     277.0,
+     283.0,
+     257.0,
+     316.0,
+     236.0,
+     231.0,
+     181.0,
+     225.0,
+     160.0,
+     168.0
+    ],
+    "Tax %": [
+     25.0,
+     26.0,
+     26.0,
+     26.0,
+     28.0,
+     27.0,
+     23.0,
+     27.0,
+     27.0,
+     26.0,
+     27.0,
+     27.0,
+     28.0
+    ],
+    "Net Profit": [
+     141.0,
+     157.0,
+     166.0,
+     204.0,
+     204.0,
+     187.0,
+     245.0,
+     172.0,
+     169.0,
+     133.0,
+     163.0,
+     116.0,
+     121.0
+    ],
+    "EPS in Rs": [
+     5.14,
+     5.67,
+     6.0,
+     7.45,
+     7.43,
+     6.82,
+     8.93,
+     6.27,
+     6.17,
+     4.86,
+     5.95,
+     4.27,
+     4.4
+    ]
+   }
+  },
+  "profit-loss": {
+   "periods": [
+    "Mar 20183m",
+    "Mar 2019",
+    "Mar 2020",
+    "Mar 2021",
+    "Mar 2022",
+    "Mar 2023",
+    "Mar 2024",
+    "Mar 2025",
+    "Mar 2026",
+    "TTM"
+   ],
+   "rows": {
+    "Sales": [
+     0.0,
+     641.0,
+     2156.0,
+     2036.0,
+     2432.0,
+     3365.0,
+     4872.0,
+     5842.0,
+     6455.0,
+     6694.0
+    ],
+    "Sales growth": [
+     null,
+     null,
+     236.0,
+     -6.0,
+     19.0,
+     38.0,
+     45.0,
+     20.0,
+     10.0,
+     9.0
+    ],
+    "Expenses": [
+     0.0,
+     550.0,
+     1866.0,
+     1729.0,
+     1994.0,
+     2732.0,
+     3881.0,
+     4613.0,
+     5235.0,
+     5542.0
+    ],
+    "Operating Profit": [
+     -0.0,
+     92.0,
+     290.0,
+     307.0,
+     439.0,
+     633.0,
+     991.0,
+     1230.0,
+     1220.0,
+     1152.0
+    ],
+    "OPM %": [
+     null,
+     14.0,
+     13.0,
+     15.0,
+     18.0,
+     19.0,
+     20.0,
+     21.0,
+     19.0,
+     17.0
+    ],
+    "Other Income": [
+     0.0,
+     1.0,
+     19.0,
+     21.0,
+     45.0,
+     43.0,
+     60.0,
+     170.0,
+     26.0,
+     3.0
+    ],
+    "Interest": [
+     0.0,
+     7.0,
+     20.0,
+     17.0,
+     19.0,
+     32.0,
+     55.0,
+     42.0,
+     74.0,
+     90.0
+    ],
+    "Depreciation": [
+     0.0,
+     19.0,
+     108.0,
+     133.0,
+     120.0,
+     146.0,
+     196.0,
+     225.0,
+     301.0,
+     331.0
+    ],
+    "Profit before tax": [
+     -0.0,
+     67.0,
+     181.0,
+     178.0,
+     345.0,
+     497.0,
+     800.0,
+     1133.0,
+     872.0,
+     734.0
+    ],
+    "Tax %": [
+     0.0,
+     18.0,
+     18.0,
+     17.0,
+     20.0,
+     22.0,
+     25.0,
+     26.0,
+     27.0,
+     null
+    ],
+    "Net Profit": [
+     -0.0,
+     55.0,
+     148.0,
+     147.0,
+     276.0,
+     387.0,
+     599.0,
+     840.0,
+     637.0,
+     533.0
+    ],
+    "EPS in Rs": [
+     -27.0,
+     1.98,
+     5.38,
+     5.33,
+     10.0,
+     13.9,
+     21.69,
+     30.63,
+     23.25,
+     19.48
+    ],
+    "Dividend Payout %": [
+     0.0,
+     37.0,
+     18.0,
+     28.0,
+     31.0,
+     29.0,
+     31.0,
+     28.0,
+     32.0,
+     null
+    ]
+   }
+  },
+  "balance-sheet": {
+   "periods": [
+    "Mar 2018",
+    "Mar 2019",
+    "Mar 2020",
+    "Mar 2021",
+    "Mar 2022",
+    "Mar 2023",
+    "Mar 2024",
+    "Mar 2025",
+    "Mar 2026",
+    "Sep 2026"
+   ],
+   "rows": {
+    "Equity Capital": [
+     0.1,
+     268.0,
+     269.0,
+     269.0,
+     270.0,
+     270.0,
+     271.0,
+     272.0,
+     272.0,
+     273.0
+    ],
+    "Reserves": [
+     -0.0,
+     691.0,
+     780.0,
+     938.0,
+     1040.0,
+     1381.0,
+     1875.0,
+     2640.0,
+     3269.0,
+     3414.0
+    ],
+    "Borrowings": [
+     0.0,
+     132.0,
+     204.0,
+     230.0,
+     227.0,
+     287.0,
+     329.0,
+     345.0,
+     838.0,
+     764.0
+    ],
+    "Other Liabilities": [
+     0.0,
+     582.0,
+     384.0,
+     531.0,
+     799.0,
+     1402.0,
+     1624.0,
+     1707.0,
+     2742.0,
+     2606.0
+    ],
+    "Total Liabilities": [
+     0.0,
+     1674.0,
+     1637.0,
+     1968.0,
+     2336.0,
+     3341.0,
+     4098.0,
+     4964.0,
+     7121.0,
+     7058.0
+    ],
+    "Fixed Assets": [
+     0.0,
+     420.0,
+     526.0,
+     577.0,
+     641.0,
+     1684.0,
+     1915.0,
+     1972.0,
+     3985.0,
+     3997.0
+    ],
+    "CWIP": [
+     0.0,
+     1.0,
+     5.0,
+     12.0,
+     0.0,
+     33.0,
+     58.0,
+     10.0,
+     6.0,
+     3.0
+    ],
+    "Investments": [
+     0.0,
+     50.0,
+     9.0,
+     127.0,
+     129.0,
+     64.0,
+     94.0,
+     432.0,
+     172.0,
+     260.0
+    ],
+    "Other Assets": [
+     0.0,
+     1204.0,
+     1096.0,
+     1251.0,
+     1566.0,
+     1559.0,
+     2030.0,
+     2551.0,
+     2958.0,
+     2797.0
+    ],
+    "Total Assets": [
+     0.0,
+     1674.0,
+     1637.0,
+     1968.0,
+     2336.0,
+     3341.0,
+     4098.0,
+     4964.0,
+     7121.0,
+     7058.0
+    ]
+   }
+  },
+  "cash-flow": {
+   "periods": [
+    "Mar 2018",
+    "Mar 2019",
+    "Mar 2020",
+    "Mar 2021",
+    "Mar 2022",
+    "Mar 2023",
+    "Mar 2024",
+    "Mar 2025",
+    "Mar 2026"
+   ],
+   "rows": {
+    "Cash from Operating Activity": [
+     -0.0,
+     151.0,
+     389.0,
+     628.0,
+     475.0,
+     462.0,
+     1002.0,
+     1390.0,
+     1195.0
+    ],
+    "Cash from Investing Activity": [
+     0.0,
+     16.0,
+     -136.0,
+     -503.0,
+     -292.0,
+     -167.0,
+     -561.0,
+     -567.0,
+     -1188.0
+    ],
+    "Cash from Financing Activity": [
+     0.0,
+     34.0,
+     -177.0,
+     -115.0,
+     -127.0,
+     -183.0,
+     -240.0,
+     -342.0,
+     89.0
+    ],
+    "Net Cash Flow": [
+     0.0,
+     201.0,
+     75.0,
+     10.0,
+     56.0,
+     112.0,
+     201.0,
+     480.0,
+     95.0
+    ],
+    "Free Cash Flow": [
+     -0.0,
+     125.0,
+     321.0,
+     568.0,
+     406.0,
+     335.0,
+     847.0,
+     1262.0,
+     1056.0
+    ],
+    "CFO/EBITDA Share of operating profit converting into cash: CFO (before tax) / Operating Profit": [
+     4.0,
+     185.0,
+     163.0,
+     215.0,
+     129.0,
+     89.0,
+     115.0,
+     130.0,
+     115.0
+    ]
+   }
+  },
+  "ratios": {
+   "periods": [
+    "Mar 2018",
+    "Mar 2019",
+    "Mar 2020",
+    "Mar 2021",
+    "Mar 2022",
+    "Mar 2023",
+    "Mar 2024",
+    "Mar 2025",
+    "Mar 2026"
+   ],
+   "rows": {
+    "Debtor Days": [
+     null,
+     337.0,
+     76.0,
+     55.0,
+     56.0,
+     64.0,
+     56.0,
+     56.0,
+     61.0
+    ],
+    "Cash Conversion Cycle": [
+     null,
+     337.0,
+     76.0,
+     55.0,
+     56.0,
+     64.0,
+     56.0,
+     56.0,
+     61.0
+    ],
+    "Working Capital Days": [
+     null,
+     182.0,
+     29.0,
+     -11.0,
+     -29.0,
+     -28.0,
+     -26.0,
+     -32.0,
+     -74.0
+    ],
+    "ROCE %": [
+     null,
+     20.0,
+     18.0,
+     14.0,
+     24.0,
+     30.0,
+     38.0,
+     40.0,
+     26.0
+    ]
+   }
+  }
+ },
+ "documents": {
+  "annual_reports": [
+   {
+    "year": 2026,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4d2467e3-e28a-472b-8492-7fd9e46e63c4.pdf"
+   },
+   {
+    "year": 2025,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e6d2634-be8b-41d7-93c4-9b3fd8b78107.pdf"
+   },
+   {
+    "year": 2024,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2adfaf3e-928d-457f-af6f-aa7ae7130b36.pdf"
+   },
+   {
+    "year": 2023,
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e8d9403-e472-4763-bfcf-c8c528083557.pdf"
+   },
+   {
+    "year": 2022,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/542651/73972542651.pdf"
+   },
+   {
+    "year": 2021,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/542651/69190542651.pdf"
+   },
+   {
+    "year": 2020,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/542651/5426510320.pdf"
+   },
+   {
+    "year": 2019,
+    "url": "https://www.bseindia.com/bseplus/AnnualReport/542651/5426510319.pdf"
+   },
+   {
+    "year": 2018,
+    "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2018/KPIT_TECHNOLOGIES_LTD-542651-MARCH-2018.PDF"
+   },
+   {
+    "year": 2017,
+    "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2017/KPIT_TECHNOLOGIES_LTD-542651-MARCH-2017.PDF"
+   },
+   {
+    "year": 2016,
+    "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2016/KPIT_TECHNOLOGIES_LTD-542651-MARCH-2016.PDF"
+   },
+   {
+    "year": 2015,
+    "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2015/KPIT_TECHNOLOGIES_LTD-542651-MARCH-2015.PDF"
+   },
+   {
+    "year": 2014,
+    "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2014/KPIT_TECHNOLOGIES_LTD-542651-MARCH-2014.PDF"
+   },
+   {
+    "year": 2013,
+    "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2013/KPIT_TECHNOLOGIES_LTD-542651-MARCH-2013.PDF"
+   },
+   {
+    "year": 2012,
+    "url": "https://www.bseindia.com/HIS_ANN_RPT/HISTANNR/2012/KPIT_TECHNOLOGIES_LTD-542651-MARCH-2012.PDF"
+   }
+  ],
+  "concalls": [
+   {
+    "date": "Nov 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7331811-fe14-4c79-896d-f0a9df901335.pdf"
+   },
+   {
+    "date": "Aug 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d07f9c52-5c5a-443b-b239-6acd5e94b97a.pdf"
+   },
+   {
+    "date": "May 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70c85b6c-58e6-423f-9b32-50b17a948674.pdf"
+   },
+   {
+    "date": "Feb 2026",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a574a9b4-2ec3-4418-afd7-7deb13264328.pdf"
+   },
+   {
+    "date": "Nov 2025",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bcf7302f-a4b8-4d59-8914-f53018acd102.pdf"
+   },
+   {
+    "date": "Aug 2025",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c0d90bb9-9e31-4b03-92ba-0df108f5a9b8.pdf"
+   },
+   {
+    "date": "May 2025",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=de7b1f84-1911-471d-bc77-f623a00cee67.pdf"
+   },
+   {
+    "date": "Feb 2025",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=89328560-4140-4867-bc15-5ce42473cf5d.pdf"
+   },
+   {
+    "date": "Oct 2024",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e794d343-b95f-4a40-9e38-5bc3f699c89e.pdf"
+   },
+   {
+    "date": "Jul 2024",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bcde0cfd-84e6-4824-a1a9-52efc3c81939.pdf"
+   },
+   {
+    "date": "May 2024",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=88b314ec-214a-452b-ab4e-369ae78f15c6.pdf"
+   },
+   {
+    "date": "Apr 2024",
+    "url": "https://www.kpit.com/documents/earnings-call-transcript-q4fy24/"
+   },
+   {
+    "date": "Feb 2024",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f22a404e-be58-4a36-81f7-c0ccfb4b9941.pdf"
+   },
+   {
+    "date": "Nov 2023",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c49dcdf8-602f-40e0-9fd6-673ff75c9178.pdf"
+   },
+   {
+    "date": "Aug 2023",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=065109ce-6766-4006-b769-257f62aaa673.pdf"
+   },
+   {
+    "date": "Jul 2023",
+    "url": "https://www.kpit.com/documents/earnings-call-transcript-q1fy24/"
+   },
+   {
+    "date": "May 2023",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48fb42da-58b2-4041-8bf1-32131fc0a435.pdf"
+   },
+   {
+    "date": "Feb 2023",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cda5b7c4-ef9e-46b8-86ed-fe78a04a40bf.pdf"
+   },
+   {
+    "date": "Oct 2022",
+    "url": "https://d1rz4ui464s6g7.cloudfront.net/wp-content/uploads/2022/11/02130557/KPIT-Q2FY23-Earnings-Conference-Call-Transcript.pdf"
+   },
+   {
+    "date": "Aug 2019",
+    "url": "https://d1rz4ui464s6g7.cloudfront.net/wp-content/uploads/2019/11/13124834/KPIT-Q1FY20-Earnings-Conference-Call-Transcript.pdf"
+   }
+  ]
+ },
+ "basis": "consolidated",
+ "url": "https://www.screener.in/company/KPITTECH/consolidated/",
+ "peers": [
+  {
+   "symbol": "TCS",
+   "name": "TCS"
+  },
+  {
+   "symbol": "INFY",
+   "name": "Infosys"
+  },
+  {
+   "symbol": "HCLTECH",
+   "name": "HCL Technologies"
+  },
+  {
+   "symbol": "WIPRO",
+   "name": "Wipro"
+  },
+  {
+   "symbol": "TECHM",
+   "name": "Tech Mahindra"
+  },
+  {
+   "symbol": "LTM",
+   "name": "LTM"
+  },
+  {
+   "symbol": "PERSISTENT",
+   "name": "Persistent Systems"
+  }
+ ]
+}

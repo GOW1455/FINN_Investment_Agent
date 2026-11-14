@@ -1,0 +1,799 @@
+{
+ "version": 5,
+ "symbol": "WIPRO",
+ "name": "Wipro Ltd",
+ "generated_at": "2026-11-14 05:39",
+ "top_ratios": {
+  "Market Cap": "₹ 1,92,766 Cr.",
+  "Current Price": "₹ 195",
+  "High / Low": "₹ 273 / 157",
+  "Stock P/E": "14.6",
+  "Book Value": "₹ 79.7",
+  "Dividend Yield": "5.65 %",
+  "ROCE": "17.8 %",
+  "ROE": "15.5 %",
+  "Face Value": "₹ 2.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 1,92,766 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 14.6"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 79.7"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 5.65 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 17.8 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 15.5 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 61,935 | FY22 79,312 | FY23 90,488 | FY24 89,760 | FY25 89,088 | FY26 92,624"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 24 | FY22 21 | FY23 19 | FY24 19 | FY25 20 | FY26 19"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 10,868 | FY22 12,243 | FY23 11,366 | FY24 11,112 | FY25 13,218 | FY26 13,266"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 9.8 | FY22 11.2 | FY23 10.3 | FY24 10.6 | FY25 12.5 | FY26 12.6"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 0.8%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 8.4%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 5.3%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 4.1%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹97,023 cr, net profit ₹13,223 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 17,593 | FY23 17,467 | FY24 16,465 | FY25 19,204 | FY26 20,291 | Sep 2026 22,106"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 65,403 | FY23 77,668 | FY24 74,533 | FY25 82,364 | FY26 88,019 | Sep 2026 78,959"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0.3 | FY23 0.2 | FY24 0.2 | FY25 0.2 | FY26 0.2 | Sep 2026 0.3"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 1,602 | FY23 617 | FY24 723 | FY25 196 | FY26 412 | Sep 2026 596"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 37,990 | FY23 44,757 | FY24 43,628 | FY25 45,187 | FY26 51,690 | Sep 2026 55,591"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Interest cover (operating profit + other income) / interest (x): FY21 33.7 | FY22 35.2 | FY23 19 | FY24 15.4 | FY25 14.8 | FY26 14.9"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 14,755 | FY22 11,080 | FY23 13,060 | FY24 17,622 | FY25 16,943 | FY26 14,932"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 685 | FY22 -22,321 | FY23 -8,169 | FY24 1,144 | FY25 -8,044 | FY26 -2,448"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 12,873 | FY22 9,138 | FY23 11,631 | FY24 16,973 | FY25 15,621 | FY26 13,447"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 120% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "cash_quality",
+   "text": "Debtor Days (days): FY21 56 | FY22 53 | FY23 51 | FY24 47 | FY25 48 | FY26 54"
+  },
+  {
+   "id": "N27",
+   "topic": "cash_quality",
+   "text": "Cash Conversion Cycle (days): FY21 56 | FY22 53 | FY23 51 | FY24 47 | FY25 48 | FY26 54"
+  },
+  {
+   "id": "N28",
+   "topic": "cash_quality",
+   "text": "Working Capital Days (days): FY21 -31 | FY22 -15 | FY23 -3 | FY24 -4 | FY25 -17 | FY26 -47"
+  },
+  {
+   "id": "N29",
+   "topic": "trajectory",
+   "text": "ROCE (%): FY21 22 | FY22 21 | FY23 18 | FY24 17 | FY25 20 | FY26 18"
+  },
+  {
+   "id": "N30",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 22,319 | FY25 22,504 | Jun 2025 22,135 | Sep 2025 22,697 | Dec 2025 23,556 | FY26 24,236 | Jun 2026 24,479 | Sep 2026 24,753"
+  },
+  {
+   "id": "N31",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 20 | FY25 21 | Jun 2025 19 | Sep 2025 19 | Dec 2025 18 | FY26 20 | Jun 2026 19 | Sep 2026 20"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 3,367 | FY25 3,588 | Jun 2025 3,336 | Sep 2025 3,262 | Dec 2025 3,145 | FY26 3,522 | Jun 2026 3,356 | Sep 2026 3,200"
+  },
+  {
+   "id": "N33",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 1.8 | Dec 2025 5.5 | Mar 2026 7.7 | Jun 2026 10.6 | Sep 2026 9.1"
+  },
+  {
+   "id": "N34",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 1.1 | Dec 2025 -6.6 | Mar 2026 -1.8 | Jun 2026 0.6 | Sep 2026 -1.9"
+  },
+  {
+   "id": "N35",
+   "topic": "quarterly",
+   "text": "Operating margin moved +1.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/WIPRO/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d4ffaa08-a47a-487b-b136-eb4f26c1bace.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6b741bc5-7ed0-4223-900a-412aaf529820.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36342956-3182-4962-a695-068bbafdb263.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78fab9a0-4864-4470-be49-3544e57f1c49.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a3dbcb44-8526-45a3-ac61-152710230060.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p06",
+   "name": "Ananya Sen",
+   "headline": "Delivery Head, BFSI, Infosys",
+   "relation": "IIT Bombay junior",
+   "strength": 3,
+   "last_contact": "2026-01-18",
+   "days_since_contact": 300,
+   "score": 50.4,
+   "angle": "competitor",
+   "why": "Delivery Head, BFSI at Infosys (since 2015), a peer of Wipro Ltd",
+   "knows": "How Wipro Ltd is seen by a rival: pricing, share shifts, who is winning deals."
+  },
+  {
+   "id": "p07",
+   "name": "Karthik Subramanian",
+   "headline": "Ex-CFO, mid-cap IT services",
+   "relation": "Met as management, 2021 roadshow",
+   "strength": 3,
+   "last_contact": "2025-12-05",
+   "days_since_contact": 344,
+   "score": 33.6,
+   "angle": "alumnus",
+   "why": "Finance Controller at Wipro (2002–2012)",
+   "knows": "How Wipro runs from the inside: people, culture, execution."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "Wipro operates as an integrated and trusted enterprise transformation partner, offering consulting, technology services, engineering, and business process services. The company empowers global clients to lead in their industries through AI-powered solutions, industry-specific platforms, and tailored operating models.",
+   "cites": [
+    "A:23",
+    "A:28"
+   ]
+  },
+  "segments": [
+   {
+    "name": "IT Services",
+    "text": "Provides IT services and solutions, generating revenue of $10,512 million for the year ended March 31, 2026.",
+    "cites": [
+     "A:58",
+     "A:112"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Wipro trades at a P/E of 14.6 with a dividend yield of 5.65 percent and a book value of 79.7 rupees.",
+    "cites": [
+     "N1",
+     "N2",
+     "N3",
+     "N4"
+    ]
+   },
+   {
+    "text": "Return on capital employed stands at 17.8 percent and return on equity is 15.5 percent.",
+    "cites": [
+     "N5",
+     "N6"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue reached 92,624 crore rupees in FY26, showing slower 3-year CAGR of 0.8 percent compared to 5-year CAGR of 8.4 percent.",
+    "cites": [
+     "N7",
+     "N11",
+     "N12"
+    ]
+   },
+   {
+    "text": "Operating margins drifted lower from 24 percent in FY21 to 19 percent in FY26, despite a slight improvement year-on-year by Sep 2026.",
+    "cites": [
+     "N8",
+     "N35"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth year-on-year picked up to 9.1 percent by Sep 2026, while quarterly net profit contracted 1.9 percent over the same period.",
+    "cites": [
+     "N33",
+     "N34"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Borrowings rose steadily from 17,593 crore rupees in FY22 to 22,106 crore rupees by September 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Debt-to-equity ratio remained stable at 0.2 to 0.3 times across the reported periods.",
+    "cites": [
+     "N18"
+    ]
+   },
+   {
+    "text": "Fixed assets expanded to 55,591 crore rupees by September 2026 alongside an increase in capital work in progress.",
+    "cites": [
+     "N19",
+     "N20"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cumulative cash from operations over FY22 to FY26 reached 120 percent of cumulative net profit.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Free cash flow stood at 13,447 crore rupees in FY26, down from 16,973 crore rupees in FY24.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Interest cover declined from 33.7 in FY21 to 14.9 by FY26.",
+    "cites": [
+     "N21"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "Q3 IT services revenue growth is guided to be between minus 1.5% and plus 0.5% sequentially in constant currency.",
+   "quote": "We are guiding for a sequential IT services revenue growth of minus 1.5% to plus 0.5% in constant currency.",
+   "cite": "C1:5",
+   "horizon": "Q3 FY27",
+   "kind": "numeric",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "growth",
+   "statement": "IT services revenue is expected to grow sequentially by -1.5% to +0.5% in constant currency terms in the second quarter.",
+   "quote": "In quarter 2, we are guiding for a sequential growth of -1.5% to +0.5% in constant currency terms.",
+   "cite": "C2:5",
+   "horizon": "Q2 FY27",
+   "kind": "numeric",
+   "said_in": "Jul 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G2"
+  },
+  {
+   "metric": "growth",
+   "statement": "IT Services revenue for Q1 is expected to decline sequentially by 2% to flat in constant currency.",
+   "quote": "In Q1, we are guiding for a sequential growth of minus 2% to 0% in constant currency terms.",
+   "cite": "C3:5",
+   "horizon": "Q1 FY27",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G3"
+  },
+  {
+   "metric": "margin",
+   "statement": "Operating margins will be maintained within a narrow band in the medium term.",
+   "quote": "our endeavour would be to maintain these margins in a narrow band in the medium term.",
+   "cite": "C3:5",
+   "horizon": "medium term",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G4"
+  },
+  {
+   "metric": "growth",
+   "statement": "Wipro projects sequential IT Services revenue growth of 0% to 2.0% in constant currency for the fourth quarter.",
+   "quote": "In Quarter 4, we are projecting sequential IT Services revenue growth of 0% to 2.0% in constant currency.",
+   "cite": "C4:6",
+   "horizon": "Q4 FY26",
+   "kind": "numeric",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G5"
+  },
+  {
+   "metric": "margin",
+   "statement": "Management endeavors to maintain operating margins in a similar band as the last few quarters despite incremental dilution from the Harman DTS acquisition.",
+   "quote": "our endeavor as always will be to maintain the margins in a similar band as in the last few quarters.",
+   "cite": "C4:6",
+   "horizon": "Q4 FY26",
+   "kind": "directional",
+   "said_in": "Jan 2026",
+   "quarter": "Q3 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G6"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6b741bc5-7ed0-4223-900a-412aaf529820.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded measured and resilient, highlighting strong deal pipelines and traction in AI services despite near-term headwinds from seasonal furloughs and client-specific softness.",
+   "pressure": [
+    {
+     "text": "Analysts pressed on lower TCV numbers, contract slippages, and whether the company is fully capturing the recovery in BFSI compared to peers.",
+     "cites": [
+      "C1:6",
+      "C1:7",
+      "C1:8"
+     ]
+    },
+    {
+     "text": "Analysts questioned the weak performance and outsourcing dynamics in the US healthcare segment, as well as the drivers behind headcount reductions.",
+     "cites": [
+      "C1:11",
+      "C1:12",
+      "C1:13"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=36342956-3182-4962-a695-068bbafdb263.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded measured and cautious given ongoing macroeconomic uncertainties and soft demand, while maintaining confidence in their structural AI strategy and long-term margin recovery goals.",
+   "pressure": [
+    {
+     "text": "Analysts questioned why headcount was added despite a declining revenue guidance and soft demand.",
+     "cites": [
+      "C2:6"
+     ]
+    },
+    {
+     "text": "Analysts pressed on the sequential decline in the BFSI sector and the outlook for recovery.",
+     "cites": [
+      "C2:7"
+     ]
+    },
+    {
+     "text": "Analysts inquired about margin recovery timelines, margin pressures from AI deals, and competitive intensity in large deals.",
+     "cites": [
+      "C2:9",
+      "C2:14",
+      "C2:15"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78fab9a0-4864-4470-be49-3544e57f1c49.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded confident about their strategic deal wins, structural AI pivot, and medium-term margin resilience despite near-term headwinds in specific accounts like Americas 2 BFSI.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the delays in large deal ramp-ups and persistent softness in Americas 2 BFSI.",
+     "cites": [
+      "C3:5",
+      "C3:6",
+      "C3:7"
+     ]
+    },
+    {
+     "text": "Analysts probed the sharp sequential decline in top clients and top 5 accounts.",
+     "cites": [
+      "C3:6",
+      "C3:7",
+      "C3:13"
+     ]
+    },
+    {
+     "text": "Analysts pressed on how organic growth in Q1 looks once inorganic contributions and deal start dates are stripped out.",
+     "cites": [
+      "C3:6",
+      "C3:9",
+      "C3:10"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Jan 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a3dbcb44-8526-45a3-ac61-152710230060.pdf",
+   "quarter": "Q3 FY26",
+   "tone": "Management sounded confident and measured, emphasizing ongoing strategic milestones, AI platform integration, and stable deal pipelines despite macro headwinds.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the drivers and outlook for the EMR and Consumer sectors given macroeconomic uncertainty and tariff impacts.",
+     "cites": [
+      "C4:8",
+      "C4:9"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the timing of mega deal ramp-ups and their impact on the Q4 revenue trajectory.",
+     "cites": [
+      "C4:14"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G4",
+   "promise": "Operating margins will be maintained within a narrow band in the medium term.",
+   "quote": "our endeavour would be to maintain these margins in a narrow band in the medium term.",
+   "said_in": "Apr 2026",
+   "promise_cite": "C3:5",
+   "horizon": "medium term",
+   "delivered": "Operating margins have been maintained around 19% to 20% across quarters in FY27.",
+   "verdict": "delivered",
+   "cites": [
+    "N31",
+    "N8"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "Q3 IT services revenue growth is guided to be between minus 1.5% and plus 0.5% sequentially in constant currency.",
+   "quote": "We are guiding for a sequential IT services revenue growth of minus 1.5% to plus 0.5% in constant currency.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:5",
+   "horizon": "Q3 FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 1,
+  "partly": 0,
+  "missed": 0,
+  "too_early": 1
+ },
+ "divergences": [
+  {
+   "text": "Quarterly revenue grew 9.1% year-on-year by Sep 2026, yet net profit contracted 1.9% over the same period.",
+   "cites": [
+    "N33",
+    "N34"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "How does the fact sheet reconcile rising borrowings up to 22,106 crore rupees with lower free cash flow generation in FY26 compared to FY24?",
+   "answer": "Borrowings rose to 22,106 crore rupees by September 2026 from 16,465 crore rupees in FY24. Meanwhile, free cash flow was 13,447 crore rupees in FY26 compared to 16,973 crore rupees in FY24.",
+   "cites": [
+    "N16",
+    "N24"
+   ],
+   "concede": false
+  },
+  "guidance": {
+   "question": "Why does management issue constant currency revenue growth guidance when the provided fact sheet only tracks nominal quarterly rupee figures and year-on-year growth percentages?",
+   "answer": "The provided evidence does not explain why management chooses constant currency for guidance. It only lists the guidance figures themselves and the reported nominal rupee results.",
+   "cites": [
+    "G1",
+    "G2",
+    "G3",
+    "G5",
+    "N30",
+    "N33"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "Wipro is experiencing a disconnect between accelerating year-on-year revenue growth and contracting quarterly net profits.",
+  "narrative_vs_numbers": {
+   "text": "Management's guidance for stable operating margins has been met, with margins holding between 19% and 20% in recent quarters. However, the company's financial performance shows a divergence where revenue growth has accelerated to 9.1% year-on-year while net profit has simultaneously contracted by 1.9%.",
+   "cites": [
+    "N31",
+    "N33",
+    "N34",
+    "G4"
+   ]
+  },
+  "bull": [
+   {
+    "text": "The company maintains a strong cash generation profile, with cumulative cash from operations over the last five years reaching 120% of cumulative net profit.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Quarterly revenue growth has shown a positive trend, accelerating to 9.1% year-on-year by September 2026.",
+    "cites": [
+     "N33"
+    ]
+   },
+   {
+    "text": "Operating margins have remained stable within the narrow band targeted by management, showing a slight year-on-year improvement as of September 2026.",
+    "cites": [
+     "N31",
+     "N35",
+     "G4"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Net profit has contracted by 1.9% year-on-year as of September 2026, despite the reported increase in quarterly revenue.",
+    "cites": [
+     "N34"
+    ]
+   },
+   {
+    "text": "Borrowings have risen to 22,106 crore rupees as of September 2026, while free cash flow has declined from 16,973 crore rupees in FY24 to 13,447 crore rupees in FY26.",
+    "cites": [
+     "N16",
+     "N24"
+    ]
+   },
+   {
+    "text": "The company's interest cover ratio has significantly declined from 33.7 in FY21 to 14.9 by FY26, reflecting increased financial pressure.",
+    "cites": [
+     "N21"
+    ]
+   }
+  ],
+  "ask_management": [
+   "What specific factors are causing net profit to contract despite the acceleration in year-on-year revenue growth?",
+   "Given the rise in borrowings to 22,106 crore rupees and the decline in free cash flow, what is the strategy for debt management?",
+   "How does management reconcile the use of constant currency guidance with the reported nominal rupee figures provided to investors?"
+  ]
+ },
+ "audit": {
+  "claims": 38,
+  "dropped": 0,
+  "seconds": 73.6,
+  "models": {
+   "extraction": "gemini-3.1-flash-lite + gemini-3.5-flash-lite",
+   "reasoning": "gemini-3.1-flash-lite + gemini-3.5-flash-lite"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "35 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue reached 92,624 crore rupees in FY26, showing slower 3-year CAGR of 0.8 percent compared to 5-year CAGR of 8.4 percent."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "6 explicit promises across 4 calls. Management sounded measured and resilient, highlighting strong deal pipelines and traction in AI services despite near-term headwinds from seasonal furloughs and client-specific softness."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 2 testable promises: 1 delivered, 0 partly, 0 missed, 1 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does the fact sheet reconcile rising borrowings up to 22,106 crore rupees with lower free cash flow generation in FY26 compared to FY24?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "Borrowings rose to 22,106 crore rupees by September 2026 from 16,465 crore rupees in FY24. Meanwhile, free cash flow was 13,447 crore rupees in FY26 compared to 16,973 crore rupees in FY24.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "Why does management issue constant currency revenue growth guidance when the provided fact sheet only tracks nominal quarterly rupee figures and year-on-year growth percentages?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "The provided evidence does not explain why management chooses constant currency for guidance. It only lists the guidance figures themselves and the reported nominal rupee results.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "Wipro is experiencing a disconnect between accelerating year-on-year revenue growth and contracting quarterly net profits."
+  }
+ ]
+}

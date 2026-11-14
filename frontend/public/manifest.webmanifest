@@ -1,0 +1,6 @@
+{
+  "name": "FINN", "short_name": "FINN", "start_url": "/", "display": "standalone",
+  "background_color": "#f6f3ec", "theme_color": "#f6f3ec",
+  "description": "What changed, what the company says, and who you know who can explain it.",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

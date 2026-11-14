@@ -1,0 +1,1026 @@
+{
+ "version": 5,
+ "symbol": "HDFCBANK",
+ "name": "HDFC Bank",
+ "generated_at": "2026-11-13 01:04",
+ "top_ratios": {
+  "Market Cap": "₹ 12,50,320 Cr.",
+  "Current Price": "₹ 812",
+  "High / Low": "₹ 1,018 / 669",
+  "Stock P/E": "15.6",
+  "Book Value": "₹ 391",
+  "Dividend Yield": "1.60 %",
+  "ROCE": "7.02 %",
+  "ROE": "13.6 %",
+  "Face Value": "₹ 1.00"
+ },
+ "facts": [
+  {
+   "id": "N1",
+   "topic": "snapshot",
+   "text": "Market Cap: ₹ 12,50,320 Cr."
+  },
+  {
+   "id": "N2",
+   "topic": "snapshot",
+   "text": "Stock P/E: 15.6"
+  },
+  {
+   "id": "N3",
+   "topic": "snapshot",
+   "text": "Book Value: ₹ 391"
+  },
+  {
+   "id": "N4",
+   "topic": "snapshot",
+   "text": "Dividend Yield: 1.60 %"
+  },
+  {
+   "id": "N5",
+   "topic": "snapshot",
+   "text": "ROCE: 7.02 %"
+  },
+  {
+   "id": "N6",
+   "topic": "snapshot",
+   "text": "ROE: 13.6 %"
+  },
+  {
+   "id": "N7",
+   "topic": "trajectory",
+   "text": "Annual revenue (₹ cr): FY21 128,552 | FY22 135,936 | FY23 170,754 | FY24 283,649 | FY25 336,367 | FY26 348,615"
+  },
+  {
+   "id": "N8",
+   "topic": "trajectory",
+   "text": "Operating margin (%): FY21 13 | FY22 15 | FY23 18 | FY24 -16 | FY25 -10 | FY26 -12"
+  },
+  {
+   "id": "N9",
+   "topic": "trajectory",
+   "text": "Annual net profit (₹ cr): FY21 31,857 | FY22 38,151 | FY23 46,149 | FY24 65,446 | FY25 73,440 | FY26 79,219"
+  },
+  {
+   "id": "N10",
+   "topic": "trajectory",
+   "text": "EPS (₹): FY21 28.9 | FY22 34.3 | FY23 41.2 | FY24 42.2 | FY25 46.3 | FY26 49.4"
+  },
+  {
+   "id": "N11",
+   "topic": "trajectory",
+   "text": "Revenue 3-year CAGR to FY26: 26.9%"
+  },
+  {
+   "id": "N12",
+   "topic": "trajectory",
+   "text": "Revenue 5-year CAGR to FY26: 22.1%"
+  },
+  {
+   "id": "N13",
+   "topic": "trajectory",
+   "text": "Net profit 3-year CAGR to FY26: 19.7%"
+  },
+  {
+   "id": "N14",
+   "topic": "trajectory",
+   "text": "Net profit 5-year CAGR to FY26: 20.0%"
+  },
+  {
+   "id": "N15",
+   "topic": "snapshot",
+   "text": "Trailing-twelve-month revenue ₹359,956 cr, net profit ₹83,685 cr"
+  },
+  {
+   "id": "N16",
+   "topic": "balance_sheet",
+   "text": "Borrowings (₹ cr): FY22 226,966 | FY23 256,549 | FY24 730,615 | FY25 634,606 | FY26 588,485 | Sep 2026 594,144"
+  },
+  {
+   "id": "N17",
+   "topic": "balance_sheet",
+   "text": "Deposits (₹ cr): FY22 1,558,003 | FY23 1,882,663 | FY24 2,376,887 | FY25 2,710,898 | FY26 3,099,638 | Sep 2026 3,324,146"
+  },
+  {
+   "id": "N18",
+   "topic": "balance_sheet",
+   "text": "Shareholders' equity (₹ cr): FY22 247,327 | FY23 289,438 | FY24 456,396 | FY25 521,789 | FY26 586,059 | Sep 2026 603,469"
+  },
+  {
+   "id": "N19",
+   "topic": "balance_sheet",
+   "text": "Debt-to-equity (x): FY22 0.9 | FY23 0.9 | FY24 1.6 | FY25 1.2 | FY26 1 | Sep 2026 1"
+  },
+  {
+   "id": "N20",
+   "topic": "balance_sheet",
+   "text": "Capital work in progress (₹ cr): FY22 0 | FY23 0 | FY24 0 | FY25 0 | FY26 0 | Sep 2026 0"
+  },
+  {
+   "id": "N21",
+   "topic": "balance_sheet",
+   "text": "Fixed assets (₹ cr): FY22 6,432 | FY23 8,431 | FY24 12,604 | FY25 15,258 | FY26 16,492 | Sep 2026 16,431"
+  },
+  {
+   "id": "N22",
+   "topic": "cash_quality",
+   "text": "Cash from operations (₹ cr): FY21 42,476 | FY22 -11,960 | FY23 20,814 | FY24 19,069 | FY25 127,242 | FY26 113,506"
+  },
+  {
+   "id": "N23",
+   "topic": "cash_quality",
+   "text": "Cash from investing (₹ cr): FY21 -1,823 | FY22 -2,051 | FY23 -2,992 | FY24 16,600 | FY25 -3,651 | FY26 7,477"
+  },
+  {
+   "id": "N24",
+   "topic": "cash_quality",
+   "text": "Free cash flow (₹ cr): FY21 40,796 | FY22 -14,176 | FY23 17,390 | FY24 14,882 | FY25 123,267 | FY26 110,144"
+  },
+  {
+   "id": "N25",
+   "topic": "cash_quality",
+   "text": "Cash conversion over FY22–FY26: cumulative cash from operations is 89% of cumulative net profit"
+  },
+  {
+   "id": "N26",
+   "topic": "trajectory",
+   "text": "ROE (%): FY21 16 | FY22 17 | FY23 17 | FY24 17 | FY25 14 | FY26 14"
+  },
+  {
+   "id": "N27",
+   "topic": "quarterly",
+   "text": "Quarterly revenue (₹ cr): Dec 2024 85,040 | FY25 86,779 | Jun 2025 87,372 | Sep 2025 86,994 | Dec 2025 87,067 | FY26 87,182 | Jun 2026 90,575 | Sep 2026 95,132"
+  },
+  {
+   "id": "N28",
+   "topic": "quarterly",
+   "text": "Quarterly operating margin (%): Dec 2024 -4 | FY25 -9 | Jun 2025 -28 | Sep 2025 -6 | Dec 2025 -15 | FY26 -2 | Jun 2026 -17 | Sep 2026 -6"
+  },
+  {
+   "id": "N29",
+   "topic": "quarterly",
+   "text": "Quarterly net profit (₹ cr): Dec 2024 18,340 | FY25 19,285 | Jun 2025 17,090 | Sep 2025 20,364 | Dec 2025 20,691 | FY26 21,074 | Jun 2026 20,383 | Sep 2026 21,537"
+  },
+  {
+   "id": "N30",
+   "topic": "quarterly",
+   "text": "Quarterly revenue growth, year on year (%): Sep 2025 4.8 | Dec 2025 2.4 | Mar 2026 0.5 | Jun 2026 3.7 | Sep 2026 9.4"
+  },
+  {
+   "id": "N31",
+   "topic": "quarterly",
+   "text": "Quarterly net profit growth, year on year (%): Sep 2025 9.3 | Dec 2025 12.8 | Mar 2026 9.3 | Jun 2026 19.3 | Sep 2026 5.8"
+  },
+  {
+   "id": "N32",
+   "topic": "quarterly",
+   "text": "Operating margin moved +0.0 percentage points, Sep 2025 to Sep 2026"
+  }
+ ],
+ "sources": [
+  {
+   "id": "N",
+   "kind": "financials",
+   "url": "https://www.screener.in/company/HDFCBANK/consolidated/",
+   "label": "Reported financials, consolidated (standardised by screener.in)"
+  },
+  {
+   "id": "A",
+   "kind": "annual_report",
+   "label": "Annual Report 2026",
+   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf"
+  },
+  {
+   "id": "C1",
+   "kind": "concall",
+   "label": "Earnings call, Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf"
+  },
+  {
+   "id": "C2",
+   "kind": "concall",
+   "label": "Earnings call, Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf"
+  },
+  {
+   "id": "C3",
+   "kind": "concall",
+   "label": "Earnings call, Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf"
+  },
+  {
+   "id": "C4",
+   "kind": "concall",
+   "label": "Earnings call, Mar 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf"
+  }
+ ],
+ "who_to_call": [
+  {
+   "id": "p04",
+   "name": "Priya Raghavan",
+   "headline": "Senior VP, Corporate Banking, HDFC Bank",
+   "relation": "Family friend",
+   "strength": 4,
+   "last_contact": "2026-09-20",
+   "days_since_contact": 54,
+   "score": 92.0,
+   "angle": "insider",
+   "why": "Senior VP, Corporate Banking at HDFC Bank (since 2011)",
+   "knows": "Deposit mobilisation after the merger and corporate credit demand by sector."
+  },
+  {
+   "id": "p03",
+   "name": "Vikram Iyer",
+   "headline": "Director, Retail Credit Risk, Bajaj Finance",
+   "relation": "Former colleague at McKinsey",
+   "strength": 4,
+   "last_contact": "2026-06-02",
+   "days_since_contact": 164,
+   "score": 24.3,
+   "angle": "competitor",
+   "why": "Head, Retail Analytics at ICICI Bank (2014–2019), which competes with HDFC Bank",
+   "knows": "How HDFC Bank is seen by a rival: pricing, share shifts, who is winning deals."
+  },
+  {
+   "id": "p23",
+   "name": "Lakshmi Venkatesh",
+   "headline": "Independent director; ex-ICICI Bank senior management",
+   "relation": "Mentor since Kotak days",
+   "strength": 5,
+   "last_contact": "2026-10-30",
+   "days_since_contact": 14,
+   "score": 24.0,
+   "angle": "competitor",
+   "why": "Senior General Manager at ICICI Bank (1995–2015), which competes with HDFC Bank",
+   "knows": "How HDFC Bank is seen by a rival: pricing, share shifts, who is winning deals."
+  }
+ ],
+ "business": {
+  "what": {
+   "text": "The company is a bank that provides a range of financial solutions to large corporates, mid-market companies, MSMEs, and retail customers. It combines a strong portfolio with customer insights to deliver its services.",
+   "cites": [
+    "A:71"
+   ]
+  },
+  "segments": [
+   {
+    "name": "Small and Mid-Market",
+    "text": "This segment focuses on MSME lending and is a key growth engine for the bank. It ranks among the top three MSME lenders in 25 states.",
+    "cites": [
+     "A:75"
+    ]
+   },
+   {
+    "name": "Investment Banking",
+    "text": "The bank offers capital finance through debt/equity capital markets, mergers and acquisitions, and customized solutions.",
+    "cites": [
+     "A:71"
+    ]
+   },
+   {
+    "name": "Digital and Technology",
+    "text": "The bank emphasizes digital solutions, with 86% of acquisitions and 98% of financial transactions being digital.",
+    "cites": [
+     "A:83"
+    ]
+   }
+  ]
+ },
+ "numbers": {
+  "snapshot": [
+   {
+    "text": "Market cap is ₹ 12,50,320 Cr.",
+    "cites": [
+     "N1"
+    ]
+   },
+   {
+    "text": "The stock P/E ratio is 15.6.",
+    "cites": [
+     "N2"
+    ]
+   },
+   {
+    "text": "The dividend yield is 1.60%.",
+    "cites": [
+     "N4"
+    ]
+   }
+  ],
+  "trajectory": [
+   {
+    "text": "Annual revenue grew from ₹ 336,367 Cr in FY25 to ₹ 348,615 Cr in FY26.",
+    "cites": [
+     "N7"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹ 73,440 Cr in FY25 to ₹ 79,219 Cr in FY26.",
+    "cites": [
+     "N9"
+    ]
+   },
+   {
+    "text": "Quarterly revenue grew by 9.4% year on year in Sep 2026.",
+    "cites": [
+     "N30"
+    ]
+   }
+  ],
+  "balance_sheet": [
+   {
+    "text": "Deposits rose to ₹ 3,324,146 Cr in Sep 2026.",
+    "cites": [
+     "N17"
+    ]
+   },
+   {
+    "text": "Borrowings increased to ₹ 594,144 Cr in Sep 2026.",
+    "cites": [
+     "N16"
+    ]
+   },
+   {
+    "text": "Shareholders' equity reached ₹ 603,469 Cr in Sep 2026.",
+    "cites": [
+     "N18"
+    ]
+   }
+  ],
+  "cash_quality": [
+   {
+    "text": "Cumulative cash from operations is 89% of cumulative net profit over FY22–FY26.",
+    "cites": [
+     "N25"
+    ]
+   },
+   {
+    "text": "Free cash flow was ₹ 110,144 Cr in FY26.",
+    "cites": [
+     "N24"
+    ]
+   },
+   {
+    "text": "Cash from operations was ₹ 113,506 Cr in FY26.",
+    "cites": [
+     "N22"
+    ]
+   }
+  ]
+ },
+ "guidance": [
+  {
+   "metric": "growth",
+   "statement": "We expect to see strong momentum in retail deposits.",
+   "quote": "You will start the momentum coming about very well.",
+   "cite": "C1:7",
+   "horizon": "next few quarters",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G1"
+  },
+  {
+   "metric": "margins",
+   "statement": "Margins are expected to improve from Q3 FY27 onwards.",
+   "quote": "The trajectory will be upward from the next quarter onwards.",
+   "cite": "C1:10",
+   "horizon": "Q3 FY27",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G2"
+  },
+  {
+   "metric": "debt",
+   "statement": "We will manage our liabilities to improve LCR ratios.",
+   "quote": "You will see a kind of a thought process in the near future from Anup and team on what they are planning to do in improving core liability momentum.",
+   "cite": "C1:16",
+   "horizon": "next couple of quarters",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G3"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We aim to enhance our customer-facing roles while reducing back-end staff.",
+   "quote": "We believe there would be a kind of a mix change in our employee composition.",
+   "cite": "C1:14",
+   "horizon": "next 2-3 years",
+   "kind": "directional",
+   "said_in": "Oct 2026",
+   "quarter": "Q2 FY27",
+   "tested_by": [],
+   "id": "G4"
+  },
+  {
+   "metric": "growth",
+   "statement": "We do see credit demand holding.",
+   "quote": "We do see credit demand holding. We do see a lot of resilience which has been there in the economy.",
+   "cite": "C2:14",
+   "horizon": "next two quarters",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G5"
+  },
+  {
+   "metric": "growth",
+   "statement": "We are well positioned across most of our business segments.",
+   "quote": "We are well positioned across most of our business segments in terms of how we have approached them.",
+   "cite": "C2:14",
+   "horizon": "next two quarters",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G6"
+  },
+  {
+   "metric": "growth",
+   "statement": "We hope to see a fair amount of change in the acquisition numbers.",
+   "quote": "I think we are now ready to press the pedal. I think that is what the entire franchise is driving about.",
+   "cite": "C2:9",
+   "horizon": "next nine months",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G7"
+  },
+  {
+   "metric": "margins",
+   "statement": "We do think that the profit growth should be at or above the balance sheet growth.",
+   "quote": "Yes, that's still in our plans and that's how we approach.",
+   "cite": "C2:11",
+   "horizon": "next two to three years",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G8"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We will be a significant portion of the system.",
+   "quote": "Let it start to flow and you will see it. But definitely if the system is X, we will be a significant portion of the system.",
+   "cite": "C2:15",
+   "horizon": "by FY27",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G9"
+  },
+  {
+   "metric": "other",
+   "statement": "We are on track towards that.",
+   "quote": "I think we are all, you know, the entire team is quite gung-ho to mobilize that kind of we're all energized.",
+   "cite": "C2:15",
+   "horizon": "by FY27",
+   "kind": "directional",
+   "said_in": "Jul 2026",
+   "quarter": "Q1 FY27",
+   "tested_by": [
+    "Sep 2026"
+   ],
+   "id": "G10"
+  },
+  {
+   "metric": "growth",
+   "statement": "We will continue to focus on all these areas that I covered earlier.",
+   "quote": "We will continue to focus on all these areas that I covered earlier.",
+   "cite": "C3:6",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G11"
+  },
+  {
+   "metric": "growth",
+   "statement": "We will continue to have a good momentum and trajectory in our growth.",
+   "quote": "We will continue to have a good momentum and trajectory in our growth.",
+   "cite": "C3:6",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G12"
+  },
+  {
+   "metric": "growth",
+   "statement": "We expect to grow our business banking at about 20% year-on-year.",
+   "quote": "We have grown our business banking, which is mainly representative of our MSME, we've grown at about 20% year-on-year.",
+   "cite": "C3:12",
+   "horizon": "FY27",
+   "kind": "numeric",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G13"
+  },
+  {
+   "metric": "debt",
+   "statement": "We intend to operate LCR between 110% and 120%.",
+   "quote": "Our endeavor for LCR is to be between 110% and 120%.",
+   "cite": "C3:9",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G14"
+  },
+  {
+   "metric": "capacity",
+   "statement": "We will continue to improve our quality of deposit franchise over the years to come.",
+   "quote": "The bank will continue to improve its quality of deposit franchise over the years to come.",
+   "cite": "C3:4",
+   "horizon": "FY27",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G15"
+  },
+  {
+   "metric": "other",
+   "statement": "We expect significant benefits from operating leverage in the coming years.",
+   "quote": "You should see operating leverage kicking in and enhancing your ROAs.",
+   "cite": "C3:11",
+   "horizon": "next 1-3 years",
+   "kind": "directional",
+   "said_in": "Apr 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G16"
+  },
+  {
+   "metric": "growth",
+   "statement": "The bank is on path to a growth trajectory similar to pre-merger levels.",
+   "quote": "I think you will see the kind of growth that we have used to pre-merger coming back.",
+   "cite": "C4:13",
+   "horizon": "next two quarters",
+   "kind": "directional",
+   "said_in": "Mar 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G17"
+  },
+  {
+   "metric": "other",
+   "statement": "Technology will be a differentiator for the bank in the coming years.",
+   "quote": "Technology is going to be differentiator, and you will see it more happening over the year and two.",
+   "cite": "C4:13",
+   "horizon": "next two years",
+   "kind": "directional",
+   "said_in": "Mar 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G18"
+  },
+  {
+   "metric": "other",
+   "statement": "The bank will commit to its operational performance as previously stated.",
+   "quote": "None of that changes and the bank will commit to do whatever it has said in its calls that it would do.",
+   "cite": "C4:10",
+   "horizon": "ongoing",
+   "kind": "directional",
+   "said_in": "Mar 2026",
+   "quarter": "Q4 FY26",
+   "tested_by": [
+    "Mar 2026",
+    "Jun 2026",
+    "Sep 2026"
+   ],
+   "id": "G19"
+  }
+ ],
+ "calls": [
+  {
+   "tag": "C1",
+   "date": "Oct 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf",
+   "quarter": "Q2 FY27",
+   "tone": "Management sounded optimistic about future growth and improvements in margins, indicating confidence in their strategic direction.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the impact of retail deposit proportions and margin declines.",
+     "cites": [
+      "C1:6",
+      "C1:11"
+     ]
+    },
+    {
+     "text": "Concerns were raised about the bank's ability to manage liabilities and LCR ratios.",
+     "cites": [
+      "C1:15"
+     ]
+    },
+    {
+     "text": "Questions were asked regarding the impact of asset quality and loan mix on slippages.",
+     "cites": [
+      "C1:12"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C2",
+   "date": "Jul 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf",
+   "quarter": "Q1 FY27",
+   "tone": "Management sounded optimistic about growth opportunities and confident in their strategic direction.",
+   "pressure": [
+    {
+     "text": "Analysts questioned about margins and growth expectations.",
+     "cites": [
+      "C2:5",
+      "C2:12"
+     ]
+    },
+    {
+     "text": "Analysts inquired about the impact of FCNR deposits.",
+     "cites": [
+      "C2:8",
+      "C2:14"
+     ]
+    },
+    {
+     "text": "Analysts pressed on the CASA ratio and its recovery.",
+     "cites": [
+      "C2:12"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C3",
+   "date": "Apr 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded optimistic about growth prospects and operational efficiencies due to past investments.",
+   "pressure": [
+    {
+     "text": "Analysts pushed on growth trajectory and sustainability of deposits.",
+     "cites": [
+      "C3:8",
+      "C3:9"
+     ]
+    },
+    {
+     "text": "Questions on the impact of geopolitical situations on growth.",
+     "cites": [
+      "C3:8"
+     ]
+    },
+    {
+     "text": "Concerns about the cost of deposits and NIM trajectory.",
+     "cites": [
+      "C3:14"
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "C4",
+   "date": "Mar 2026",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf",
+   "quarter": "Q4 FY26",
+   "tone": "Management sounded confident about the bank's future growth and operational stability despite recent leadership changes.",
+   "pressure": [
+    {
+     "text": "Analysts questioned the implications of the chairman's resignation on governance and operational performance.",
+     "cites": [
+      "C4:10",
+      "C4:12"
+     ]
+    },
+    {
+     "text": "Concerns were raised about the reasons behind the chairman's resignation and its impact on the bank's reputation.",
+     "cites": [
+      "C4:12",
+      "C4:13"
+     ]
+    },
+    {
+     "text": "Analysts sought clarity on the timeline for appointing a new chairman and independent director.",
+     "cites": [
+      "C4:12",
+      "C4:13"
+     ]
+    }
+   ]
+  }
+ ],
+ "status": "complete",
+ "scorecard": [
+  {
+   "guidance": "G5",
+   "promise": "We do see credit demand holding.",
+   "quote": "We do see credit demand holding. We do see a lot of resilience which has been there in the economy.",
+   "said_in": "Jul 2026",
+   "promise_cite": "C2:14",
+   "horizon": "next two quarters",
+   "delivered": "Credit demand appears to be holding with deposits rising to ₹ 3,324,146 Cr in Sep 2026.",
+   "verdict": "delivered",
+   "cites": [
+    "N17"
+   ]
+  },
+  {
+   "guidance": "G17",
+   "promise": "The bank is on path to a growth trajectory similar to pre-merger levels.",
+   "quote": "I think you will see the kind of growth that we have used to pre-merger coming back.",
+   "said_in": "Mar 2026",
+   "promise_cite": "C4:13",
+   "horizon": "next two quarters",
+   "delivered": "Revenue growth of 9.4% in Sep 2026 suggests a return to growth trajectory.",
+   "verdict": "delivered",
+   "cites": [
+    "N30"
+   ]
+  },
+  {
+   "guidance": "G1",
+   "promise": "We expect to see strong momentum in retail deposits.",
+   "quote": "You will start the momentum coming about very well.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:7",
+   "horizon": "next few quarters",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G2",
+   "promise": "Margins are expected to improve from Q3 FY27 onwards.",
+   "quote": "The trajectory will be upward from the next quarter onwards.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:10",
+   "horizon": "Q3 FY27",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  },
+  {
+   "guidance": "G3",
+   "promise": "We will manage our liabilities to improve LCR ratios.",
+   "quote": "You will see a kind of a thought process in the near future from Anup and team on what they are planning to do in improving core liability momentum.",
+   "said_in": "Oct 2026",
+   "promise_cite": "C1:16",
+   "horizon": "next couple of quarters",
+   "delivered": "No results have been reported since this call. Check it next quarter.",
+   "verdict": "too_early",
+   "cites": []
+  }
+ ],
+ "tally": {
+  "delivered": 2,
+  "partly": 0,
+  "missed": 0,
+  "too_early": 3
+ },
+ "divergences": [
+  {
+   "text": "Operating margin remains negative, contradicting any implied improvement in operational performance.",
+   "cites": [
+    "N8",
+    "N28"
+   ]
+  },
+  {
+   "text": "ROE has declined from 17% in FY24 to 14% in FY26, suggesting a decline in return on equity.",
+   "cites": [
+    "N26"
+   ]
+  }
+ ],
+ "rebuttals": {
+  "numbers": {
+   "question": "What is the current LCR ratio, and how does it compare to the target range of 110% to 120%?",
+   "answer": "The current LCR ratio is not provided in the evidence. Therefore, I cannot compare it to the target range of 110% to 120%.",
+   "cites": [],
+   "concede": true
+  },
+  "guidance": {
+   "question": "How does management plan to address the declining ROE and negative operating margins?",
+   "answer": "Management plans to improve margins starting Q3 FY27 and aims to enhance customer-facing roles while reducing back-end staff. They also expect significant benefits from operating leverage in the coming years.",
+   "cites": [
+    "G2",
+    "G4",
+    "G16"
+   ],
+   "concede": false
+  }
+ },
+ "verdict": {
+  "headline": "HDFC Bank shows revenue growth but struggles with operating margins and ROE decline.",
+  "narrative_vs_numbers": {
+   "text": "Management's narrative of growth and resilience is supported by a 9.4% increase in quarterly revenue and rising deposits. However, the negative operating margins and declining ROE indicate challenges in operational efficiency.",
+   "cites": [
+    "N30",
+    "N17",
+    "N8",
+    "N26"
+   ]
+  },
+  "bull": [
+   {
+    "text": "Quarterly revenue grew by 9.4% year on year in Sep 2026, indicating strong business momentum.",
+    "cites": [
+     "N30"
+    ]
+   },
+   {
+    "text": "Deposits rose to ₹ 3,324,146 Cr in Sep 2026, showing strong customer trust and liquidity.",
+    "cites": [
+     "N17"
+    ]
+   },
+   {
+    "text": "Net profit increased from ₹ 73,440 Cr in FY25 to ₹ 79,219 Cr in FY26, reflecting profitability growth.",
+    "cites": [
+     "N9"
+    ]
+   }
+  ],
+  "bear": [
+   {
+    "text": "Operating margin remains negative, contradicting any implied improvement in operational performance.",
+    "cites": [
+     "N8",
+     "N28"
+    ]
+   },
+   {
+    "text": "ROE has declined from 17% in FY24 to 14% in FY26, suggesting a decline in return on equity.",
+    "cites": [
+     "N26"
+    ]
+   },
+   {
+    "text": "Borrowings increased to ₹ 594,144 Cr in Sep 2026, indicating rising financial leverage.",
+    "cites": [
+     "N16"
+    ]
+   }
+  ],
+  "ask_management": [
+   "How does management plan to address the negative operating margins that persist?",
+   "What strategies are in place to improve the declining ROE?",
+   "Can management provide more details on the expected improvements in margins starting Q3 FY27?"
+  ]
+ },
+ "audit": {
+  "claims": 63,
+  "dropped": 5,
+  "seconds": 910.8,
+  "models": {
+   "extraction": "gpt-4o-mini",
+   "reasoning": "gpt-4o"
+  }
+ },
+ "events": [
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "working",
+   "text": "Fetching reported financials and documents"
+  },
+  {
+   "type": "agent",
+   "agent": "desk",
+   "status": "done",
+   "text": "32 financial facts, 4 concall transcripts, annual report"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "working",
+   "text": "Reading ten years of reported numbers"
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "working",
+   "text": "Reading 4 earnings calls for what management promised"
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "done",
+   "text": "Annual revenue grew from ₹ 336,367 Cr in FY25 to ₹ 348,615 Cr in FY26."
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "done",
+   "text": "19 explicit promises across 4 calls. Management sounded optimistic about future growth and improvements in margins, indicating confidence in their strategic direction."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "working",
+   "text": "Checking what was promised against what was delivered"
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "done",
+   "text": "Of 5 testable promises: 2 delivered, 0 partly, 0 missed, 3 too early to say."
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "What is the current LCR ratio, and how does it compare to the target range of 110% to 120%?",
+   "data": {
+    "to": "numbers"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "numbers",
+   "status": "rebuttal",
+   "text": "The current LCR ratio is not provided in the evidence. Therefore, I cannot compare it to the target range of 110% to 120%.",
+   "data": {
+    "concede": true
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "skeptic",
+   "status": "challenge",
+   "text": "How does management plan to address the declining ROE and negative operating margins?",
+   "data": {
+    "to": "guidance"
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "guidance",
+   "status": "rebuttal",
+   "text": "Management plans to improve margins starting Q3 FY27 and aims to enhance customer-facing roles while reducing back-end staff. They also expect significant benefits from operating leverage in the coming years.",
+   "data": {
+    "concede": false
+   }
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "working",
+   "text": "Weighing the arguments"
+  },
+  {
+   "type": "agent",
+   "agent": "moderator",
+   "status": "done",
+   "text": "HDFC Bank shows revenue growth but struggles with operating margins and ROE decline."
+  }
+ ]
+}
