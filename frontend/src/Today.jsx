@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { api, crore, Delta, PersonRow, Sheet, Spinner, timeLabel, useStateSafe } from './ui.jsx'
 import Ask from './Ask.jsx'
+import Portfolio from './Portfolio.jsx'
 
 const WINDOWS = [[24, '24h'], [72, '3 days'], [168, '7 days'], [720, '30 days']]
 const MAX_HOURS = 24 * 90     // the server keeps about 120 days of filings; 90 is the widest window it accepts
@@ -243,6 +244,11 @@ export default function Today({ onPerson, onResearch }) {
   const [showRoutine, setShowRoutine] = useState(false)
   const [move, setMove] = useState(null)
   const [scoring, setScoring] = useState(null)
+  // A link can open the portfolio directly: /?portfolio=1
+  const [showPortfolio, setShowPortfolio] = useState(() => new URLSearchParams(window.location.search).has('portfolio'))
+  const [holdings, setHoldings] = useState(0)
+  const [edits, setEdits] = useState(0)     // bumped when the portfolio changes, to reload the feed
+  useEffect(() => { api('/portfolio').then((d) => setHoldings(d.portfolio.length)).catch(() => {}) }, [edits])
   useEffect(() => { api('/push/settings').then(setScoring).catch(() => {}) }, [])
 
   useEffect(() => {
@@ -260,7 +266,7 @@ export default function Today({ onPerson, onResearch }) {
         .finally(() => !cancelled && setLoading(false))
     }, 250) // debounce slider drags
     return () => { cancelled = true; clearTimeout(timer) }
-  }, [hours, settings])
+  }, [hours, settings, edits])
 
   const counts = data?.counts
   const material = data?.items.filter((i) => i.tier === 'material') || []
@@ -278,7 +284,9 @@ export default function Today({ onPerson, onResearch }) {
           </h1>
           {counts && (
             <p className="sub">
-              {counts.total} filing{counts.total === 1 ? '' : 's'} across 18 holdings · {counts.routine + counts.folded} set aside as routine or duplicate
+              {counts.total} filing{counts.total === 1 ? '' : 's'} across{' '}
+              <button className="link" onClick={() => setShowPortfolio(true)}>{holdings || '…'} holdings</button>
+              {' · '}{counts.routine + counts.folded} set aside as routine or duplicate
             </p>
           )}
         </div>
@@ -403,6 +411,10 @@ export default function Today({ onPerson, onResearch }) {
       )}
 
       {open && <FilingSheet item={open} startAtAsk={openAtAsk} onClose={() => { setOpen(null); setOpenAtAsk(false) }} onPerson={onPerson} />}
+      {showPortfolio && (
+        <Portfolio onClose={() => setShowPortfolio(false)} onChanged={() => setEdits((n) => n + 1)}
+          onResearch={(sym) => { setShowPortfolio(false); onResearch(sym) }} />
+      )}
       {showSettings && scoring && <SettingsSheet settings={settings} scoring={scoring} onChange={setSettings} onClose={() => setShowSettings(false)} />}
       {move && (
         <Sheet title={move.company} kicker={`Unusual move · ${move.date}`} onClose={() => setMove(null)}>

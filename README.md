@@ -31,7 +31,8 @@ Built for the ENAM Founding AI Engineer build challenge.
 
 | Part | Feature | Uses a model? |
 |---|---|---|
-| **Today** | Digest of filings for 18 holdings, in a time window you choose | Only for filings the rules cannot label |
+| **Today** | Digest of filings for your holdings, in a time window you choose | Only for filings the rules cannot label |
+| | See, add and remove holdings | No |
 | | Ranking into material, notable and routine, with the reasons shown | No |
 | | A slider per filing type to set how much it matters | No |
 | | Market-reaction bonus for filings the stock moved on | No |
@@ -63,8 +64,11 @@ The Today tab shows what changed across the portfolio and what deserves attentio
 - **Custom:** any window from 1 hour to 90 days, entered as a number of hours or days. **Reset** clears the entry and returns to 24h.
 - A link can open a chosen window, for example `/?hours=168`.
 
+### Your portfolio
+Tap the holdings count under the headline to open it. It lists every holding, and lets you **add** one by NSE symbol or **remove** one. A new symbol is checked against screener.in first, so the feed never carries a company the rest of the app cannot fetch, and its registered name is taken from there. Changes apply immediately to the digest, the alerts and the network, and are saved in `backend/data/portfolio.json`, which is not committed. The app ships with 18 holdings.
+
 ### The digest
-- Every NSE announcement for the 18 holdings in the chosen window.
+- Every NSE announcement for your holdings in the chosen window.
 - Each filing is sorted into one of ENAM's 17 categories (results, M&A, management change, litigation and so on).
 - **Material** filings show as cards, **notable** ones as single lines under "Worth a glance", and **routine** ones collapse into a count that can be expanded.
 - The same event filed several times on one day (board outcome, results, press release) is folded into one card marked "+N related filings".
@@ -199,7 +203,7 @@ For a person named in a filing, such as a new director, FINN finds contacts who 
 - **Mobile-first.** A single column up to 560px wide, bottom tab bar, and bottom sheets for detail.
 - **Installable.** A web app manifest lets it be added to a phone's home screen.
 - **Light and dark.** Follows the device setting.
-- **Links into the app:** `/?tab=research&symbol=KPITTECH`, `/?tab=network&person=p05`, `/?hours=168`.
+- **Links into the app:** `/?tab=research&symbol=KPITTECH`, `/?tab=network&person=p05`, `/?hours=168`, `/?portfolio=1`.
 - **State survives tab switches.** A running debate keeps going while you look at another tab.
 - **Graceful without a model key.** The digest, alerts, ranking, network and the research fact sheet all work; only the model steps are missing.
 
@@ -264,7 +268,7 @@ Any [LiteLLM](https://docs.litellm.ai/docs/providers) model string works.
 - `market_reaction_points`: the bonus for a filing the stock moved on.
 
 ### The portfolio (`backend/finn/config.py`)
-`PORTFOLIO` maps each NSE symbol to a display name. `RESEARCH_DEMO` lists the companies outside the portfolio shown in the Research tab.
+`PORTFOLIO` maps each NSE symbol to a display name; it is the starting portfolio, which the app's portfolio sheet then edits. `RESEARCH_DEMO` lists the companies outside the portfolio shown in the Research tab.
 
 ## Project layout
 
@@ -315,6 +319,8 @@ Dockerfile, render.yaml single-service deployment
 | `GET /api/health` | Model settings, whether keys are present, usage since start |
 | `GET /api/models` | Models the investor can choose |
 | `GET /api/portfolio` | Holdings, demo companies, which are researched |
+| `POST /api/portfolio` | Add a holding by NSE symbol |
+| `DELETE /api/portfolio/{symbol}` | Remove a holding |
 | `GET /api/push/digest` | The feed. Parameters: `hours`, `volume_multiple`, `price_move_pct`, `lookback_days`, `weights` |
 | `GET /api/push/settings` | Ranking defaults for the sliders |
 | `GET /api/push/item/{symbol}/{id}` | The detail card for one filing |
@@ -340,6 +346,7 @@ Everything is plain JSON files under `backend/data/`. There is no database.
 | `pull/` | Finished research reports | At the end of a research run | Until re-run | Yes |
 | `snapshot/` | A backup copy of filings, prices and screener.in pages | Only by `scripts/precompute.py` | Until the next run | Yes |
 | `network/` | Contacts added in the app | When a contact is added or removed | Until removed | No |
+| `portfolio.json` | Your holdings, once you edit them | When a holding is added or removed | Until changed | No |
 
 Browser storage holds the alert settings, category weights, the chosen model and the "What I'm working on" note.
 
@@ -390,7 +397,7 @@ Browser storage holds the alert settings, category weights, the chosen model and
 - **Filings, prices, financial tables, transcripts and annual reports are real** and fetched live.
 - **Financial tables come via screener.in.** They are the company's reported figures, standardised by a third party.
 - **Company relationships are fetched, not written.** Competitors are a company's peers on screener.in; its registered name and industry come from the same page. Customer and supplier links are not modelled, because no public source gives them reliably.
-- **Still chosen by hand:** the 18 holdings and their display names, the starting contacts and their expertise tags, and the default ranking scores.
+- **Still chosen by hand:** the starting 18 holdings, the starting contacts and their expertise tags, and the default ranking scores. Holdings and contacts can both be changed in the app.
 
 ## Known limits
 - **Verdict quality depends on the model.** With the free model doing the reasoning, fewer promises are found and verdicts are weaker than with a stronger model.

@@ -176,6 +176,15 @@ h2.section span { text-transform: none; letter-spacing: 0; font-weight: 400; col
 .contact-form .button:disabled { opacity: 0.45; }
 .button.danger { color: var(--down); }
 
+.holdings { display: grid; gap: 2px; margin-top: 10px; }
+.holding { display: flex; align-items: center; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.holding:last-child { border-bottom: 0; }
+.holding-body { flex: 1; min-width: 0; display: grid; }
+.holding-body b { font-size: 14.5px; }
+.holding-body span { font-size: 12px; color: var(--faint); }
+.link.danger { color: var(--down); }
+.link:disabled { opacity: 0.5; }
+
 /* Sheet */
 .sheet-wrap { position: fixed; inset: 0; background: rgb(0 0 0 / 0.42); z-index: 30; display: flex; align-items: flex-end; justify-content: center; animation: fade 0.16s ease-out; }
 .sheet { background: var(--bg); width: 100%; max-width: 560px; max-height: 90dvh; border-radius: 20px 20px 0 0; display: flex; flex-direction: column; animation: rise 0.22s cubic-bezier(0.2, 0.8, 0.2, 1); }

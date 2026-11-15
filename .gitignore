@@ -9,3 +9,4 @@ backend/data/docs/
 backend/data/network/
 .DS_Store
 .pytest_cache/
+backend/data/portfolio.json

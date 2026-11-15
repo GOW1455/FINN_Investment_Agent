@@ -15,10 +15,11 @@ from pydantic import BaseModel, Field
 
 from . import ask as asking
 from . import llm
-from .config import DEFAULT_ALERTS, PORTFOLIO, PULL, RESEARCH_DEMO, ROOT
+from .config import DEFAULT_ALERTS, PORTFOLIO, PULL, RESEARCH_DEMO, ROOT, save_holdings
 from .network import graph
 from .pull import research
 from .push import classify, digest as push
+from .sources import screener
 
 app = FastAPI(title="FINN")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["GET", "POST", "DELETE"], allow_headers=["*"])
@@ -51,10 +52,42 @@ def portfolio():
     done = {p.stem for p in PULL.glob("*.json")}
     return {
         "portfolio": [{"symbol": s, "name": n, "researched": s in done} for s, n in PORTFOLIO.items()],
-        "research_demo": [{"symbol": s, "researched": s in done} for s in RESEARCH_DEMO],
+        "research_demo": [{"symbol": s, "researched": s in done} for s in RESEARCH_DEMO if s not in PORTFOLIO],
         "default_alerts": DEFAULT_ALERTS,
         "investor": graph.investor().get("name", ""),
     }
+
+
+class Holding(BaseModel):
+    symbol: str = Field(min_length=1, max_length=20)
+
+
+@app.post("/api/portfolio")
+async def portfolio_add(body: Holding):
+    """Add a holding. The symbol is checked against screener.in, which also gives its registered name."""
+    symbol = _symbol(body.symbol)
+    if symbol in PORTFOLIO:
+        raise HTTPException(409, f"{symbol} is already in your portfolio")
+    if len(PORTFOLIO) >= 60:
+        raise HTTPException(400, "A portfolio can hold 60 companies")
+    try:
+        info = await run_in_threadpool(screener.company, symbol)
+    except LookupError:
+        raise HTTPException(404, f"{symbol} was not found. Check the NSE symbol.")
+    except Exception:
+        raise HTTPException(502, "Could not reach screener.in just now. Try again in a moment.")
+    PORTFOLIO[symbol] = info.get("name") or symbol
+    save_holdings()
+    return {"symbol": symbol, "name": PORTFOLIO[symbol], "holdings": len(PORTFOLIO)}
+
+
+@app.delete("/api/portfolio/{symbol}")
+def portfolio_remove(symbol: str):
+    symbol = _symbol(symbol)
+    if PORTFOLIO.pop(symbol, None) is None:
+        raise HTTPException(404, f"{symbol} is not in your portfolio")
+    save_holdings()
+    return {"removed": symbol, "holdings": len(PORTFOLIO)}
 
 
 # ---- Push -------------------------------------------------------------------------------------

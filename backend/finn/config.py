@@ -1,4 +1,5 @@
-"""Central configuration: paths, demo portfolio, model routing."""
+"""Central configuration: paths, the portfolio, model routing."""
+import json
 import os
 from pathlib import Path
 
@@ -13,6 +14,7 @@ DOCS = DATA / "docs"            # downloaded PDFs and extracted page text
 PULL = DATA / "pull"            # finished research results, one JSON per ticker
 SNAPSHOT = DATA / "snapshot"    # committed fallbacks so the demo never depends on a scraper
 CONTACTS = DATA / "network" / "contacts.json"    # contacts the investor adds in the app; never committed
+HOLDINGS = DATA / "portfolio.json"               # the portfolio, once the investor edits it in the app
 for _p in (CACHE, DOCS, PULL, SNAPSHOT, CONTACTS.parent):
     _p.mkdir(parents=True, exist_ok=True)
 
@@ -39,6 +41,21 @@ PORTFOLIO = {
     "IRCTC": "IRCTC",
 }
 RESEARCH_DEMO = ["KPITTECH", "LAURUSLABS", "CAMS", "ASTRAL"]
+
+
+def save_holdings() -> None:
+    """Keep the investor's edited portfolio. Every module shares this one dict, so adding or removing a
+    holding here changes the digest, the alerts and the network straight away."""
+    HOLDINGS.write_text(json.dumps(PORTFOLIO, indent=1, ensure_ascii=False))
+
+
+try:                                   # an edited portfolio replaces the starting one
+    _saved = json.loads(HOLDINGS.read_text())
+    if isinstance(_saved, dict):
+        PORTFOLIO.clear()
+        PORTFOLIO.update({str(k): str(v) for k, v in _saved.items()})
+except (OSError, ValueError):
+    pass
 
 # Models. By default every step runs on FINN_FAST_MODEL. Setting FINN_STRONG_MODEL sends only the two
 # reasoning steps (Skeptic, Moderator) to a stronger model. Any LiteLLM model string works; set in backend/.env.
