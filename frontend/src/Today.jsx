@@ -238,6 +238,8 @@ export default function Today({ onPerson, onResearch }) {
   const [data, setData] = useState(null)
   const [error, setError] = useState('')
   const [loading, setLoading] = useState(true)
+  const [streamProgress, setStreamProgress] = useState(null) // {done, total} while streaming
+  const [partialItems, setPartialItems] = useState([])
   const [open, setOpen] = useState(null)
   const [openAtAsk, setOpenAtAsk] = useState(false)
   const [showSettings, setShowSettings] = useState(false)
@@ -255,16 +257,66 @@ export default function Today({ onPerson, onResearch }) {
     try { localStorage.setItem('finn.settings', JSON.stringify(settings)) } catch { /* private mode */ }
     let cancelled = false
     setLoading(true)
+    setStreamProgress(null)
+    setPartialItems([])
     const query = new URLSearchParams({
       hours, volume_multiple: settings.volume_multiple, price_move_pct: settings.price_move_pct,
       lookback_days: settings.lookback_days, weights: Object.entries(settings.weights).map(([id, value]) => `${id}:${value}`).join(','),
     })
+
+    if (hours <= 24) {
+      // 24h is usually warm from cache; just fetch directly
+      const timer = setTimeout(() => {
+        api(`/push/digest?${query}`)
+          .then((d) => { if (!cancelled) { setData(d); setError('') } })
+          .catch((e) => !cancelled && setError(e.message))
+          .finally(() => !cancelled && setLoading(false))
+      }, 250)
+      return () => { cancelled = true; clearTimeout(timer) }
+    }
+
+    // Larger windows: stream symbol-by-symbol so something appears quickly
     const timer = setTimeout(() => {
-      api(`/push/digest?${query}`)
-        .then((d) => { if (!cancelled) { setData(d); setError('') } })
-        .catch((e) => !cancelled && setError(e.message))
-        .finally(() => !cancelled && setLoading(false))
-    }, 250) // debounce slider drags
+      const stream = new EventSource(`/api/push/digest/stream?${query}`)
+      stream.onmessage = (msg) => {
+        if (cancelled) { stream.close(); return }
+        const event = JSON.parse(msg.data)
+        if (event.type === 'start') {
+          setStreamProgress({ done: 0, total: event.total })
+        } else if (event.type === 'symbol') {
+          setStreamProgress({ done: event.done, total: event.total })
+          if (event.items?.length > 0) {
+            setPartialItems((prev) => {
+              // merge new items, keeping highest-priority first; deduplicate by id
+              const seen = new Set(prev.map((i) => i.id))
+              const fresh = event.items.filter((i) => !seen.has(i.id))
+              return [...prev, ...fresh].sort((a, b) => b.priority - a.priority)
+            })
+          }
+        } else if (event.type === 'result_meta') {
+          // First chunk: counts, alerts, nudges — render the shell immediately
+          setData({ ...event.data, items: [], routine: [] })
+          setStreamProgress(null); setPartialItems([])
+        } else if (event.type === 'result_items') {
+          setData((prev) => prev ? { ...prev, items: [...prev.items, ...event.items] } : prev)
+        } else if (event.type === 'result_routine') {
+          setData((prev) => prev ? { ...prev, routine: [...(prev.routine || []), ...event.groups] } : prev)
+        } else if (event.type === 'result_done') {
+          setLoading(false); stream.close()
+        } else if (event.type === 'result') {
+          // Fallback for non-chunked responses (e.g. OFFLINE mode)
+          setData(event.data); setError(''); setStreamProgress(null); setPartialItems([])
+          setLoading(false); stream.close()
+        } else if (event.type === 'error') {
+          setError(event.text); setStreamProgress(null); setLoading(false); stream.close()
+        }
+      }
+      stream.onerror = () => {
+        if (!cancelled) { setError('Could not load the digest'); setStreamProgress(null); setLoading(false) }
+        stream.close()
+      }
+      return () => { stream.close() }
+    }, 250)
     return () => { cancelled = true; clearTimeout(timer) }
   }, [hours, settings, edits])
 
@@ -319,7 +371,22 @@ export default function Today({ onPerson, onResearch }) {
         </form>
       )}
 
-      {loading && !data && <Spinner label="Reading the exchange" />}
+      {loading && !data && !streamProgress && <Spinner label="Reading the exchange" />}
+      {streamProgress && (
+        <div className="stream-progress">
+          <div className="stream-bar" style={{ width: `${Math.round(streamProgress.done / streamProgress.total * 100)}%` }} />
+          <span className="stream-label">Loading {streamProgress.done} of {streamProgress.total} companies…</span>
+        </div>
+      )}
+      {partialItems.length > 0 && !data && (
+        <div className="partial-feed">
+          {partialItems.filter((i) => i.tier === 'material').map((item) => (
+            <FilingCard key={item.id} item={item}
+              onOpen={(it) => { setOpenAtAsk(false); setOpen(it) }}
+              onAsk={(it) => { setOpenAtAsk(true); setOpen(it) }} />
+          ))}
+        </div>
+      )}
       {error && <p className="error">Could not load the digest: {error}</p>}
 
       {data && (

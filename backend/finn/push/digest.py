@@ -1,10 +1,10 @@
 """Push: the windowed digest, the alert check, and the detail card for one filing."""
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 from .. import llm
-from ..config import DEFAULT_ALERTS, OFFLINE, PORTFOLIO
+from ..config import DEFAULT_ALERTS, OFFLINE, PORTFOLIO, WEIGHTS
 from ..network import graph
 from ..sources import docs, nse, prices
 from . import classify, enrich
@@ -26,7 +26,8 @@ def _fetch_all(symbols) -> tuple[list[dict], list[str]]:
         except Exception:
             return [], symbol
 
-    with ThreadPoolExecutor(max_workers=6) as pool:
+    workers = min(len(symbols), 18)
+    with ThreadPoolExecutor(max_workers=workers) as pool:
         results = list(pool.map(one, symbols))
     rows = [row for batch, _ in results for row in batch]
     failed = [symbol for _, symbol in results if symbol]
@@ -57,7 +58,8 @@ def _price_history(symbols) -> dict:
         except Exception:
             return symbol, None
 
-    with ThreadPoolExecutor(max_workers=6) as pool:
+    workers = min(len(symbols), 18)
+    with ThreadPoolExecutor(max_workers=workers) as pool:
         return {symbol: bars for symbol, bars in pool.map(one, symbols) if bars}
 
 
@@ -71,18 +73,11 @@ def _alerts(bars_by_symbol: dict, thresholds: dict) -> list[dict]:
     return moves
 
 
-def digest(hours: int = 24, weights: dict | None = None, thresholds: dict | None = None,
-           symbols: list[str] | None = None) -> dict:
-    symbols = symbols or list(PORTFOLIO)
-    thresholds = {**DEFAULT_ALERTS, **(thresholds or {})}
-    rows, failed = _fetch_all(symbols)
-    bars_by_symbol = _price_history(symbols)
-    now = _now_ist()
-    if OFFLINE and rows:   # freeze the clock at the newest filing in the snapshot
-        now = datetime.strptime(max(row["time"] for row in rows), "%Y-%m-%d %H:%M:%S")
+def _process_digest(rows: list, bars_by_symbol: dict, hours: int, weights: dict | None,
+                    thresholds: dict, symbols: list, failed: list, now: datetime) -> dict:
+    """Build the full ranked digest from already-fetched rows and price bars."""
     since = (now - timedelta(hours=hours)).strftime("%Y-%m-%d %H:%M:%S")
     in_window = [dict(row) for row in rows if row["time"] >= since]
-    # A filing the market visibly reacted to ranks higher. "Reacted" uses the investor's own alert thresholds.
     reactions = {}
     for row in in_window:
         bars = bars_by_symbol.get(row["symbol"])
@@ -91,8 +86,25 @@ def digest(hours: int = 24, weights: dict | None = None, thresholds: dict | None
         if move:
             reactions[row["id"]] = move
     items = _fold_related(classify.classify(in_window, weights, reactions))
+
+    # Boost/penalise priority based on portfolio weight. A company with twice the average weight
+    # gets up to +10 points; one with half gets up to -10 points. Re-apply tiers after adjustment.
+    if WEIGHTS:
+        avg_w = sum(WEIGHTS.values()) / len(WEIGHTS)
+        tiers = classify.SETTINGS["tiers"]
+        for item in items:
+            w = WEIGHTS.get(item["symbol"], avg_w)
+            bonus = round((w - avg_w) / max(avg_w, 0.01) * 10)
+            if bonus:
+                item["priority"] = max(0, min(100, item["priority"] + bonus))
+                item.setdefault("why", []).append(
+                    f"{'+'if bonus > 0 else ''}{bonus} for {w}% portfolio weight")
+                item["tier"] = ("material" if item["priority"] >= tiers["material"]
+                                else "notable" if item["priority"] >= tiers["notable"]
+                                else "routine")
+
     needs_network = {a["symbol"] for a in items if a["tier"] != "routine" and a["category"] in _NETWORK_CATEGORIES}
-    with ThreadPoolExecutor(max_workers=6) as pool:      # peers come from screener.in; fetch them side by side
+    with ThreadPoolExecutor(max_workers=6) as pool:
         list(pool.map(lambda s: graph.competitors(s), needs_network))
     for item in items:
         item["company"] = PORTFOLIO.get(item["symbol"], item["company"])
@@ -103,14 +115,15 @@ def digest(hours: int = 24, weights: dict | None = None, thresholds: dict | None
                 item["results"] = enrich.results_from_screener(item["symbol"], filed=item["time"])
             except Exception:
                 item["results"] = None
-
     items.sort(key=lambda a: (-a["priority"], a["time"]), reverse=False)
     surfaced = [a for a in items if a["tier"] != "routine"]
     routine = [a for a in items if a["tier"] == "routine"]
-    routine_groups = {}
+    routine_groups: dict = {}
     for item in routine:
-        routine_groups.setdefault(item["label"], []).append(item)
-
+        # Routine items are only shown as "Company — subject" links; strip everything else
+        routine_groups.setdefault(item["label"], []).append(
+            {"id": item["id"], "url": item["url"], "company": item["company"], "subject": item["subject"]}
+        )
     moves = _alerts(bars_by_symbol, thresholds)
     return {
         "generated_at": now.strftime("%Y-%m-%d %H:%M"), "snapshot": OFFLINE, "window_hours": hours, "thresholds": thresholds,
@@ -125,6 +138,98 @@ def digest(hours: int = 24, weights: dict | None = None, thresholds: dict | None
         "nudges": graph.keep_warm(items),
         "failed_symbols": failed,
     }
+
+
+def digest(hours: int = 24, weights: dict | None = None, thresholds: dict | None = None,
+           symbols: list[str] | None = None) -> dict:
+    symbols = symbols or list(PORTFOLIO)
+    thresholds = {**DEFAULT_ALERTS, **(thresholds or {})}
+    rows, failed = _fetch_all(symbols)
+    bars_by_symbol = _price_history(symbols)
+    now = _now_ist()
+    if OFFLINE and rows:
+        now = datetime.strptime(max(row["time"] for row in rows), "%Y-%m-%d %H:%M:%S")
+    return _process_digest(rows, bars_by_symbol, hours, weights, thresholds, symbols, failed, now)
+
+
+_CHUNK = 15  # items per batch — keeps each SSE event under ~20 KB
+
+
+def _emit_chunked(result: dict, emit) -> None:
+    """Send the digest result as several small events instead of one large blob.
+
+    Sequence:
+      result_meta   – counts, alerts, nudges, thresholds and other scalar fields
+      result_items  – surfaced items (material + notable) in batches of _CHUNK
+      result_routine – routine groups
+      result_done   – signals the stream is complete
+    """
+    meta = {k: v for k, v in result.items() if k not in ("items", "routine")}
+    emit({"type": "result_meta", "data": meta})
+    items = result.get("items", [])
+    for i in range(0, max(len(items), 1), _CHUNK):
+        emit({"type": "result_items", "items": items[i: i + _CHUNK]})
+    routine = result.get("routine", [])
+    for i in range(0, max(len(routine), 1), _CHUNK):
+        emit({"type": "result_routine", "groups": routine[i: i + _CHUNK]})
+    emit({"type": "result_done"})
+
+
+def digest_stream(hours: int = 24, weights: dict | None = None, thresholds: dict | None = None,
+                  symbols: list[str] | None = None, emit=lambda e: None) -> None:
+    """Fetch all symbols in parallel; emit per-symbol progress events, then the final ranked result.
+
+    Events:
+      {"type": "start", "total": N}
+      {"type": "symbol", "symbol": "...", "done": N, "total": N, "items": [...material+notable...]}
+      {"type": "result", "data": {...}}   ← final ranked, folded, fully enriched digest
+    """
+    symbols = symbols or list(PORTFOLIO)
+    thresholds = {**DEFAULT_ALERTS, **(thresholds or {})}
+
+    if OFFLINE:
+        emit({"type": "result", "data": digest(hours, weights, thresholds, symbols)})
+        return
+
+    now = _now_ist()
+    since = (now - timedelta(hours=hours)).strftime("%Y-%m-%d %H:%M:%S")
+    total = len(symbols)
+    emit({"type": "start", "total": total})
+
+    all_rows: dict[str, list] = {}
+    bars_by_symbol: dict[str, list] = {}
+    failed: list[str] = []
+    nse_done = 0
+
+    with ThreadPoolExecutor(max_workers=18) as pool:
+        nse_futs = {pool.submit(nse.announcements, s, _HISTORY_DAYS): s for s in symbols}
+        price_futs = {pool.submit(prices.history, s): s for s in symbols}
+
+        for fut in as_completed({**nse_futs, **price_futs}):
+            is_nse = fut in nse_futs
+            symbol = nse_futs[fut] if is_nse else price_futs[fut]
+
+            if is_nse:
+                try:
+                    all_rows[symbol] = fut.result()
+                except Exception:
+                    all_rows[symbol] = []
+                    failed.append(symbol)
+                nse_done += 1
+                in_window = [dict(r) for r in all_rows[symbol] if r["time"] >= since]
+                preview = [i for i in classify.classify(in_window, weights) if i["tier"] != "routine"]
+                for item in preview:
+                    item["company"] = PORTFOLIO.get(item["symbol"], item["company"])
+                emit({"type": "symbol", "symbol": symbol, "done": nse_done, "total": total, "items": preview})
+            else:  # price future
+                try:
+                    bars_by_symbol[symbol] = fut.result()
+                except Exception:
+                    pass
+
+    rows = [r for s in symbols for r in all_rows.get(s, [])]
+    result = _process_digest(rows, bars_by_symbol, hours, weights, thresholds, symbols, failed, now)
+    _emit_chunked(result, emit)
 
 
 _BRIEF_SYSTEM = """You brief a busy investor on one stock-exchange filing. Use only the filing text given.

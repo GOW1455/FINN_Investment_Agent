@@ -15,7 +15,7 @@ from pydantic import BaseModel, Field
 
 from . import ask as asking
 from . import llm
-from .config import DEFAULT_ALERTS, PORTFOLIO, PULL, RESEARCH_DEMO, ROOT, save_holdings
+from .config import DEFAULT_ALERTS, PORTFOLIO, PULL, RESEARCH_DEMO, ROOT, WEIGHTS, save_holdings
 from .network import graph
 from .pull import research
 from .push import classify, digest as push
@@ -23,6 +23,18 @@ from .sources import screener
 
 app = FastAPI(title="FINN")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["GET", "POST", "DELETE"], allow_headers=["*"])
+
+
+@app.on_event("startup")
+async def _warmup():
+    """Pre-fetch NSE filings and prices for the whole portfolio in the background so the first user
+    request is served from cache rather than waiting for 18 live fetches."""
+    def _run():
+        try:
+            push.digest()
+        except Exception:
+            pass
+    threading.Thread(target=_run, daemon=True).start()
 _SYMBOL = re.compile(r"^[A-Z0-9&-]{1,20}$")
 
 
@@ -50,8 +62,11 @@ def models():
 @app.get("/api/portfolio")
 def portfolio():
     done = {p.stem for p in PULL.glob("*.json")}
+    total_w = sum(WEIGHTS.values()) or 1
     return {
-        "portfolio": [{"symbol": s, "name": n, "researched": s in done} for s, n in PORTFOLIO.items()],
+        "portfolio": [{"symbol": s, "name": n, "weight": WEIGHTS.get(s, 0),
+                       "weight_pct": round(WEIGHTS.get(s, 0) / total_w * 100, 1),
+                       "researched": s in done} for s, n in PORTFOLIO.items()],
         "research_demo": [{"symbol": s, "researched": s in done} for s in RESEARCH_DEMO if s not in PORTFOLIO],
         "default_alerts": DEFAULT_ALERTS,
         "investor": graph.investor().get("name", ""),
@@ -60,6 +75,11 @@ def portfolio():
 
 class Holding(BaseModel):
     symbol: str = Field(min_length=1, max_length=20)
+    weight: float = Field(default=0, ge=0, le=100)
+
+
+class WeightUpdate(BaseModel):
+    weight: float = Field(ge=0, le=100)
 
 
 @app.post("/api/portfolio")
@@ -77,8 +97,42 @@ async def portfolio_add(body: Holding):
     except Exception:
         raise HTTPException(502, "Could not reach screener.in just now. Try again in a moment.")
     PORTFOLIO[symbol] = info.get("name") or symbol
+    # Default weight: equal share of whatever is left, or the same as the average existing weight
+    avg = round(sum(WEIGHTS.values()) / max(len(WEIGHTS), 1), 1)
+    WEIGHTS[symbol] = body.weight if body.weight > 0 else avg
     save_holdings()
-    return {"symbol": symbol, "name": PORTFOLIO[symbol], "holdings": len(PORTFOLIO)}
+    return {"symbol": symbol, "name": PORTFOLIO[symbol], "weight": WEIGHTS[symbol], "holdings": len(PORTFOLIO)}
+
+
+@app.patch("/api/portfolio/{symbol}")
+def portfolio_weight(symbol: str, body: WeightUpdate):
+    """Update a single holding's portfolio weight (0–100)."""
+    symbol = _symbol(symbol)
+    if symbol not in PORTFOLIO:
+        raise HTTPException(404, f"{symbol} is not in your portfolio")
+    WEIGHTS[symbol] = body.weight
+    save_holdings()
+    return {"symbol": symbol, "weight": WEIGHTS[symbol]}
+
+
+class WeightMap(BaseModel):
+    weights: dict[str, float]
+
+@app.put("/api/portfolio/weights")
+def portfolio_weights_bulk(body: WeightMap):
+    """Replace all portfolio weights at once. Weights must sum to 100 (±0.5 for rounding)."""
+    total = sum(body.weights.values())
+    if abs(total - 100) > 0.5:
+        raise HTTPException(400, f"Weights must sum to 100 (got {round(total, 1)})")
+    for symbol, w in body.weights.items():
+        s = _symbol(symbol)
+        if s not in PORTFOLIO:
+            raise HTTPException(404, f"{s} is not in your portfolio")
+        if w < 0 or w > 100:
+            raise HTTPException(400, f"Weight for {s} must be between 0 and 100")
+        WEIGHTS[s] = w
+    save_holdings()
+    return {"weights": dict(WEIGHTS)}
 
 
 @app.delete("/api/portfolio/{symbol}")
@@ -86,6 +140,7 @@ def portfolio_remove(symbol: str):
     symbol = _symbol(symbol)
     if PORTFOLIO.pop(symbol, None) is None:
         raise HTTPException(404, f"{symbol} is not in your portfolio")
+    WEIGHTS.pop(symbol, None)
     save_holdings()
     return {"removed": symbol, "holdings": len(PORTFOLIO)}
 
@@ -119,6 +174,47 @@ def push_settings():
         "tiers": classify.SETTINGS["tiers"],
         "market_reaction_points": classify.SETTINGS["market_reaction_points"],
     }
+
+
+@app.get("/api/push/digest/stream")
+def push_digest_stream(hours: int = Query(24, ge=1, le=24 * 90),
+                       volume_multiple: float = Query(DEFAULT_ALERTS["volume_multiple"], ge=1, le=20),
+                       price_move_pct: float = Query(DEFAULT_ALERTS["price_move_pct"], ge=0.5, le=30),
+                       lookback_days: int = Query(DEFAULT_ALERTS["lookback_days"], ge=5, le=60),
+                       weights: str = ""):
+    """Server-sent events: one per symbol as its data arrives, then the final ranked result."""
+    chosen = {}
+    for pair in weights.split(","):
+        category, _, value = pair.partition(":")
+        if category in classify.LABELS and value.isdigit() and 0 <= int(value) <= 100:
+            chosen[category] = int(value)
+    thresholds = {"volume_multiple": volume_multiple, "price_move_pct": price_move_pct,
+                  "lookback_days": lookback_days}
+    events: queue.Queue = queue.Queue()
+
+    def work():
+        try:
+            push.digest_stream(hours, chosen or None, thresholds, emit=events.put)
+        except Exception as error:
+            events.put({"type": "error", "text": str(error)})
+        finally:
+            events.put(None)
+
+    threading.Thread(target=work, daemon=True).start()
+
+    def stream():
+        while True:
+            try:
+                event = events.get(timeout=15)
+            except queue.Empty:
+                yield ": keep-alive\n\n"
+                continue
+            if event is None:
+                break
+            yield f"data: {json.dumps(event, ensure_ascii=False)}\n\n"
+
+    return StreamingResponse(stream(), media_type="text/event-stream",
+                             headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
 
 
 @app.get("/api/push/item/{symbol}/{item_id}")

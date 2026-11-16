@@ -19,41 +19,46 @@ for _p in (CACHE, DOCS, PULL, SNAPSHOT, CONTACTS.parent):
     _p.mkdir(parents=True, exist_ok=True)
 
 # Demo portfolio: NSE symbol -> display name. Sector, peers and registered name are fetched, not written here.
-# The engine itself takes any NSE symbol.
 PORTFOLIO = {
-    "RELIANCE": "Reliance Industries",
-    "HDFCBANK": "HDFC Bank",
-    "BAJFINANCE": "Bajaj Finance",
-    "INFY": "Infosys",
-    "TCS": "Tata Consultancy Services",
-    "BHARTIARTL": "Bharti Airtel",
-    "LT": "Larsen & Toubro",
-    "ITC": "ITC",
+    "RELIANCE":  "Reliance Industries",
+    "HDFCBANK":  "HDFC Bank",
+    "TCS":       "Tata Consultancy Services",
+    "INFY":      "Infosys",
+    "BAJFINANCE":"Bajaj Finance",
+    "BHARTIARTL":"Bharti Airtel",
+    "ITC":       "ITC",
     "SUNPHARMA": "Sun Pharma",
-    "ASIANPAINT": "Asian Paints",
-    "PIDILITIND": "Pidilite Industries",
-    "DEEPAKNTR": "Deepak Nitrite",
-    "TITAN": "Titan Company",
-    "TRENT": "Trent",
-    "DIXON": "Dixon Technologies",
-    "POLYCAB": "Polycab India",
-    "CDSL": "CDSL",
-    "IRCTC": "IRCTC",
+    "TITAN":     "Titan Company",
+    "ASIANPAINT":"Asian Paints",
 }
+# Portfolio weights: each symbol's share of the portfolio (0–100). They don't need to sum to 100 —
+# they are used relatively. Defaults to equal weight across all holdings.
+WEIGHTS: dict[str, float] = {s: round(100.0 / len(PORTFOLIO), 1) for s in PORTFOLIO}
+
 RESEARCH_DEMO = ["KPITTECH", "LAURUSLABS", "CAMS", "ASTRAL"]
 
 
 def save_holdings() -> None:
-    """Keep the investor's edited portfolio. Every module shares this one dict, so adding or removing a
-    holding here changes the digest, the alerts and the network straight away."""
-    HOLDINGS.write_text(json.dumps(PORTFOLIO, indent=1, ensure_ascii=False))
+    """Persist the portfolio and weights. Both dicts are live-shared, so changes take effect immediately."""
+    HOLDINGS.write_text(json.dumps({"names": dict(PORTFOLIO), "weights": dict(WEIGHTS)},
+                                   indent=1, ensure_ascii=False))
 
 
-try:                                   # an edited portfolio replaces the starting one
+try:
     _saved = json.loads(HOLDINGS.read_text())
     if isinstance(_saved, dict):
-        PORTFOLIO.clear()
-        PORTFOLIO.update({str(k): str(v) for k, v in _saved.items()})
+        if "names" in _saved:                          # new format
+            PORTFOLIO.clear()
+            PORTFOLIO.update({str(k): str(v) for k, v in _saved["names"].items()})
+            WEIGHTS.clear()
+            WEIGHTS.update({str(k): float(v) for k, v in (_saved.get("weights") or {}).items()})
+        else:                                          # old format: plain {symbol: name}
+            PORTFOLIO.clear()
+            PORTFOLIO.update({str(k): str(v) for k, v in _saved.items()})
+        # Fill in missing weights at equal share
+        avg = round(100.0 / max(len(PORTFOLIO), 1), 1)
+        for s in PORTFOLIO:
+            WEIGHTS.setdefault(s, avg)
 except (OSError, ValueError):
     pass
 
